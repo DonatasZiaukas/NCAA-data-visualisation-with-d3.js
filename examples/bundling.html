@@ -1,0 +1,209 @@
+<!doctype html>
+<head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+  <meta content="utf-8" http-equiv="encoding">
+</head>
+<title>Bundling Example</title>
+<link rel="stylesheet" type="text/css" href="../d3.parcoords.css">
+<link rel="stylesheet" type="text/css" href="../d3.slider.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="lib/sylvester.js"></script>
+<script src="lib/lodash.js"></script>
+<script src="lib/jquery-1.7.min.js"></script>
+<script src="lib/underscore.js"></script>
+<script src="lib/underscore.math.js"></script>
+<script src="lib/d3.svg.multibrush.js"></script>
+<script src="lib/divgrid.js"></script>
+<script src="../d3.parcoords.js"></script>
+<script src="../d3.slider.js"></script>
+
+
+<style>
+/* data table styles */
+#grid { height: 198px; }
+.row, .header { clear: left; font-size: 12px; line-height: 18px; height: 18px; }
+.row:nth-child(odd) { background: rgba(0,0,0,0.05); }
+.header { font-weight: bold; }
+.cell { float: left; overflow: hidden; white-space: nowrap; width: 100px; height: 18px; }
+.col-0 { width: 180px; }
+</style>
+
+
+
+
+<h3>Bundling</h3>
+Bundling violates the point-line duality but can be used to visualize clusters using geometry only, leaving the color channel free
+for other uses (e.g. statistical coloring, see below). Bundling can be achieved using different algorithms. Details on the algorithm
+used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</a>
+<p>Trying to learn how to output some value from the dataset <strong id="dataPoint">0.0</strong>
+
+<p>Use this slider to change the curve smoothness. The current value is <strong id="smooth">0.0</strong><br/>
+<input type="range" min="0" max="0.25" value="0.0" step="0.01" id="smoothness"/>
+<p>Use this slider to change the bundling strength. The current value is <strong id="strength">0</strong><br/>
+<input type="range" min="0" max="1" value="0" step="0.05" id="bundling"/>
+<div id="bundleDimension">Bundle using clusters determined by: </div>
+<div id="example0" class="parcoords" style="width:960px;height:200px"></div>
+<div id="example1" class="parcoords" style="width:960px;height:200px"></div>
+<div id="grid0"></div>
+<div id="grid1"></div>
+<div id="data_container"></div>
+
+
+<p>
+	<label>Win/Lose ratio between table1 and teble2:</label>
+	<button id="compare">Compare</button>
+</p>
+
+
+<p id="demo"></p>
+
+<script>
+
+
+//interact with this variable from a javascript console
+var pc0;
+var pc1;
+var pc2;
+var subset_data0 = 1;
+var subset_data1 = null;
+//console.log(d3.sum(test.blk));
+var dict = {};
+
+d3.csv('data/cars.csv', function(data) {
+var pc3;
+pc2 = data;
+pc0 = d3.parcoords()("#example0")
+  .data(data)
+	.bundlingStrength(0) // set bundling strength
+	.smoothness(0)
+	.bundleDimension("cylinders")
+	.showControlPoints(false)
+	.hideAxis(["name"])
+	.render()
+	.brushMode("1D-axes")
+	.reorderable()
+	.interactive();
+
+pc1 = d3.parcoords()("#example1")
+  .data(data)
+	.bundlingStrength(0) // set bundling strength
+	.smoothness(0)
+	.bundleDimension("cylinders")
+	.showControlPoints(false)
+	.hideAxis(["name"])
+	.render()
+	.brushMode("1D-axes")
+	.reorderable()
+	.interactive();
+     
+    // create data table, row hover highlighting
+var grid0 = d3.divgrid();
+var grid1 = d3.divgrid();
+
+d3.select("#grid0")
+       .datum(data.slice(0,5))
+       .call(grid0)
+       .selectAll(".row")
+       .on({
+         "mouseover": function(d0) { pc0.highlight([d0]) },
+         "mouseout": pc0.unhighlight
+    });
+
+d3.select("#grid1")
+       .datum(data.slice(0,5))
+       .call(grid1)
+       .selectAll(".row")
+       .on({
+         "mouseover": function(d1) { pc0.highlight([d1]) },
+         "mouseout": pc1.unhighlight
+    });
+
+      // update data table on brush event
+pc0.on("brush", function(d00) {
+       d3.select("#grid0")
+      .datum(d00.slice(0,5))
+      .call(grid0)
+      .selectAll(".row")
+      .on({
+        "mouseover": function(d00) { pc0.highlight([d00]) },
+        "mouseout": pc0.unhighlight
+      });
+
+      $("#data_container").data('test', d00);
+      myData = $("#data_container").data('test');
+  });
+ 
+ //var show = d3.select()
+//myData = $("#data_container").data('test');
+console.log(myData);
+    
+    pc1.on("brush", function(d1) {
+       d3.select("#grid1")
+      .datum(d1.slice(0,5))
+      .call(grid1)
+  //    .selectAll(".row")
+   //   .on({
+   //     "mouseover": function(d1) { pc1.highlight([d1]) },
+   //     "mouseout": pc1.unhighlight
+   //   });
+   // subset_data1 = d1;
+/*
+      var show = d3.select("#dataPoint").data(d)
+              .text(d3.min(d, function(d1){
+              	return d1.blk;
+              }));
+
+ */ 
+// console.log(pc2.length);
+});
+ //end of the main function
+
+console.log(pc2.length);
+ 
+	// smoothness
+	d3.select("#smoothness").on("change", function() {
+		d3.select("#smooth").text(this.value);
+		pc0.smoothness(this.value).render();
+		pc1.smoothness(this.value).render();
+	});
+	
+	// bundling strength slider
+	d3.select("#bundling").on("change", function() {
+		d3.select("#strength").text(this.value);
+		pc0.bundlingStrength(this.value).render();
+		pc1.bundlingStrength(this.value).render();
+	});
+	// data point
+	//d3.select("#dataPoint").text(d3.sum(data.fgm));
+	
+	var select0 = d3.select("#bundleDimension").append("select").on("change", changeBundle0);
+	var select1 = d3.select("#bundleDimension").append("select").on("change", changeBundle1);
+	
+	var options0 = select0.selectAll('option')
+		.data(d3.keys(pc0.dimensions()));
+
+	var options1 = select1.selectAll('option')
+		.data(d3.keys(pc1.dimensions()));
+	
+	options0
+		.enter()
+		.append("option")
+		.attr("value", function(d0) {return d0;})
+		.text(function(d0) {return d0;});
+
+	options1
+		.enter()
+		.append("option")
+		.attr("value", function(d1) {return d1;})
+		.text(function(d1) {return d1;});
+	
+	function changeBundle0() {
+		pc0.bundleDimension(this.value);
+	}
+	function changeBundle1() {
+		pc1.bundleDimension(this.value);
+	}
+});
+</script>

@@ -1,0 +1,76 @@
+<!doctype html>
+<head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+  <meta content="utf-8" http-equiv="encoding">
+</head>
+<title>Brushing Example</title>
+<link rel="stylesheet" type="text/css" href="../d3.parcoords.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="lib/d3.js"></script>
+<script src="lib/d3.svg.multibrush.js"></script>
+<script src="../d3.parcoords.js"></script>
+<div id="example" class="parcoords" style="width:960px;height:200px;"></div>
+<p>Loads an external <a href="data/par_test.csv">csv file</a>, creates a custom <a href="https://github.com/mbostock/d3/wiki/Quantitative-Scales#wiki-quantitative">quantitative color scale</a> using <a href="http://bl.ocks.org/3014589">L*a*b interpolation</a>, and enables brushing.
+
+<p>
+  <label for="sltBrushMode">Brush mode:</label>
+  <select id="sltBrushMode">
+  </select>
+  <label id="lblPredicate" for="sltPredicate">Predicate:</label>
+  <select id="sltPredicate">
+    <option>AND</option>
+    <option>OR</option>
+  </select>
+  <button id="btnReset">Reset Brushes</button>
+</p>
+
+<p id="pStrums" style="visibility: hidden;">Strumming is a 2D selection brushing method, also called pinches by Alfred Inselberg.
+You start a strum be clicking and dragging within one of the segments (area between two axes).
+After releasing the mouse button, the selection will contain all lines that pass through all of the active strums.
+
+
+
+<script>
+// quantitative color scale
+var blue_to_brown = d3.scale.linear()
+  .domain([6, 16])
+  .range(["steelblue", "brown"])
+  .interpolate(d3.interpolateLab);
+
+var color = function(d) { return blue_to_brown(d['or']); };
+
+var parcoords = d3.parcoords()("#example")
+    .color(color)
+    .alpha(0.4);
+
+// load csv file and create the chart
+d3.csv('data/par_test.csv', function(data) {
+	parcoords 
+	  .data(data)
+	  .render()
+	  .brushMode("1D-axes"); //enable brushing
+
+	// create data table, row hover highlighting
+	var grid = d3.divgrid();
+	d3.select("#grid")
+	  .datum(data.slice(0,10))
+	  .call(grid)
+	  .selectAll(".row")
+	  .on({
+	  	"mouseover": function(d) { parcoords.highlight([d]) },
+	  	"mouseout": parcoords.unhighlight
+	  });
+	// update data table on brush event
+	parcoords.on("brush", function(d) {
+		d3.select("#grid")
+		   .datum(d.slice(0,10))
+		   .call(grid)
+		   .selectAll(".row")
+		   .on({
+		   	"mouseover": function(d) { parcoords.highlight([d]) },
+		   	"mouseout": parcoords.unhighlight
+		   });
+	});
+});
+
+</script>
