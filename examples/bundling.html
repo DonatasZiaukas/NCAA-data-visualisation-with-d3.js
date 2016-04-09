@@ -62,18 +62,11 @@ used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</
 <script>
 
 
-//interact with this variable from a javascript console
+
 var pc0;
-var pc1;
-var pc2;
-var subset_data0 = 1;
-var subset_data1 = null;
-//console.log(d3.sum(test.blk));
-var dict = {};
 
 d3.csv('data/cars.csv', function(data) {
-var pc3;
-pc2 = data;
+
 pc0 = d3.parcoords()("#example0")
   .data(data)
 	.bundlingStrength(0) // set bundling strength
@@ -121,46 +114,35 @@ d3.select("#grid1")
     });
 
       // update data table on brush event
-pc0.on("brush", function(d00) {
+    
+pc0.on("brush", function(d0) {
        d3.select("#grid0")
-      .datum(d00.slice(0,5))
+      .datum(d0.slice(0,5))
       .call(grid0)
       .selectAll(".row")
       .on({
-        "mouseover": function(d00) { pc0.highlight([d00]) },
+        "mouseover": function(d0) { pc0.highlight([d0]) },
         "mouseout": pc0.unhighlight
       });
-
-      $("#data_container").data('test', d00);
-      myData = $("#data_container").data('test');
+     
   });
- 
- //var show = d3.select()
-//myData = $("#data_container").data('test');
-console.log(myData);
+
+
     
-    pc1.on("brush", function(d1) {
+pc1.on("brush", function(d1) {
        d3.select("#grid1")
       .datum(d1.slice(0,5))
       .call(grid1)
-  //    .selectAll(".row")
-   //   .on({
-   //     "mouseover": function(d1) { pc1.highlight([d1]) },
-   //     "mouseout": pc1.unhighlight
-   //   });
-   // subset_data1 = d1;
-/*
-      var show = d3.select("#dataPoint").data(d)
-              .text(d3.min(d, function(d1){
-              	return d1.blk;
-              }));
+      .selectAll(".row")
+      .on({
+        "mouseover": function(d1) { pc1.highlight([d1]) },
+        "mouseout": pc1.unhighlight
+      });
 
- */ 
-// console.log(pc2.length);
 });
- //end of the main function
-
-console.log(pc2.length);
+ 
+     var data1 = document.querySelector('#grid0').__data__;
+     var data2 = document.querySelector('#grid1').__data__;
  
 	// smoothness
 	d3.select("#smoothness").on("change", function() {
@@ -175,8 +157,7 @@ console.log(pc2.length);
 		pc0.bundlingStrength(this.value).render();
 		pc1.bundlingStrength(this.value).render();
 	});
-	// data point
-	//d3.select("#dataPoint").text(d3.sum(data.fgm));
+	
 	
 	var select0 = d3.select("#bundleDimension").append("select").on("change", changeBundle0);
 	var select1 = d3.select("#bundleDimension").append("select").on("change", changeBundle1);
@@ -199,11 +180,19 @@ console.log(pc2.length);
 		.attr("value", function(d1) {return d1;})
 		.text(function(d1) {return d1;});
 	
+    d3.select("#grid1").style("visibility", "hidden");
+
 	function changeBundle0() {
 		pc0.bundleDimension(this.value);
 	}
 	function changeBundle1() {
 		pc1.bundleDimension(this.value);
 	}
+	var test_function = function(selection) {
+		return console.log(selection);
+	}
 });
+
 </script>
+
+
