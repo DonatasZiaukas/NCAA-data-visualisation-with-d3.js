@@ -44,11 +44,13 @@ used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</
 <p>Use this slider to change the bundling strength. The current value is <strong id="strength">0</strong><br/>
 <input type="range" min="0" max="1" value="0" step="0.05" id="bundling"/>
 <div id="bundleDimension">Bundle using clusters determined by: </div>
-<div id="example0" class="parcoords" style="width:960px;height:200px"></div>
-<div id="example1" class="parcoords" style="width:960px;height:200px"></div>
-<div id="grid0"></div>
-<div id="grid1"></div>
+<div id="example0" class="parcoords" style="width:1140px;height:200px"></div>
+<div id="example1" class="parcoords" style="width:1140px;height:200px"></div>
+<div id="grid0" style="width:1140px;height:250px"></div>
+<div id="grid1" style="width:1140px;height:250px"></div>
 <div id="data_container"></div>
+<div id="grid01"></div>
+<div id="grid11"></div>
 
 
 <p>
@@ -65,15 +67,15 @@ used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</
 
 var pc0;
 
-d3.csv('data/cars.csv', function(data) {
+d3.csv('data/avg2016stats.csv', function(data) {
 
 pc0 = d3.parcoords()("#example0")
   .data(data)
 	.bundlingStrength(0) // set bundling strength
 	.smoothness(0)
-	.bundleDimension("cylinders")
+	.bundleDimension("or")
 	.showControlPoints(false)
-	.hideAxis(["name"])
+	.hideAxis(["team"])
 	.render()
 	.brushMode("1D-axes")
 	.reorderable()
@@ -83,66 +85,128 @@ pc1 = d3.parcoords()("#example1")
   .data(data)
 	.bundlingStrength(0) // set bundling strength
 	.smoothness(0)
-	.bundleDimension("cylinders")
+	.bundleDimension("or")
 	.showControlPoints(false)
-	.hideAxis(["name"])
+	.hideAxis(["team"])
 	.render()
 	.brushMode("1D-axes")
 	.reorderable()
 	.interactive();
      
     // create data table, row hover highlighting
-var grid0 = d3.divgrid();
-var grid1 = d3.divgrid();
+var grid  = d3.divgrid();
 
 d3.select("#grid0")
        .datum(data.slice(0,5))
-       .call(grid0)
+       .call(grid)
        .selectAll(".row")
        .on({
          "mouseover": function(d0) { pc0.highlight([d0]) },
          "mouseout": pc0.unhighlight
     });
+d3.select("#grid01")
+      .datum(data)
+      .call(grid)
+      .selectAll(".row");
 
 d3.select("#grid1")
        .datum(data.slice(0,5))
-       .call(grid1)
+       .call(grid)
        .selectAll(".row")
        .on({
          "mouseover": function(d1) { pc0.highlight([d1]) },
          "mouseout": pc1.unhighlight
     });
-
+d3.select("#grid11")
+      .datum(data)
+      .call(grid)
+      .selectAll(".row");
       // update data table on brush event
     
 pc0.on("brush", function(d0) {
        d3.select("#grid0")
       .datum(d0.slice(0,5))
-      .call(grid0)
+      .call(grid)
       .selectAll(".row")
       .on({
         "mouseover": function(d0) { pc0.highlight([d0]) },
-        "mouseout": pc0.unhighlight
+        "mouseout": pc0.unhighlight 
       });
-     
-  });
+
+      d3.select("#grid01")
+      .datum(d0)
+      .call(grid)
+      .selectAll(".row");
+});
 
 
     
 pc1.on("brush", function(d1) {
        d3.select("#grid1")
       .datum(d1.slice(0,5))
-      .call(grid1)
+      .call(grid)
       .selectAll(".row")
       .on({
         "mouseover": function(d1) { pc1.highlight([d1]) },
         "mouseout": pc1.unhighlight
       });
 
+      d3.select("#grid11")
+      .datum(d1)
+      .call(grid)
+      .selectAll(".row");
+
 });
- 
-     var data1 = document.querySelector('#grid0').__data__;
-     var data2 = document.querySelector('#grid1').__data__;
+     // ********code to output chart1 vs chart2 *********
+     var data1 = document.querySelector('#grid01').__data__;
+     var data2 = document.querySelector('#grid11').__data__;
+     console.log(data1);
+     var chart1 = [];
+     var chart2 = [];
+
+     for (i=0; i<data1.length; i++) {
+     	chart1.push(data1[i].team)
+     }
+
+     for (i=0; i<data2.length; i++) {
+     	chart2.push(data2[i].team)
+     }
+
+     function filtered_dataset(teams1, teams2, mainData) {
+     	var l  = mainData.length,
+     	    t1winCount = [],
+     	    t2winCount = [];
+
+     	for (var n=0; n<l; n++) {
+     		var row = mainData[n],
+     		    W = mainData[n].Wteam,
+     		    L = mainData[n].Lteam;
+     		if (include(teams1,W) &&
+     			include(teams2,L)) {
+                  t1winCount.push(row);
+     		}
+     		if (include(teams1,L) &&
+     			include(teams2,W)) {
+     			t2winCount.push(row)
+     		}
+
+     	}
+     	return [t1winCount,t2winCount];
+     };
+     
+
+
+     function include(arr,obj) {
+       return (arr.indexOf(obj) != -1);
+}
+
+
+d3.csv('data/rsdr2016.csv', function(data) {
+	d3.select("#compare").on("click", function() {
+	var WinLose = filtered_dataset(chart1, chart2, data);
+	console.log(WinLose);})
+});
+     //*****************************************
  
 	// smoothness
 	d3.select("#smoothness").on("change", function() {
@@ -180,7 +244,9 @@ pc1.on("brush", function(d1) {
 		.attr("value", function(d1) {return d1;})
 		.text(function(d1) {return d1;});
 	
-    d3.select("#grid1").style("visibility", "hidden");
+	d3.select("#grid0").style("visibility", "hidden");
+    d3.select("#grid01").style("visibility", "hidden");
+    d3.select("#grid11").style("visibility", "hidden");
 
 	function changeBundle0() {
 		pc0.bundleDimension(this.value);
