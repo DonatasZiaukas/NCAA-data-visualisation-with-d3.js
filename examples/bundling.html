@@ -46,20 +46,18 @@ used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</
 <div id="bundleDimension">Bundle using clusters determined by: </div>
 <div id="example0" class="parcoords" style="width:1140px;height:200px"></div>
 <div id="example1" class="parcoords" style="width:1140px;height:200px"></div>
-<div id="grid0" style="width:1140px;height:250px"></div>
-<div id="grid1" style="width:1140px;height:250px"></div>
-<div id="data_container"></div>
-<div id="grid01"></div>
-<div id="grid11"></div>
-
 
 <p>
 	<label>Win/Lose ratio between table1 and teble2:</label>
 	<button id="compare">Compare</button>
 </p>
 
+<div id="grid0" style="width:1140px;height:250px"></div>
+<div id="grid1" style="width:1140px;height:250px"></div>
 
-<p id="demo"></p>
+<div id="grid01"></div>
+<div id="grid11"></div>
+
 
 <script>
 
@@ -158,6 +156,7 @@ pc1.on("brush", function(d1) {
 
 });
      // ********code to output chart1 vs chart2 *********
+/*     
      var data1 = document.querySelector('#grid01').__data__;
      var data2 = document.querySelector('#grid11').__data__;
      console.log(data1);
@@ -171,7 +170,7 @@ pc1.on("brush", function(d1) {
      for (i=0; i<data2.length; i++) {
      	chart2.push(data2[i].team)
      }
-
+*/
      function filtered_dataset(teams1, teams2, mainData) {
      	var l  = mainData.length,
      	    t1winCount = [],
@@ -202,8 +201,25 @@ pc1.on("brush", function(d1) {
 
 
 d3.csv('data/rsdr2016.csv', function(data) {
-	d3.select("#compare").on("click", function() {
+
+
+	d3.select("#compare").on("click", function(d) {
+
+     var chart1 = [];
+     var chart2 = [];
+     var data1 = document.querySelector('#grid01').__data__;
+     var data2 = document.querySelector('#grid11').__data__;
+
+     for (i=0; i<data1.length; i++) {
+     	chart1.push(data1[i].team)
+     }
+
+     for (i=0; i<data2.length; i++) {
+     	chart2.push(data2[i].team)
+     }
+		
 	var WinLose = filtered_dataset(chart1, chart2, data);
+	
 	console.log(WinLose);})
 });
      //*****************************************
