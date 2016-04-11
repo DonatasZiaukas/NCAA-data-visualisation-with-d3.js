@@ -1,0 +1,5370 @@
+"Wining_Team","Losing_Team","Wscore","Lscore"
+"Alabama","Kennesaw",77,64
+"Alabama A&M","Tulane",68,67
+"Arizona","Pacific",79,61
+"Ark Pine Bluff","Seattle",58,56
+"Arkansas","Southern Univ",86,68
+"Auburn","UAB",75,74
+"Baylor","SF Austin",97,55
+"Belmont","Marquette",83,80
+"Bradley","Ball St",54,53
+"BYU","Utah Valley",85,54
+"C Michigan","Jacksonville St",89,83
+"California","Rice",97,65
+"Chattanooga","Georgia",92,90
+"Cincinnati","W Carolina",97,72
+"Clemson","NC Central",74,40
+"Col Charleston","S Carolina St",74,54
+"Colgate","George Mason",66,53
+"Connecticut","Maine",100,56
+"CS Sacramento","Arizona St",66,63
+"Dayton","SE Missouri St",84,53
+"Delaware","Delaware St",62,56
+"Duke","Siena",92,74
+"E Kentucky","Coppin St",107,80
+"E Michigan","Vermont",70,50
+"East Carolina","Grambling",61,53
+"Edwardsville","Arkansas St",79,70
+"Elon","Charlotte",85,74
+"Florida","Navy",59,41
+"Fresno St","Pepperdine",69,66
+"Furman","Presbyterian",63,53
+"G Washington","Lafayette",85,76
+"Georgia Tech","Cornell",116,81
+"Grand Canyon","Portland St",82,72
+"Hartford","Central Conn",92,83
+"Hawaii","Montana St",87,76
+"Hofstra","Canisius",96,85
+"Holy Cross","Marist",67,64
+"Indiana","E Illinois",88,49
+"Iowa","Gardner Webb",76,59
+"Iowa St","Colorado",68,62
+"IUPUI","Indiana St",72,70
+"James Madison","Richmond",87,75
+"Kansas","N Colorado",109,72
+"Kansas St","MD E Shore",80,53
+"Kentucky","Albany NY",78,65
+"Lipscomb","Santa Clara",65,63
+"Louisville","Samford",86,45
+"Loy Marymount","CS Fullerton",79,74
+"Loyola-Chicago","UT San Antonio",76,64
+"LSU","McNeese St",81,70
+"Maryland","Mt St Mary's",80,56
+"Miami FL","UTRGV",86,59
+"Michigan St","FL Atlantic",82,55
+"Minnesota","Missouri KC",76,58
+"Mississippi","Northwestern LA",90,76
+"Mississippi St","E Washington",106,88
+"Missouri","Wofford",83,74
+"Monmouth NJ","UCLA",84,81
+"Montana","Boise St",74,72
+"N Dakota St","UC Davis",79,71
+"N Illinois","CS Northridge",83,71
+"Nevada","Coastal Car",73,56
+"New Mexico","TX Southern",86,57
+"New Mexico St","Houston Bap",91,69
+"North Carolina","Temple",91,67
+"North Florida","Illinois",93,81
+"Northeastern","Boston Univ",87,84
+"Northwestern","MA Lowell",79,57
+"Notre Dame","St Francis PA",87,56
+"Oklahoma St","TN Martin",91,57
+"Old Dominion","Niagara",67,50
+"Oral Roberts","Missouri St",80,65
+"Oregon","Jackson St",80,52
+"Penn","Robert Morris",76,75
+"Princeton","Rider",64,56
+"Purdue","NC A&T",81,40
+"Rhode Island","American Univ",65,42
+"S Illinois","Air Force",77,75
+"Sacred Heart","Quinnipiac",76,64
+"San Diego St","Illinois St",71,60
+"San Francisco","IL Chicago",78,75
+"Santa Barbara","NE Omaha",60,59
+"Seton Hall","Dartmouth",84,67
+"St Bonaventure","Binghamton",63,53
+"St John's","Wagner",66,57
+"St Joseph's PA","Drexel",82,81
+"St Peter's","Brown",77,65
+"Stanford","WI Green Bay",93,89
+"Syracuse","Lehigh",57,47
+"TCU","SE Louisiana",90,77
+"Tennessee","UNC Asheville",82,78
+"Tennessee St","Loyola MD",86,71
+"Texas A&M","SC Upstate",104,64
+"Texas Tech","High Point",77,73
+"Troy","South Florida",82,77
+"UNLV","Cal Poly SLO",74,72
+"USC","San Diego",83,45
+"Utah","Southern Utah",82,71
+"Utah St","Weber St",73,70
+"VA Commonwealth","Prairie View",75,50
+"Valparaiso","IPFW",78,64
+"Vanderbilt","Austin Peay",80,41
+"Villanova","F Dickinson",91,54
+"Virginia","Morgan St",86,48
+"W Illinois","Wisconsin",69,67
+"Wake Forest","UMBC",78,73
+"Washington","Texas",77,71
+"Washington St","Northern Arizona",82,70
+"West Virginia","N Kentucky",107,61
+"WI Milwaukee","Denver",71,58
+"Wichita St","Charleston So",88,63
+"William & Mary","NC State",85,68
+"Wright St","South Dakota",77,69
+"Xavier","Miami OH",81,72
+"Yale","Fairfield",70,57
+"Akron","Cleveland St",65,53
+"Alabama St","Virginia Tech",85,82
+"Appalachian St","Jacksonville",76,68
+"Boston College","St Francis NY",75,49
+"Bowling Green","New Orleans",79,61
+"Butler","Citadel",144,71
+"Colorado St","Northern Iowa",84,78
+"Creighton","TX Southern",93,70
+"CS Northridge","Wright St",72,67
+"Davidson","UCF",90,85
+"Denver","Santa Clara",55,33
+"DePaul","W Michigan",69,63
+"Duke","Bryant",113,75
+"Idaho","San Jose St",74,54
+"Kent","Youngstown St",79,70
+"Kentucky","NJIT",87,57
+"La Salle","Towson",78,76
+"Massachusetts","Howard",85,79
+"Memphis","Southern Miss",67,49
+"N Illinois","South Dakota",72,65
+"Nebraska","MS Valley St",97,51
+"Ohio","FL Gulf Coast",85,75
+"Penn St","VMI",62,50
+"Providence","Harvard",76,64
+"Radford","Georgetown",82,80
+"SMU","Sam Houston St",85,50
+"South Carolina","Norfolk St",84,69
+"Tulsa","Cent Arkansas",98,81
+"UT Arlington","Fordham",77,72
+"WI Milwaukee","Lipscomb",71,65
+"Winthrop","Hampton",102,95
+"Army","Binghamton",75,60
+"Cincinnati","Robert Morris",106,44
+"Clemson","UT San Antonio",78,45
+"CS Sacramento","Seattle",77,65
+"Denver","Lipscomb",82,69
+"Evansville","SE Missouri St",80,65
+"Florida St","Nicholls St",109,62
+"Hawaii","Coastal Car",74,63
+"Illinois","N Dakota St",80,74
+"Iowa","Coppin St",103,68
+"Lafayette","St Peter's",87,86
+"Minnesota","ULM",67,56
+"Missouri","MD E Shore",73,55
+"N Illinois","Wright St",65,59
+"NC State","South Alabama",88,70
+"Nevada","Montana St",83,62
+"New Mexico","New Mexico St",83,74
+"North Carolina","Fairfield",92,65
+"Ohio St","Mt St Mary's",76,54
+"Penn","Central Conn",77,61
+"Purdue","Vermont",107,79
+"Richmond","Stetson",108,85
+"Rutgers","Howard",82,70
+"S Illinois","Florida A&M",81,51
+"Seton Hall","Wagner",69,59
+"South Dakota","CS Northridge",76,72
+"St Joseph's PA","Niagara",73,62
+"St Louis","Hartford",85,68
+"Stanford","Charleston So",93,59
+"UC Davis","Portland",79,66
+"UC Irvine","Loy Marymount",77,53
+"UCLA","Cal Poly SLO",88,83
+"Valparaiso","Iona",83,58
+"W Carolina","UNC Asheville",90,81
+"Wake Forest","Bucknell",90,82
+"WI Milwaukee","Santa Clara",71,65
+"Wisconsin","Siena",92,65
+"Air Force","Tennessee Tech",80,70
+"Arizona","Bradley",90,60
+"Arizona St","Belmont",83,74
+"Ball St","E Illinois",73,56
+"Bethune-Cookman","TN Martin",86,79
+"Boise St","Northern Arizona",101,81
+"Boston Univ","Albany NY",69,64
+"Brown","Holy Cross",71,55
+"California","Santa Barbara",85,67
+"Canisius","Lehigh",98,89
+"Col Charleston","Navy",72,58
+"Cornell","Colgate",101,98
+"Duquesne","New Orleans",95,75
+"East Carolina","Charlotte",88,74
+"Florida","NC A&T",104,54
+"Fresno St","Lamar",80,72
+"G Washington","Virginia",73,68
+"Georgia Tech","Tennessee",69,67
+"Hawaii","Nevada",76,75
+"Illinois St","Morehead St",67,66
+"Indiana","Austin Peay",102,76
+"Indiana St","Wyoming",70,55
+"Iowa St","Chicago St",106,64
+"Kansas St","Columbia",81,71
+"Long Beach St","BYU",66,65
+"Long Island","Loyola MD",71,68
+"LSU","Kennesaw",91,69
+"Marquette","IUPUI",75,71
+"Mercer","George Mason",69,60
+"Miami FL","ULL",93,77
+"Michigan","Elon",88,68
+"Mississippi","Ga Southern",82,72
+"NJIT","South Florida",60,57
+"North Florida","UTRGV",106,84
+"Ohio","Tennessee St",75,67
+"Oklahoma St","Ark Pine Bluff",86,72
+"Old Dominion","Buffalo",77,58
+"Oregon","Baylor",74,67
+"Presbyterian","SC Upstate",74,73
+"S Dakota St","Weber St",85,68
+"San Francisco","Rice",80,54
+"San Jose St","Montana",64,61
+"Savannah St","Campbell",59,57
+"South Carolina","Oral Roberts",84,66
+"Southern Univ","Mississippi St",76,72
+"St John's","UMBC",75,53
+"St Mary's CA","Manhattan",89,63
+"Texas A&M","SE Louisiana",100,58
+"Towson","Morgan St",69,61
+"Tulane","Drake",79,74
+"UAB","Alabama St",72,70
+"UNC Wilmington","E Kentucky",78,59
+"USC","Monmouth NJ",101,90
+"Utah","San Diego St",81,76
+"VA Commonwealth","Radford",92,74
+"Vanderbilt","Gardner Webb",98,62
+"West Virginia","James Madison",86,73
+"Yale","Sacred Heart",99,77
+"Citadel","Stetson",94,93
+"Colorado","Auburn",91,84
+"Connecticut","New Hampshire",85,66
+"Creighton","UT San Antonio",103,78
+"CS Bakersfield","Idaho",68,45
+"CS Fullerton","Pacific",77,76
+"Dayton","Alabama",80,48
+"E Washington","Seattle",76,70
+"ETSU","WI Green Bay",103,90
+"Florida St","Jacksonville",98,79
+"Furman","Appalachian St",79,70
+"Hampton","American Univ",61,48
+"Jackson St","Southern Miss",78,60
+"Kentucky","Duke",74,63
+"La Salle","Rider",73,60
+"Louisiana Tech","UT Arlington",80,68
+"Louisville","Hartford",87,52
+"Marist","Dartmouth",73,63
+"Maryland","Georgetown",75,71
+"Massachusetts","Harvard",69,63
+"Michigan St","Kansas",79,73
+"Murray St","MTSU",76,65
+"NE Omaha","Missouri KC",95,89
+"Northern Iowa","SF Austin",70,60
+"Notre Dame","WI Milwaukee",86,78
+"Ohio St","Grambling",82,55
+"Oklahoma","Memphis",84,78
+"Oregon St","Iona",93,73
+"Penn","Delaware St",60,54
+"Penn St","DePaul",68,62
+"Syracuse","St Bonaventure",79,66
+"Tulsa","Wichita St",77,67
+"Valparaiso","Rhode Island",58,55
+"Villanova","Nebraska",87,63
+"W Illinois","IL Chicago",84,57
+"W Michigan","San Diego",74,62
+"William & Mary","Liberty",70,59
+"Wisconsin","North Dakota",78,64
+"Xavier","Missouri",78,66
+"Akron","Arkansas",88,80
+"Arizona St","Kennesaw",91,53
+"Army","F Dickinson",96,85
+"Belmont","WKU",90,85
+"Bucknell","Robert Morris",81,76
+"Cincinnati","Bowling Green",83,50
+"Cornell","Binghamton",76,59
+"Denver","Utah Valley",75,62
+"Gonzaga","Northern Arizona",91,52
+"High Point","Drexel",75,66
+"Houston","Prairie View",110,69
+"IPFW","Austin Peay",80,77
+"MA Lowell","Sacred Heart",87,84
+"NC State","IUPUI",79,56
+"New Mexico","Loyola-Chicago",75,51
+"New Mexico St","Tennessee Tech",76,63
+"Niagara","Brown",75,66
+"North Carolina","Wofford",78,58
+"Northwestern","Fairfield",79,72
+"Oakland","E Michigan",91,81
+"Old Dominion","Morgan St",79,48
+"Providence","Illinois",60,59
+"Purdue","Incarnate Word",96,61
+"Richmond","Wake Forest",91,82
+"S Illinois","Kent",72,69
+"Savannah St","Arkansas St",76,75
+"St Joseph's PA","Buffalo",89,67
+"St Louis","Edwardsville",70,60
+"Toledo","Youngstown St",100,78
+"UC Irvine","UCF",61,60
+"UNLV","Southern Utah",84,64
+"Vermont","Quinnipiac",83,70
+"Virginia Tech","Jacksonville St",71,62
+"Air Force","MS Valley St",65,64
+"Alabama A&M","SE Missouri St",74,56
+"Albany NY","Colgate",88,67
+"Arizona","Boise St",88,76
+"Boston College","Central Conn",82,57
+"Butler","Missouri St",93,59
+"Charlotte","Furman",77,68
+"Clemson","TX Southern",76,56
+"Colorado St","Loy Marymount",83,75
+"Fresno St","San Francisco",78,71
+"G Washington","South Florida",73,67
+"George Mason","Mississippi",68,62
+"Georgia Tech","WI Green Bay",107,77
+"Grand Canyon","Alcorn St",79,46
+"Hartford","St Peter's",67,66
+"Indiana","Creighton",86,65
+"Iowa","Marquette",89,61
+"Long Beach St","Seton Hall",80,77
+"Long Island","Maine",84,79
+"Loyola MD","UMBC",76,57
+"LSU","South Alabama",78,66
+"Massachusetts","Cent Arkansas",89,62
+"Memphis","Grambling",83,65
+"Mercer","Alabama St",70,49
+"Miami FL","Mississippi St",105,79
+"Navy","SC Upstate",67,55
+"Nebraska","Delaware St",75,60
+"New Hampshire","Holy Cross",73,69
+"NJIT","Boston Univ",90,76
+"Oklahoma St","Towson",69,52
+"Oregon St","Rice",77,69
+"S Dakota St","Illinois St",83,67
+"SMU","Stanford",85,70
+"Southern Univ","Tulane",90,82
+"St John's","Rutgers",61,59
+"TCU","Houston Bap",90,63
+"Temple","Minnesota",75,70
+"Tennessee","Marshall",84,74
+"Texas A&M","TAM C. Christi",95,70
+"UAB","Troy",79,63
+"UC Riverside","Santa Clara",77,63
+"UCLA","Pepperdine",81,67
+"ULM","Northwestern LA",80,64
+"Utah","Texas Tech",73,63
+"Vanderbilt","Stony Brook",79,72
+"Virginia","Bradley",82,57
+"Washington","Mt St Mary's",100,67
+"Yale","Lehigh",79,67
+"Alabama","ULL",105,93
+"Arkansas","Charleston So",93,75
+"Auburn","Ga Southern",92,62
+"Baylor","Jackson St",77,60
+"Bryant","Prairie View",71,58
+"Butler","Temple",74,69
+"California","East Carolina",70,62
+"Colorado","Portland",85,63
+"Duke","VA Commonwealth",79,71
+"Duquesne","Penn St",78,52
+"E Kentucky","Ball St",89,81
+"George Mason","Oklahoma St",71,68
+"Georgetown","Wisconsin",71,61
+"Georgia","Murray St",63,52
+"Hampton","Appalachian St",82,61
+"Hofstra","Florida St",82,77
+"Indiana St","Norfolk St",70,61
+"Iona","Delaware",92,77
+"James Madison","Florida Intl",64,61
+"Kansas St","South Dakota",93,72
+"Kentucky","Wright St",78,63
+"Maryland","Rider",65,58
+"Miami FL","Utah",90,66
+"Miami OH","Lipscomb",70,68
+"Michigan St","Ark Pine Bluff",92,46
+"Minnesota","Missouri St",74,69
+"Mississippi","Towson",76,60
+"Montana St","San Jose St",81,69
+"Northeastern","FL Atlantic",60,58
+"Northwestern","Columbia",83,80
+"Oklahoma","McNeese St",85,56
+"Oral Roberts","TN Martin",70,66
+"Oregon","Savannah St",77,59
+"Pittsburgh","Detroit",95,79
+"S Carolina St","Longwood",83,77
+"Seton Hall","Bradley",67,59
+"Siena","Radford",76,62
+"South Carolina","DePaul",76,61
+"Texas Tech","Mississippi St",74,72
+"Tulsa","Ohio",90,88
+"UT Arlington","Ohio St",73,68
+"Villanova","ETSU",86,51
+"Virginia","Long Beach St",87,52
+"Washington St","Idaho St",85,67
+"West Virginia","Stetson",103,62
+"Winthrop","Jacksonville St",80,69
+"Xavier","Michigan",86,70
+"Ark Little Rock","San Diego St",49,43
+"Ball St","Longwood",78,67
+"Boston Univ","South Florida",78,66
+"Bucknell","Manhattan",80,67
+"Buffalo","NC A&T",86,68
+"Cal Poly SLO","Austin Peay",73,64
+"Canisius","Cornell",87,62
+"Chattanooga","Illinois",81,77
+"Connecticut","Furman",83,58
+"CS Fullerton","San Diego",67,55
+"Davidson","Col Charleston",82,81
+"Dayton","William & Mary",69,66
+"E Kentucky","S Carolina St",92,82
+"Evansville","Belmont",93,88
+"Fairfield","Sacred Heart",83,79
+"FL Atlantic","Miami OH",75,69
+"FL Gulf Coast","Youngstown St",104,101
+"Florida","St Joseph's PA",74,63
+"Florida Intl","TN Martin",69,62
+"Florida St","DePaul",83,67
+"Fordham","F Dickinson",85,62
+"Gonzaga","Mt St Mary's",101,56
+"High Point","W Carolina",75,69
+"Houston","Florida A&M",97,52
+"Illinois St","Houston Bap",72,56
+"IPFW","Edwardsville",87,67
+"Kent","Marist",79,72
+"Lamar","Delaware St",77,66
+"Louisiana Tech","Grambling",86,67
+"Louisville","North Florida",89,61
+"Loyola-Chicago","Toledo",69,62
+"Missouri KC","Drake",79,73
+"Monmouth NJ","Drexel",82,74
+"Morehead St","N Kentucky",64,56
+"Morgan St","Campbell",59,54
+"MTSU","Tennessee St",69,66
+"Nevada","Pacific",85,82
+"New Mexico St","MS Valley St",85,46
+"NJIT","Lafayette",80,66
+"North Dakota","Bowling Green",77,59
+"Northeastern","Lipscomb",79,67
+"Northern Iowa","North Carolina",71,67
+"Notre Dame","MA Lowell",83,57
+"Ohio","Norfolk St",93,71
+"Oral Roberts","James Madison",74,64
+"Oregon St","Santa Barbara",71,59
+"Presbyterian","Citadel",95,79
+"Princeton","St Peter's",75,72
+"Providence","Brown",94,73
+"Purdue","Old Dominion",61,39
+"Radford","Prairie View",64,56
+"Rhode Island","Cleveland St",73,45
+"Richmond","Bethune-Cookman",89,64
+"Rutgers","Cent Arkansas",87,84
+"S Dakota St","TCU",76,67
+"S Illinois","Sam Houston St",86,81
+"Samford","Kennesaw",77,65
+"San Francisco","UC Riverside",58,57
+"Siena","Bryant",78,59
+"St Bonaventure","Loyola MD",94,82
+"St Francis PA","American Univ",68,48
+"St Louis","St Francis NY",76,60
+"Syracuse","Elon",66,55
+"Texas","TAM C. Christi",67,56
+"Texas A&M","UNC Asheville",75,47
+"UCF","UNC Greensboro",65,54
+"UMBC","N Colorado",81,72
+"UNC Wilmington","W Michigan",80,76
+"USC","New Mexico",90,82
+"UT San Antonio","Southern Utah",82,79
+"UTEP","Texas St",77,62
+"Vermont","Niagara",85,67
+"Virginia Tech","VMI",76,52
+"W Illinois","E Illinois",83,63
+"WKU","Stony Brook",67,66
+"Wagner","Maine",87,73
+"Washington","Penn",104,67
+"Wofford","MD E Shore",73,63
+"Air Force","Robert Morris",64,52
+"Arizona","Northwestern LA",61,42
+"Arkansas St","Jackson St",78,69
+"Austin Peay","N Colorado",91,76
+"Ball St","S Carolina St",72,60
+"Boston College","Harvard",69,56
+"Bowling Green","Youngstown St",79,72
+"Buffalo","Vermont",77,71
+"Cal Poly SLO","UMBC",78,65
+"Cincinnati","Ark Pine Bluff",99,50
+"Colorado","NE Omaha",87,82
+"Colorado St","Oakland",95,89
+"Columbia","Lehigh",88,61
+"Creighton","Rutgers",85,75
+"Duke","Georgetown",86,84
+"E Kentucky","Longwood",110,97
+"ETSU","Georgia Tech",69,68
+"FL Gulf Coast","North Dakota",73,60
+"Fresno St","Rice",82,65
+"G Washington","Army",92,81
+"Hawaii","Nicholls St",99,74
+"Lipscomb","FL Atlantic",79,65
+"Long Island","NC Central",78,77
+"Miami FL","Butler",85,75
+"Miami OH","Northeastern",67,61
+"Mississippi St","Missouri St",84,70
+"Montana St","Wyoming",83,82
+"Nebraska","SE Louisiana",92,65
+"Niagara","NC A&T",73,72
+"Oklahoma St","Long Beach St",82,77
+"Oral Roberts","Florida Intl",76,70
+"Oregon","Valparaiso",73,67
+"Portland","Abilene Chr",87,57
+"Portland St","UTRGV",79,61
+"Purdue","Florida",85,70
+"Quinnipiac","Holy Cross",62,56
+"Seton Hall","Mississippi",75,63
+"SMU","Yale",71,69
+"South Carolina","Hofstra",94,84
+"St Joseph's PA","Old Dominion",66,64
+"St Mary's CA","Stanford",78,61
+"Tennessee","Gardner Webb",89,64
+"Texas Tech","Minnesota",81,68
+"TN Martin","James Madison",78,75
+"Towson","Bradley",62,60
+"Tulane","Appalachian St",76,48
+"Tulsa","Indiana St",67,59
+"UAB","Jacksonville St",61,55
+"Utah","Temple",74,68
+"UTEP","Alcorn St",88,66
+"Villanova","Akron",75,56
+"Virginia","George Mason",83,66
+"Wisconsin","VA Commonwealth",74,73
+"Arizona St","NC State",79,76
+"Baylor","Savannah St",100,61
+"Belmont","South Alabama",98,85
+"Bowling Green","FL Gulf Coast",82,77
+"California","Sam Houston St",89,63
+"Cent Arkansas","UT San Antonio",98,84
+"Davidson","Mercer",77,71
+"DePaul","Norfolk St",82,78
+"Drake","WKU",81,79
+"Florida St","Ohio",90,81
+"Grand Canyon","MS Valley St",94,60
+"Howard","TX Southern",87,81
+"Idaho","North Texas",65,63
+"Illinois","Chicago St",82,79
+"Indiana St","Hofstra",67,66
+"Iowa St","Chattanooga",83,63
+"Kansas St","Missouri",66,42
+"Kennesaw","IUPUI",71,63
+"La Salle","Lafayette",83,75
+"Marquette","LSU",81,80
+"Massachusetts","Clemson",82,65
+"Michigan St","E Michigan",89,65
+"Murray St","WI Milwaukee",66,63
+"North Carolina","Northwestern",80,69
+"Pepperdine","Duquesne",84,70
+"Providence","NJIT",83,76
+"Samford","Troy",83,79
+"San Diego St","East Carolina",79,54
+"Seattle","E Washington",58,52
+"South Carolina","Tulsa",83,75
+"UC Irvine","Santa Clara",79,61
+"UCLA","UNLV",77,75
+"USC","CS Northridge",96,61
+"UT Arlington","Memphis",68,64
+"Vanderbilt","St John's",92,55
+"Wake Forest","Indiana",82,78
+"Weber St","C Michigan",63,60
+"West Virginia","Bethune-Cookman",97,44
+"Xavier","N Kentucky",78,66
+"Youngstown St","North Dakota",79,69
+"Alabama A&M","Jacksonville St",73,69
+"Belmont","Kennesaw",80,55
+"Binghamton","Central Conn",81,75
+"Campbell","Edwardsville",77,74
+"Charleston So","ETSU",77,76
+"Cincinnati","SE Louisiana",64,49
+"Cleveland St","Rider",57,52
+"Coastal Car","Col Charleston",67,61
+"Colorado St","Abilene Chr",108,100
+"Columbia","Wofford",70,59
+"CS Fullerton","Southern Utah",80,66
+"CS Sacramento","UC Davis",84,79
+"Delaware","F Dickinson",73,72
+"Duquesne","WI Milwaukee",96,92
+"Fairfield","MD E Shore",113,74
+"Fordham","Colgate",84,58
+"G Washington","Gardner Webb",94,65
+"Hartford","Niagara",77,73
+"Idaho","Troy",69,63
+"Indiana","St John's",83,73
+"IPFW","Miami OH",57,53
+"Kansas","UCLA",92,73
+"Kent","St Francis PA",79,60
+"Kentucky","Boston Univ",82,62
+"Louisiana Tech","Ohio St",82,74
+"Louisville","St Francis NY",85,41
+"Marquette","Arizona St",78,73
+"Maryland","Illinois St",77,66
+"Morehead St","Marshall",85,61
+"Murray St","Pepperdine",59,55
+"NC State","LSU",83,72
+"Nebraska","Ark Pine Bluff",67,44
+"New Hampshire","Brown",88,77
+"New Mexico St","Robert Morris",81,71
+"North Carolina","Kansas St",80,70
+"Northwestern","Missouri",67,62
+"Oklahoma","Incarnate Word",96,63
+"Portland","Alcorn St",97,65
+"Quinnipiac","NC Central",69,59
+"Radford","Penn St",86,74
+"Rhode Island","TCU",66,60
+"S Dakota St","Houston Bap",92,68
+"S Illinois","Oakland",97,88
+"Samford","North Texas",74,72
+"Siena","Bucknell",83,81
+"South Alabama","IUPUI",78,68
+"South Florida","Albany NY",63,61
+"St Bonaventure","Canisius",77,73
+"St Louis","North Florida",70,57
+"Stony Brook","Loyola MD",76,63
+"Tennessee","Army",95,80
+"Tennessee Tech","Jackson St",86,82
+"UTRGV","SE Missouri St",83,74
+"UC Riverside","Delaware St",81,55
+"Utah St","Utah Valley",81,55
+"UTEP","Florida A&M",72,54
+"Valparaiso","Oregon St",63,57
+"Vanderbilt","Wake Forest",86,64
+"Virginia Tech","NC A&T",90,60
+"VMI","Presbyterian",76,61
+"WKU","C Michigan",88,60
+"Weber St","Drake",74,58
+"WI Green Bay","Akron",66,63
+"Winthrop","SC Upstate",79,78
+"BYU","MS Valley St",75,68
+"Citadel","Ga Southern",95,90
+"Clemson","Rutgers",76,58
+"Colorado","Air Force",81,70
+"Connecticut","Michigan",74,60
+"Creighton","Massachusetts",97,76
+"Denver","Idaho St",79,69
+"Drake","Pepperdine",69,53
+"Duke","Yale",80,61
+"Duquesne","WKU",81,73
+"Florida","Vermont",86,62
+"Florida Intl","Long Island",80,72
+"Georgia","High Point",49,46
+"Gonzaga","Washington",80,64
+"Harvard","Bryant",80,45
+"Holy Cross","Sacred Heart",69,60
+"Howard","Cent Arkansas",73,54
+"Kansas","Vanderbilt",70,63
+"Loy Marymount","CS Northridge",82,80
+"Maine","Longwood",92,82
+"Manhattan","George Mason",69,67
+"Maryland","Rhode Island",86,63
+"Mississippi","Georgia St",68,59
+"N Dakota St","Montana",73,53
+"Navy","UMBC",75,54
+"NE Omaha","N Colorado",105,85
+"Nevada","Portland St",76,73
+"New Mexico","Nicholls St",75,63
+"New Orleans","Bradley",64,51
+"Oregon","Arkansas St",91,68
+"Penn","La Salle",80,64
+"Pittsburgh","Cornell",93,49
+"Princeton","Lafayette",104,52
+"Rice","Lamar",92,84
+"Rider","Houston Bap",67,56
+"S Dakota St","Cleveland St",77,66
+"Samford","Idaho",75,58
+"Santa Barbara","San Francisco",68,61
+"Syracuse","Charlotte",83,70
+"TCU","Illinois St",71,60
+"Texas A&M","Texas",84,73
+"Toledo","San Jose St",89,74
+"Troy","North Texas",86,74
+"TX Southern","UT San Antonio",91,80
+"UNLV","Indiana",72,69
+"UT Arlington","Grambling",73,40
+"VA Commonwealth","American Univ",72,44
+"Virginia","Lehigh",80,54
+"Wake Forest","UCLA",80,77
+"Weber St","Murray St",75,59
+"WI Milwaukee","C Michigan",84,78
+"William & Mary","Hampton",86,67
+"Wisconsin","Prairie View",85,67
+"Wyoming","CS Bakersfield",68,64
+"Appalachian St","Liberty",73,62
+"Arizona","Santa Clara",75,73
+"Ark Little Rock","East Carolina",54,46
+"Boise St","UC Irvine",71,64
+"Dayton","Iowa",82,77
+"Elon","Mt St Mary's",79,74
+"Georgia Tech","Arkansas",83,73
+"Loyola-Chicago","San Diego",67,57
+"Mercer","Tulane",71,61
+"Michigan","Charlotte",102,47
+"Michigan St","Boston College",99,68
+"Monmouth NJ","Notre Dame",70,68
+"Providence","Evansville",74,64
+"San Diego St","California",72,58
+"SF Austin","W Michigan",79,71
+"Stetson","Bethune-Cookman",83,70
+"Syracuse","Connecticut",79,76
+"TAM C. Christi","Furman",73,69
+"Texas","Washington",82,70
+"Texas A&M","Gonzaga",62,61
+"UNC Asheville","Drexel",85,66
+"USC","Wichita St",72,69
+"Villanova","Stanford",59,45
+"West Virginia","Richmond",67,59
+"Xavier","Alabama",64,45
+"Abilene Chr","Florida A&M",72,62
+"Akron","Charleston So",82,58
+"Alabama","Wichita St",64,60
+"Albany NY","NJIT",74,73
+"Army","Ark Pine Bluff",81,60
+"Auburn","Northwestern LA",119,81
+"Baylor","Arkansas St",94,72
+"Chattanooga","Alabama St",95,58
+"Cincinnati","Nebraska",65,61
+"Col Charleston","W Carolina",57,56
+"Colorado St","Portland",90,74
+"Dayton","Monmouth NJ",73,70
+"East Carolina","Stetson",93,73
+"Evansville","Santa Clara",69,57
+"Fairfield","Columbia",82,81
+"Florida","FL Gulf Coast",70,50
+"Fresno St","Delaware St",80,59
+"Furman","Mt St Mary's",69,60
+"G Washington","Tennessee",73,70
+"Ga Southern","SC Upstate",84,80
+"Gardner Webb","SE Louisiana",77,68
+"Georgia St","IUPUI",78,72
+"Gonzaga","Connecticut",73,70
+"Illinois","UAB",72,58
+"Iowa St","Virginia Tech",99,77
+"IPFW","Jacksonville",71,63
+"Jackson St","Savannah St",69,42
+"Jacksonville St","Chicago St",68,65
+"James Madison","Marshall",89,75
+"Kentucky","South Florida",84,63
+"Louisiana Tech","NC Central",71,50
+"MD E Shore","St Francis PA",70,57
+"Memphis","Ohio St",81,76
+"Mercer","Appalachian St",71,70
+"Michigan","Texas",78,72
+"Michigan St","Boise St",77,67
+"Minnesota","NE Omaha",93,90
+"MTSU","UNC Asheville",63,61
+"Navy","UNC Greensboro",70,66
+"NC State","Winthrop",87,79
+"North Florida","Hartford",81,60
+"Northeastern","Miami FL",78,77
+"Notre Dame","Iowa",68,62
+"Oakland","Alcorn St",84,51
+"Oklahoma St","Long Beach St",79,73
+"Providence","Arizona",69,65
+"Rice","UC Riverside",87,81
+"Richmond","California",94,90
+"Sam Houston St","Bethune-Cookman",71,46
+"San Jose St","San Diego",76,67
+"South Carolina","Lipscomb",92,76
+"Stanford","Arkansas",69,66
+"Syracuse","Texas A&M",74,67
+"TAM C. Christi","Elon",85,81
+"Tennessee Tech","Robert Morris",85,72
+"Toledo","Loyola-Chicago",82,74
+"Tulane","SF Austin",60,59
+"UC Irvine","Boston College",80,67
+"Utah","Idaho St",102,72
+"UTEP","S Illinois",71,66
+"Villanova","Georgia Tech",69,52
+"W Michigan","Liberty",68,58
+"Washington","Charlotte",71,66
+"West Virginia","San Diego St",72,50
+"Xavier","USC",87,77
+"Air Force","New Mexico St",66,64
+"Alabama St","Chicago St",66,64
+"American Univ","New Hampshire",68,50
+"Ark Little Rock","Tulsa",64,60
+"Ark Pine Bluff","SE Louisiana",62,60
+"Army","Gardner Webb",103,98
+"Austin Peay","Samford",74,73
+"Ball St","Valparaiso",69,66
+"Boston Univ","Binghamton",75,65
+"Buffalo","Canisius",98,96
+"Butler","Edwardsville",89,73
+"BYU","Belmont",95,81
+"Campbell","Coastal Car",79,73
+"Chattanooga","Jacksonville St",62,52
+"Cincinnati","G Washington",61,56
+"Citadel","SC Upstate",88,81
+"Colgate","UMBC",71,63
+"Creighton","W Illinois",97,67
+"CS Fullerton","Nevada",75,66
+"Denver","South Alabama",69,56
+"Drake","IL Chicago",83,62
+"E Kentucky","Southern Utah",98,85
+"E Washington","Pacific",70,63
+"F Dickinson","St Peter's",77,62
+"Florida A&M","Alcorn St",73,71
+"Fordham","Manhattan",87,64
+"George Mason","Wright St",66,39
+"Georgetown","Bryant",77,47
+"High Point","Morgan St",82,72
+"Hofstra","St Bonaventure",89,83
+"Houston","ULM",76,64
+"Howard","William & Mary",79,77
+"Iowa St","Illinois",84,73
+"IPFW","UNC Greensboro",64,58
+"Longwood","Columbia",70,69
+"Louisville","St Louis",77,57
+"Loy Marymount","SE Missouri St",73,60
+"Maryland","Cleveland St",80,63
+"Miami OH","UCF",64,63
+"Mississippi","Bradley",67,54
+"Mississippi St","TN Martin",76,51
+"Missouri KC","S Dakota St",64,57
+"Morehead St","Southern Miss",61,46
+"MTSU","Toledo",78,70
+"Murray St","Alabama A&M",63,61
+"N Dakota St","NC A&T",77,56
+"N Illinois","Idaho",66,59
+"Navy","Jacksonville",71,65
+"Nebraska","Tennessee",82,71
+"North Florida","St Francis NY",78,65
+"Northern Iowa","North Dakota",97,51
+"Northwestern","New Orleans",90,63
+"Oakland","Abilene Chr",85,57
+"Oral Roberts","Detroit",100,95
+"Penn St","Bucknell",62,58
+"Pittsburgh","Kent",85,76
+"Purdue","Lehigh",77,55
+"Robert Morris","MS Valley St",67,64
+"S Illinois","Portland",80,79
+"San Diego","Drexel",62,59
+"Seton Hall","Georgia",69,62
+"Siena","Loyola MD",90,82
+"South Dakota","CS Sacramento",96,90
+"Tennessee St","Kennesaw",56,49
+"Texas St","McNeese St",70,67
+"Texas Tech","Hawaii",82,74
+"Towson","Coppin St",81,77
+"UC Davis","Utah Valley",82,70
+"UNC Asheville","Loyola-Chicago",59,48
+"UNC Wilmington","ETSU",94,73
+"UNLV","Prairie View",80,62
+"UTEP","Colorado St",99,90
+"VA Commonwealth","Old Dominion",76,67
+"Virginia Tech","UAB",82,77
+"Washington St","TX Southern",77,65
+"WI Green Bay","E Illinois",81,72
+"Wofford","Presbyterian",68,58
+"Wyoming","Montana St",82,68
+"Youngstown St","Niagara",88,70
+"Alabama","Notre Dame",74,73
+"Albany NY","Yale",88,54
+"Arizona","Boise St",68,59
+"Arizona St","Santa Barbara",70,68
+"Colorado","N Colorado",82,52
+"CS Sacramento","Pacific",79,71
+"Dartmouth","Long Island",79,56
+"Duke","Utah St",85,52
+"Evansville","UC Irvine",75,56
+"Holy Cross","Harvard",50,49
+"Iowa","Wichita St",84,61
+"Kansas St","S Carolina St",68,66
+"Lafayette","Penn",92,86
+"MA Lowell","Cornell",80,77
+"Maine","Central Conn",81,74
+"Marquette","Jackson St",80,61
+"Mercer","W Michigan",68,65
+"Michigan St","Providence",77,64
+"Monmouth NJ","USC",83,73
+"Navy","IPFW",75,53
+"Oklahoma","Wisconsin",65,48
+"Pepperdine","Montana",69,63
+"Rhode Island","Rider",82,57
+"San Francisco","Delaware St",67,47
+"Santa Clara","Boston College",62,45
+"SF Austin","Appalachian St",94,84
+"SMU","Brown",77,69
+"South Dakota","E Washington",77,71
+"South Florida","Savannah St",67,57
+"St Francis NY","Hartford",74,67
+"St Mary's CA","CS Bakersfield",94,59
+"Temple","Delaware",69,50
+"Tennessee Tech","MS Valley St",101,64
+"Tulane","Liberty",72,51
+"UC Riverside","Lamar",74,69
+"UCLA","CS Northridge",77,45
+"UNC Greensboro","Jacksonville",71,69
+"UT Arlington","Rice",92,74
+"Vermont","Marist",86,60
+"Xavier","Dayton",90,61
+"C Michigan","McNeese St",74,73
+"Campbell","VMI",66,65
+"Col Charleston","LSU",70,58
+"Elon","Kennesaw",103,93
+"Grand Canyon","Hampton",63,51
+"Houston","UTRGV",78,65
+"Indiana","Alcorn St",112,70
+"James Madison","Radford",70,68
+"Kentucky","Illinois St",75,63
+"Minnesota","Clemson",89,83
+"NC A&T","N Kentucky",74,63
+"New Hampshire","Bryant",75,67
+"Norfolk St","Northern Arizona",70,66
+"Northern Iowa","North Texas",93,70
+"Oregon","Fresno St",78,73
+"Princeton","F Dickinson",91,61
+"South Carolina","W Carolina",76,53
+"Stetson","Florida Intl",81,75
+"ULM","Chattanooga",64,54
+"Wake Forest","Rutgers",69,68
+"WI Green Bay","Edwardsville",87,69
+"Albany NY","Quinnipiac",58,54
+"Ark Little Rock","Cent Arkansas",79,73
+"Arkansas","Northwestern LA",117,78
+"Ball St","IUPUI",61,58
+"Belmont","Lipscomb",105,89
+"Binghamton","Colgate",69,50
+"California","Seattle",66,52
+"Cornell","Siena",81,80
+"Davidson","Charlotte",109,74
+"Delaware","Bradley",70,47
+"Duquesne","MS Valley St",91,77
+"E Illinois","Indiana St",68,62
+"E Michigan","NE Omaha",80,73
+"E Washington","San Francisco",81,77
+"East Carolina","FL Atlantic",74,48
+"Evansville","Alabama St",88,56
+"Florida","Richmond",76,56
+"Georgetown","MD E Shore",68,49
+"Georgia","Oakland",86,82
+"Georgia Tech","Wofford",77,61
+"Iona","Fairfield",101,77
+"Iowa St","N Dakota St",84,64
+"Kansas","Loyola MD",94,61
+"Memphis","Louisiana Tech",94,68
+"Miami FL","Nebraska",77,72
+"Michigan","NC State",66,59
+"Mississippi St","TX Southern",86,73
+"Missouri","Arkansas St",88,78
+"Missouri KC","TN Martin",74,70
+"Montana St","Utah Valley",76,72
+"Mt St Mary's","American Univ",81,56
+"New Mexico","Oral Roberts",91,75
+"North Carolina","Maryland",89,81
+"Northwestern","Virginia Tech",81,79
+"Ohio","Marshall",85,70
+"Purdue","Pittsburgh",72,59
+"Samford","Jacksonville St",77,71
+"San Diego St","Long Beach St",76,72
+"Texas","UT Arlington",80,73
+"Troy","Southern Miss",69,59
+"UAB","Georgia St",64,57
+"Utah St","Missouri St",69,68
+"Villanova","St Joseph's PA",86,72
+"Virginia","Ohio St",64,58
+"WKU","E Kentucky",86,84
+"William & Mary","Old Dominion",55,48
+"Air Force","Citadel",97,93
+"Akron","Coppin St",77,71
+"Arizona St","Creighton",79,77
+"Army","Maine",84,71
+"Auburn","Coastal Car",81,78
+"Baylor","Prairie View",80,41
+"Bowling Green","UMBC",72,64
+"Brown","Central Conn",82,64
+"Butler","Cincinnati",78,76
+"Clemson","SC Upstate",76,56
+"Columbia","Bucknell",72,61
+"Connecticut","Sacred Heart",82,49
+"DePaul","IL Chicago",82,55
+"Duke","Indiana",94,74
+"Fordham","St John's",73,57
+"G Washington","Seton Hall",72,64
+"Gardner Webb","Presbyterian",87,76
+"Gonzaga","Washington St",69,60
+"Hampton","Northern Arizona",98,94
+"Hawaii","Ark Pine Bluff",75,47
+"High Point","Longwood",90,66
+"Hofstra","La Salle",84,80
+"Houston","Murray St",93,78
+"Houston Bap","Rice",77,73
+"Idaho","CS Bakersfield",67,63
+"Iowa","Florida St",78,75
+"Kennesaw","Florida A&M",61,41
+"Lamar","UTRGV",83,60
+"LSU","North Florida",119,108
+"Marquette","Grambling",95,49
+"Massachusetts","Boston Univ",99,69
+"Michigan St","Louisville",71,67
+"Morehead St","St Louis",60,46
+"N Illinois","Chicago St",80,58
+"Navy","Penn",65,59
+"NC A&T","UNC Greensboro",77,68
+"New Mexico St","UTEP",73,59
+"Northeastern","Harvard",80,71
+"Notre Dame","Illinois",84,79
+"Oregon St","Loy Marymount",79,70
+"Penn St","Boston College",67,58
+"Portland","Portland St",78,72
+"Providence","Hartford",89,66
+"Rhode Island","Holy Cross",74,56
+"S Illinois","SE Missouri St",74,50
+"Savannah St","Ga Southern",76,67
+"SMU","TCU",75,70
+"St Bonaventure","Buffalo",60,58
+"St Francis NY","Lafayette",69,62
+"St Francis PA","Lehigh",84,73
+"St Peter's","Rider",73,61
+"TAM C. Christi","Austin Peay",61,48
+"Temple","F Dickinson",79,70
+"Tennessee Tech","ETSU",63,61
+"Texas A&M","FL Gulf Coast",75,65
+"Texas St","UT San Antonio",76,53
+"Texas Tech","Sam Houston St",71,56
+"Toledo","Cleveland St",76,65
+"Towson","George Mason",75,54
+"Tulane","New Orleans",64,62
+"Tulsa","Oklahoma St",66,56
+"UC Davis","CS Sacramento",66,61
+"UCF","Stetson",94,85
+"Utah","BYU",83,75
+"VA Commonwealth","MTSU",62,56
+"Vanderbilt","Detroit",102,52
+"Vermont","Dartmouth",68,63
+"Wagner","Morgan St",62,61
+"Winthrop","Charleston So",83,82
+"Wisconsin","Syracuse",66,58
+"Wyoming","Denver",68,52
+"Yale","Bryant",79,40
+"Youngstown St","Robert Morris",65,58
+"Delaware","South Florida",67,58
+"Grand Canyon","C Michigan",75,72
+"IPFW","Cal Poly SLO",75,73
+"James Madison","W Michigan",63,57
+"Long Beach St","Colorado St",83,77
+"Long Island","MA Lowell",84,72
+"NC Central","MS Valley St",86,79
+"New Hampshire","Abilene Chr",86,75
+"Oklahoma","Cent Arkansas",111,68
+"Radford","Liberty",56,52
+"UC Riverside","N Colorado",77,66
+"UCLA","Kentucky",87,77
+"ULM","ULL",81,70
+"USC","Santa Barbara",75,63
+"UT Arlington","North Texas",90,67
+"Valparaiso","Belmont",61,57
+"WI Milwaukee","Edwardsville",64,51
+"Akron","Marshall",75,65
+"Alabama","Southern Miss",58,55
+"American Univ","Youngstown St",60,56
+"Canisius","Monmouth NJ",96,86
+"CS Fullerton","Seattle",70,61
+"East Carolina","SC Upstate",82,71
+"Elon","Florida Intl",77,71
+"Fairfield","Rider",74,70
+"Georgia St","Wright St",59,46
+"Iona","Marist",101,66
+"Kansas St","Georgia",68,66
+"Louisiana Tech","Jackson St",95,88
+"Maryland","St Francis PA",96,55
+"Missouri","N Illinois",78,71
+"Montana","San Francisco",82,50
+"N Dakota St","Arkansas St",74,73
+"Niagara","Quinnipiac",76,72
+"Old Dominion","Delaware St",82,38
+"Pittsburgh","Duquesne",96,75
+"Siena","Manhattan",89,54
+"Southern Univ","SE Louisiana",73,69
+"St Joseph's PA","Columbia",80,78
+"St Mary's CA","UC Davis",81,67
+"Texas","Samford",59,49
+"UC Irvine","Pacific",70,67
+"UNLV","Oregon",80,69
+"Wake Forest","Arkansas",88,85
+"Air Force","Denver",61,59
+"Albany NY","Holy Cross",88,84
+"Arizona","Gonzaga",68,63
+"Arizona St","Texas A&M",67,54
+"Ark Little Rock","Idaho",64,54
+"Austin Peay","Troy",80,71
+"Ball St","New Orleans",66,52
+"Boise St","Portland",81,71
+"Bowling Green","Drake",75,63
+"Brown","Bryant",76,68
+"Butler","Indiana St",85,71
+"BYU","Weber St",73,68
+"Cal Poly SLO","Fresno St",77,65
+"California","Wyoming",78,72
+"Charleston So","Liberty",68,61
+"Col Charleston","Citadel",82,74
+"Cornell","Lafayette",85,67
+"CS Bakersfield","Northern Arizona",72,55
+"Dartmouth","Hartford",74,65
+"Dayton","North Florida",86,71
+"DePaul","Chicago St",96,72
+"Detroit","Northeastern",76,73
+"Drexel","La Salle",66,53
+"Duke","Buffalo",82,59
+"E Illinois","N Kentucky",79,73
+"E Kentucky","Savannah St",74,71
+"Evansville","Murray St",85,81
+"Fordham","Central Conn",86,54
+"George Mason","Penn",63,44
+"Georgetown","Syracuse",79,72
+"Georgia Tech","Tulane",76,68
+"Hampton","Coppin St",74,71
+"High Point","Gardner Webb",66,64
+"Illinois","W Carolina",80,68
+"Indiana","Morehead St",92,59
+"Iowa","Missouri KC",95,75
+"IUPUI","Miami OH",78,64
+"Jacksonville","Jacksonville St",86,82
+"Kansas","Harvard",75,69
+"Kent","Cleveland St",66,62
+"Lamar","Idaho St",82,70
+"Long Beach St","New Mexico St",67,53
+"Louisville","Grand Canyon",111,63
+"Loyola-Chicago","Creighton",68,65
+"Marquette","Maine",104,67
+"Memphis","SE Missouri St",80,65
+"Mercer","Alcorn St",68,43
+"Miami FL","Charlotte",88,60
+"Michigan","Houston Bap",82,57
+"Michigan St","Binghamton",76,33
+"Mississippi","Massachusetts",74,64
+"Missouri St","Oklahoma St",64,63
+"Mt St Mary's","Loyola MD",85,68
+"MTSU","South Alabama",68,55
+"NC A&T","Howard",66,63
+"NC Central","MD E Shore",70,59
+"NC State","Bucknell",99,86
+"Nebraska","Abilene Chr",73,63
+"NJIT","MA Lowell",90,77
+"North Dakota","Bradley",65,59
+"Northwestern","Edwardsville",81,56
+"Oakland","Robert Morris",92,74
+"Ohio St","VMI",89,62
+"Oral Roberts","Tulsa",70,68
+"Oregon St","Nevada",66,62
+"Penn St","E Michigan",81,70
+"Pepperdine","CS Northridge",70,55
+"Providence","Rhode Island",74,72
+"Purdue","New Mexico",70,58
+"Richmond","Northern Iowa",82,67
+"S Carolina St","Florida A&M",79,67
+"S Illinois","North Texas",95,63
+"San Diego","San Diego St",53,48
+"Santa Clara","San Jose St",78,75
+"Seton Hall","Rutgers",84,55
+"SF Austin","TX Southern",66,62
+"SMU","New Hampshire",98,44
+"South Carolina","South Florida",81,63
+"South Dakota","Minnesota",85,81
+"Southern Utah","Utah Valley",68,54
+"St Bonaventure","Ohio",81,68
+"Stony Brook","Princeton",91,77
+"TAM C. Christi","Texas St",47,39
+"TCU","Colgate",76,49
+"Tennessee St","Stetson",74,54
+"Tennessee Tech","Lipscomb",81,78
+"Towson","Sacred Heart",83,61
+"UAB","Illinois St",74,61
+"UCF","IL Chicago",88,58
+"UMBC","Longwood",70,59
+"UT Arlington","UTEP",76,62
+"Utah","IPFW",96,79
+"Virginia","William & Mary",67,52
+"Virginia Tech","Ark Pine Bluff",80,45
+"West Virginia","Kennesaw",87,54
+"Wichita St","St Louis",68,53
+"Winthrop","Presbyterian",74,70
+"Wisconsin","Temple",76,60
+"Xavier","WKU",95,64
+"Yale","Vermont",72,54
+"Baylor","Vanderbilt",69,67
+"Cincinnati","Morgan St",87,66
+"Clemson","Wofford",66,51
+"Coastal Car","Radford",63,58
+"Colorado","Colorado St",88,77
+"Columbia","Delaware",82,69
+"FL Gulf Coast","Florida Intl",84,76
+"Florida St","VA Commonwealth",76,71
+"Hofstra","Appalachian St",86,80
+"James Madison","Marshall",107,84
+"Loy Marymount","UC Riverside",77,76
+"MA Lowell","Boston College",68,66
+"Marist","Manhattan",75,70
+"Monmouth NJ","Niagara",56,42
+"NE Omaha","Montana St",100,97
+"North Carolina","Davidson",98,65
+"Pittsburgh","Cent Arkansas",100,47
+"Quinnipiac","Canisius",78,76
+"Seattle","MS Valley St",84,72
+"Southern Miss","N Dakota St",74,62
+"St John's","St Francis NY",63,56
+"St Mary's CA","UC Irvine",70,60
+"St Peter's","Siena",72,68
+"Toledo","WI Green Bay",71,69
+"UCLA","Long Beach St",83,76
+"Wagner","American Univ",55,48
+"Washington","CS Fullerton",87,69
+"Washington St","Portland St",91,67
+"Belmont","Lipscomb",93,84
+"Bethune-Cookman","S Carolina St",69,54
+"Butler","VMI",93,66
+"Col Charleston","East Carolina",77,73
+"CS Sacramento","Incarnate Word",73,70
+"Georgetown","Brown",74,57
+"Howard","NC Central",71,69
+"Iowa","W Illinois",90,56
+"Iowa St","Buffalo",84,63
+"Kent","NJIT",80,75
+"NC A&T","MD E Shore",80,74
+"Norfolk St","Coppin St",88,56
+"Oakland","Binghamton",83,72
+"Oklahoma","Villanova",78,55
+"Oregon","Navy",67,47
+"Purdue","IUPUI",80,53
+"San Francisco","CS Northridge",65,61
+"USC","Idaho",74,55
+"W Michigan","Northeastern",87,86
+"Arkansas","Evansville",89,76
+"Army","Bryant",77,55
+"Baylor","Northwestern LA",75,62
+"Bowling Green","SE Missouri St",79,52
+"Duquesne","UMBC",89,70
+"Fordham","Long Island",89,84
+"Furman","Liberty",79,56
+"G Washington","Penn St",76,66
+"Georgia","Winthrop",74,64
+"Gonzaga","Montana",61,58
+"Grand Canyon","Southern Univ",70,56
+"Harvard","Boston Univ",75,69
+"Idaho St","Portland",66,65
+"Marquette","San Jose St",80,62
+"Maryland","Connecticut",76,66
+"Miami FL","Florida",66,55
+"Mt St Mary's","Bucknell",81,73
+"Northern Iowa","George Mason",73,65
+"Notre Dame","Stony Brook",86,61
+"Ohio St","Air Force",74,50
+"Rhode Island","Houston",67,57
+"Rutgers","Central Conn",75,59
+"S Dakota St","Minnesota",84,70
+"SMU","Michigan",82,58
+"South Dakota","Missouri KC",79,70
+"St Bonaventure","Vermont",80,68
+"St Joseph's PA","Princeton",62,50
+"Syracuse","Colgate",78,51
+"Texas","UT San Antonio",116,50
+"Towson","Loyola MD",65,54
+"Tulsa","Iona",90,81
+"UCF","Massachusetts",67,63
+"UT Arlington","Bradley",97,61
+"Virginia","West Virginia",70,54
+"Wagner","Rider",65,64
+"Washington","TCU",92,67
+"Xavier","Wright St",90,55
+"Albany NY","Marist",75,53
+"Arizona","Fresno St",85,72
+"Boise St","Loy Marymount",67,66
+"BYU","Utah St",80,68
+"California","Incarnate Word",74,62
+"Campbell","Charlotte",76,70
+"Columbia","Manhattan",72,71
+"Creighton","Nebraska",83,67
+"Dartmouth","Maine",79,69
+"Davidson","E Washington",96,86
+"Dayton","Vanderbilt",72,67
+"Denver","San Diego",59,47
+"DePaul","Drake",74,71
+"Detroit","Toledo",75,72
+"Edwardsville","S Illinois",76,74
+"F Dickinson","Lafayette",91,89
+"High Point","UNC Greensboro",90,72
+"Illinois","Yale",69,65
+"Indiana","IPFW",90,65
+"Kansas","Holy Cross",92,59
+"Kansas St","Coppin St",83,58
+"Kentucky","E Kentucky",88,67
+"Marshall","E Illinois",82,76
+"Michigan St","MD E Shore",78,35
+"Missouri","NE Omaha",85,78
+"Pepperdine","Long Beach St",77,75
+"Providence","Boston College",66,51
+"Purdue","Howard",93,55
+"Quinnipiac","Hartford",68,66
+"Siena","Hofstra",81,68
+"St John's","Niagara",48,44
+"Temple","Penn",77,73
+"Texas Tech","TN Martin",68,49
+"ULL","McNeese St",97,64
+"Utah Valley","Weber St",84,81
+"Valparaiso","Indiana St",69,63
+"Virginia Tech","Radford",74,65
+"WI Milwaukee","Wisconsin",68,67
+"Wichita St","UNLV",56,50
+"Boston Univ","MA Lowell",80,60
+"Idaho","Washington St",78,74
+"Iowa St","Iowa",83,82
+"Kent","ULM",73,62
+"Missouri St","IUPUI",88,74
+"NJIT","St Francis NY",92,86
+"Penn St","Canisius",81,67
+"San Diego St","Nicholls St",84,47
+"Seton Hall","Troy",78,69
+"Southern Univ","Wyoming",68,58
+"N Dakota St","North Dakota",69,67
+"Pittsburgh","E Washington",84,51
+"TCU","Prairie View",73,55
+"TN Martin","UTRGV",72,64
+"Valparaiso","Chicago St",71,53
+"Akron","Bethune-Cookman",81,60
+"Ark Little Rock","DePaul",66,44
+"Arkansas","Tennessee Tech",83,57
+"Army","Air Force",90,80
+"Boise St","Oregon",74,72
+"Buffalo","Binghamton",80,64
+"Butler","Tennessee",94,86
+"C Michigan","TX Southern",79,71
+"California","St Mary's CA",63,59
+"Chattanooga","Dayton",61,59
+"Colorado","BYU",92,83
+"Columbia","NJIT",65,56
+"Connecticut","Ohio St",75,55
+"Creighton","IUPUI",90,65
+"CS Bakersfield","South Dakota",77,67
+"Davidson","W Carolina",87,54
+"Delaware","Marist",70,69
+"Detroit","Bowling Green",95,80
+"Duquesne","St Francis PA",67,65
+"Edwardsville","Portland St",74,64
+"Evansville","MS Valley St",95,60
+"Fresno St","Pacific",71,52
+"G Washington","Rutgers",83,49
+"Gardner Webb","Furman",73,53
+"Georgetown","UNC Wilmington",87,82
+"Georgia St","Old Dominion",68,64
+"Holy Cross","Hartford",90,68
+"Illinois","IL Chicago",83,79
+"Indiana","McNeese St",105,60
+"IPFW","Austin Peay",85,68
+"James Madison","George Mason",69,46
+"Kansas","Oregon St",82,67
+"Kent","Canisius",84,77
+"Kentucky","Arizona St",72,58
+"Lafayette","Sacred Heart",90,86
+"Lamar","Liberty",73,58
+"Long Island","Niagara",80,79
+"Louisiana Tech","ULL",91,79
+"Louisville","E Michigan",86,53
+"Loy Marymount","CS Fullerton",82,70
+"Marquette","Wisconsin",57,55
+"Marshall","E Kentucky",96,72
+"Maryland","MD E Shore",77,56
+"Memphis","Manhattan",89,57
+"Michigan","Delaware St",80,33
+"Michigan St","Florida",58,52
+"Mississippi","SE Missouri St",75,64
+"Missouri KC","Mississippi St",72,67
+"MTSU","Auburn",88,81
+"Navy","VMI",68,62
+"Nevada","Drake",79,71
+"New Mexico","Northern Iowa",76,57
+"Northeastern","Stony Brook",75,62
+"Oakland","Toledo",76,64
+"Ohio","Cleveland St",76,67
+"Oklahoma","Oral Roberts",96,73
+"Oklahoma St","Minnesota",62,60
+"Penn St","ULM",54,50
+"Pepperdine","Ball St",72,63
+"Portland","CS Sacramento",81,73
+"Princeton","Lipscomb",78,64
+"Providence","Bryant",74,67
+"Purdue","Youngstown St",95,64
+"Radford","Howard",92,91
+"Richmond","Longwood",77,59
+"Rider","Charleston So",82,72
+"S Carolina St","Jacksonville",81,74
+"S Illinois","North Texas",74,66
+"Samford","Florida A&M",86,67
+"Siena","Albany NY",78,70
+"St Louis","Alabama A&M",75,58
+"Stanford","Dartmouth",64,50
+"TAM C. Christi","UT San Antonio",85,79
+"Tennessee St","Grambling",64,52
+"Texas","North Carolina",84,82
+"Texas A&M","Kansas St",78,68
+"UC Irvine","Utah St",73,63
+"UCF","FL Atlantic",75,61
+"UCLA","Gonzaga",71,66
+"UMBC","Mt St Mary's",75,63
+"UNLV","UC Riverside",73,62
+"Utah Valley","Idaho St",100,76
+"W Illinois","E Illinois",64,57
+"Washington","Montana",92,62
+"Wichita St","Utah",67,50
+"Xavier","Cincinnati",65,55
+"Alabama","Clemson",51,50
+"Alabama St","Jacksonville St",63,60
+"Arizona","Missouri",88,52
+"Boston College","Maine",91,60
+"Boston Univ","Quinnipiac",64,57
+"Colgate","New Hampshire",75,59
+"Denver","Weber St",69,68
+"East Carolina","NC A&T",71,60
+"FL Gulf Coast","Massachusetts",77,76
+"Florida St","SE Louisiana",75,58
+"Fordham","Coppin St",92,55
+"Houston","LSU",105,98
+"Illinois St","Murray St",63,61
+"Iowa St","Ark Pine Bluff",78,64
+"Miami OH","Wright St",72,67
+"Monmouth NJ","Wagner",73,54
+"Montana St","San Jose St",91,83
+"N Colorado","Colorado St",73,64
+"N Kentucky","Norfolk St",81,60
+"NC State","South Florida",65,46
+"NE Omaha","Grand Canyon",108,104
+"Nebraska","Rhode Island",70,67
+"Northwestern","Chicago St",77,35
+"Notre Dame","Loyola-Chicago",81,61
+"Pittsburgh","Morehead St",72,62
+"S Dakota St","Santa Barbara",86,68
+"Seton Hall","St Peter's",72,46
+"St John's","Syracuse",84,72
+"St Joseph's PA","Temple",66,65
+"Texas St","UTRGV",68,59
+"Tulsa","Missouri St",70,61
+"UAB","Seattle",79,73
+"UNC Asheville","Campbell",80,60
+"USC","Yale",68,56
+"Villanova","La Salle",76,47
+"Virginia Tech","Lamar",88,53
+"WKU","Indiana St",75,62
+"Washington St","UTEP",84,68
+"West Virginia","ULM",100,58
+"Wyoming","New Mexico St",62,59
+"Coastal Car","Wofford",71,63
+"Columbia","Robert Morris",78,71
+"CS Bakersfield","Dartmouth",69,62
+"Hartford","Sacred Heart",80,71
+"Manhattan","St Francis NY",71,60
+"Marshall","NC Central",92,73
+"North Florida","Florida Intl",94,72
+"North Texas","Nicholls St",78,60
+"SC Upstate","Navy",66,57
+"Southern Miss","South Alabama",57,54
+"St Mary's CA","Cal Poly SLO",93,63
+"Tennessee St","Stetson",93,90
+"Tulane","Prairie View",63,49
+"W Carolina","E Washington",97,80
+"Auburn","Mercer",78,71
+"Chattanooga","Tennessee Tech",80,69
+"Cincinnati","Norfolk St",75,59
+"Clemson","Presbyterian",69,41
+"Duke","Ga Southern",99,65
+"E Kentucky","FL Atlantic",80,73
+"Florida A&M","SE Louisiana",67,64
+"Georgia Tech","VA Commonwealth",77,64
+"Grand Canyon","Delaware St",88,59
+"Houston Bap","UC Riverside",72,59
+"Memphis","Southern Univ",72,67
+"Miami OH","Jackson St",64,53
+"Michigan","N Kentucky",77,62
+"Mississippi","Louisiana Tech",99,80
+"Monmouth NJ","Georgetown",83,68
+"Northwestern","MS Valley St",78,48
+"Oklahoma St","Longwood",73,55
+"Oregon","UC Irvine",78,63
+"San Diego","UC Davis",61,55
+"Santa Clara","Ark Pine Bluff",69,57
+"South Carolina","Drexel",79,54
+"St Francis PA","Binghamton",67,61
+"Stanford","DePaul",79,60
+"Texas","Appalachian St",67,55
+"UCLA","ULL",89,80
+"UNC Asheville","ETSU",84,64
+"Wake Forest","UNC Greensboro",81,71
+"WI Green Bay","Pacific",93,88
+"Wisconsin","TAM C. Christi",64,49
+"Alabama","Winthrop",72,60
+"Arizona","Northern Arizona",92,37
+"Arizona St","UNLV",66,56
+"Ark Little Rock","Cent Arkansas",77,54
+"Citadel","Bethune-Cookman",99,87
+"Cleveland St","Loyola-Chicago",60,54
+"Denver","N Colorado",81,77
+"Duquesne","S Carolina St",83,68
+"East Carolina","UNC Wilmington",78,73
+"Elon","Alabama St",91,74
+"Florida St","Mississippi St",90,66
+"Fresno St","CS Bakersfield",76,68
+"Houston","NC Central",73,65
+"Illinois St","IL Chicago",72,60
+"Iona","TX Southern",83,73
+"Louisville","Kennesaw",94,57
+"LSU","Gardner Webb",78,57
+"Massachusetts","New Orleans",103,95
+"Minnesota","Chicago St",70,52
+"Missouri St","Oral Roberts",85,66
+"N Dakota St","Montana St",73,64
+"NC State","High Point",76,73
+"New Mexico","New Mexico St",79,61
+"North Carolina","Tulane",96,72
+"North Florida","Austin Peay",80,70
+"Ohio St","N Illinois",67,54
+"Richmond","Old Dominion",77,61
+"SMU","Nicholls St",86,42
+"South Florida","Jacksonville",88,75
+"St Mary's CA","Southern Utah",92,36
+"Tennessee","FL Atlantic",81,62
+"Texas St","Prairie View",62,44
+"Texas Tech","S Dakota St",79,67
+"TN Martin","St Louis",82,76
+"UAB","SC Upstate",96,54
+"Utah","Savannah St",99,53
+"Vermont","Santa Barbara",75,68
+"WKU","Alabama A&M",79,70
+"CS Northridge","Portland St",77,71
+"Evansville","Norfolk St",84,70
+"MTSU","Belmont",83,62
+"NC A&T","Grambling",61,47
+"North Texas","MS Valley St",87,74
+"Ohio","Jackson St",72,67
+"Princeton","Liberty",77,72
+"Robert Morris","Lehigh",69,67
+"SMU","Hampton",105,72
+"South Dakota","WI Milwaukee",92,91
+"Stony Brook","American Univ",86,68
+"Tennessee St","Lipscomb",89,86
+"USC","Cal Poly SLO",101,82
+"West Virginia","Marshall",86,68
+"Wright St","Charleston So",71,65
+"BYU","C Michigan",98,85
+"Central Conn","MA Lowell",83,79
+"Chattanooga","Kennesaw",78,66
+"Colorado","Nicholls St",85,68
+"ETSU","E Kentucky",87,81
+"F Dickinson","Towson",69,68
+"Grand Canyon","San Diego St",52,45
+"Incarnate Word","St John's",73,51
+"Louisiana Tech","Southern Univ",83,76
+"Loy Marymount","Jacksonville St",77,60
+"Mississippi","Memphis",85,79
+"Nevada","Santa Clara",72,69
+"Old Dominion","MD E Shore",77,47
+"Oregon","Long Beach St",94,73
+"Oregon St","CS Fullerton",82,69
+"Pepperdine","ULL",79,59
+"S Illinois","Murray St",88,73
+"Sam Houston St","Long Island",75,69
+"San Francisco","Coppin St",96,93
+"South Alabama","Samford",72,70
+"South Carolina","Clemson",65,59
+"Tennessee Tech","Miami OH",77,64
+"TN Martin","Arkansas St",74,70
+"UC Riverside","Abilene Chr",60,56
+"Wagner","Fairfield",76,64
+"Wake Forest","Coastal Car",83,77
+"Washington St","Texas St",78,73
+"Weber St","Portland",92,82
+"Air Force","UC Davis",67,60
+"Albany NY","St Francis PA",65,58
+"Arizona","UNLV",82,70
+"Arizona St","Houston Bap",98,79
+"Boston College","Delaware",69,61
+"Buffalo","Montana St",80,73
+"Butler","Purdue",74,68
+"California","Coppin St",84,51
+"Campbell","Citadel",101,82
+"Canisius","Boston Univ",84,68
+"Charlotte","Appalachian St",82,66
+"Chicago St","W Illinois",77,70
+"Cincinnati","VA Commonwealth",69,63
+"Cleveland St","Belmont",67,65
+"Colorado","Hampton",95,53
+"Dayton","Furman",70,50
+"Detroit","UCF",95,89
+"Duquesne","Robert Morris",72,65
+"Elon","UNC Greensboro",79,69
+"Florida","Oklahoma St",72,70
+"Florida St","FL Atlantic",64,59
+"Fordham","Maine",70,53
+"G Washington","St Peter's",87,74
+"George Mason","Longwood",75,70
+"Georgia","Georgia Tech",75,61
+"Georgia St","Southern Miss",66,46
+"Gonzaga","Tennessee",86,79
+"Houston","E Illinois",81,65
+"Howard","UMBC",103,93
+"Illinois","South Dakota",91,79
+"Indiana","Notre Dame",80,73
+"Indiana St","St Louis",76,68
+"Iowa","Drake",70,64
+"IPFW","Stetson",95,89
+"IUPUI","Southern Utah",82,68
+"Kansas","Montana",88,46
+"Kansas St","Colorado St",61,56
+"Lehigh","Mt St Mary's",76,73
+"Louisville","WKU",78,56
+"Loyola-Chicago","IL Chicago",64,47
+"LSU","Oral Roberts",100,77
+"Maryland","Princeton",82,61
+"Mercer","Arkansas",69,66
+"Miami FL","Col Charleston",85,63
+"Michigan","Youngstown St",105,46
+"Michigan St","Northeastern",78,58
+"Mississippi St","Tulane",69,59
+"N Illinois","Florida Intl",78,75
+"N Kentucky","SE Missouri St",79,69
+"NC State","Missouri",73,59
+"New Hampshire","Dartmouth",76,56
+"New Mexico St","UTEP",73,53
+"North Carolina","UCLA",89,76
+"North Florida","Florida A&M",87,70
+"Northern Iowa","Iowa St",81,79
+"Northwestern","DePaul",78,70
+"Oakland","Washington",97,83
+"Ohio St","Kentucky",74,67
+"Oklahoma","Creighton",87,74
+"Oregon St","Tulsa",76,71
+"Penn St","Drexel",63,57
+"Portland","CS Fullerton",65,60
+"Providence","Rider",73,65
+"Radford","UNC Wilmington",69,67
+"Rhode Island","Iona",79,74
+"Rice","New Mexico",90,89
+"S Dakota St","FL Gulf Coast",56,52
+"Seton Hall","Wichita St",80,76
+"St Bonaventure","S Carolina St",64,45
+"St Joseph's PA","Illinois St",79,65
+"Syracuse","Cornell",67,46
+"Temple","Delaware St",78,63
+"Tennessee St","Alcorn St",81,76
+"Texas","Stanford",75,73
+"Texas A&M","Baylor",80,61
+"Texas Tech","Ark Pine Bluff",94,54
+"Toledo","Bethune-Cookman",102,68
+"UAB","South Florida",79,68
+"UNC Asheville","Georgetown",79,73
+"Utah","Duke",77,75
+"Utah Valley","UT San Antonio",83,78
+"Valparaiso","Missouri St",74,45
+"Vanderbilt","Wofford",80,56
+"Virginia","Villanova",86,75
+"Virginia Tech","Grambling",87,52
+"Winthrop","Ga Southern",88,81
+"Wyoming","NE Omaha",76,75
+"Xavier","Auburn",85,61
+"Ark Little Rock","Northern Arizona",84,57
+"Austin Peay","Lipscomb",92,84
+"Boise St","Bradley",90,70
+"Coastal Car","Alabama St",68,65
+"Connecticut","MA Lowell",88,79
+"E Washington","Denver",74,58
+"Evansville","Fresno St",85,77
+"James Madison","East Carolina",67,61
+"Manhattan","Morgan St",78,66
+"Marist","Army",89,83
+"MD E Shore","American Univ",79,64
+"Monmouth NJ","Rutgers",73,67
+"Morehead St","W Carolina",60,52
+"NJIT","St John's",83,74
+"Pittsburgh","Davidson",94,69
+"Samford","Nebraska",69,58
+"Seattle","San Jose St",67,64
+"St Francis NY","Liberty",64,55
+"Stony Brook","Hofstra",71,68
+"TAM C. Christi","Cal Poly SLO",80,74
+"TCU","Abilene Chr",80,69
+"Wright St","Bowling Green",83,47
+"Akron","Santa Barbara",84,70
+"Boston Univ","New Hampshire",78,74
+"Colorado St","SC Upstate",89,61
+"Creighton","North Texas",105,82
+"E Michigan","Coppin St",73,62
+"Elon","UNC Asheville",86,81
+"Florida St","Charleston So",75,64
+"Georgia Tech","SE Louisiana",75,62
+"Gonzaga","Pepperdine",99,73
+"Grand Canyon","Houston",78,69
+"Holy Cross","Maine",76,75
+"Jacksonville","Florida A&M",68,66
+"Jacksonville St","N Colorado",79,76
+"Long Island","Incarnate Word",66,59
+"Loyola-Chicago","W Illinois",72,67
+"Marquette","Chicago St",91,74
+"Marshall","Wyoming",90,82
+"N Dakota St","Idaho St",67,62
+"NE Omaha","E Illinois",80,68
+"New Mexico St","Oral Roberts",76,61
+"Norfolk St","UTEP",85,76
+"North Carolina","Appalachian St",94,70
+"Northwestern","Sacred Heart",103,67
+"Notre Dame","Youngstown St",87,78
+"Ohio","Ark Pine Bluff",65,58
+"Oregon","Alabama",72,68
+"Oregon St","Quinnipiac",82,61
+"Pacific","Santa Clara",73,72
+"Portland","Loy Marymount",87,60
+"Providence","Massachusetts",90,66
+"S Illinois","St Louis",65,52
+"Southern Univ","NC Central",68,63
+"St Mary's CA","San Francisco",74,52
+"Stanford","CS Sacramento",70,60
+"TN Martin","Alcorn St",70,47
+"Toledo","NC A&T",95,62
+"UC Irvine","Sam Houston St",63,53
+"ULL","New Orleans",79,69
+"USC","Edwardsville",70,51
+"Utah St","UTRGV",94,69
+"VMI","Gardner Webb",76,75
+"West Virginia","E Kentucky",84,59
+"William & Mary","High Point",78,75
+"Arizona","Long Beach St",85,70
+"Arizona St","SF Austin",80,73
+"Arkansas","North Florida",97,72
+"Arkansas St","Cent Arkansas",77,67
+"Auburn","New Mexico",83,78
+"Austin Peay","Wofford",84,77
+"Boston College","Fordham",64,55
+"Butler","Southern Utah",88,52
+"C Michigan","Howard",72,52
+"Cal Poly SLO","UT San Antonio",88,73
+"Canisius","ULM",108,96
+"Chattanooga","Radford",77,75
+"Col Charleston","Campbell",86,68
+"Colorado","Penn St",71,70
+"CS Bakersfield","Portland St",78,66
+"Dartmouth","Longwood",78,54
+"Dayton","Miami OH",64,63
+"DePaul","G Washington",82,61
+"Drake","Abilene Chr",87,70
+"Drexel","Penn",53,52
+"East Carolina","S Carolina St",98,71
+"Evansville","Alabama A&M",91,70
+"Fairfield","Loyola MD",94,88
+"Florida","Jacksonville",89,65
+"Florida Intl","Binghamton",66,49
+"Ga Southern","Stetson",78,58
+"George Mason","Wagner",71,60
+"Georgetown","Charlotte",62,59
+"Georgia","Clemson",71,48
+"Georgia St","MTSU",64,62
+"Grand Canyon","Marshall",85,81
+"Harvard","BYU",85,82
+"Hawaii","Northern Iowa",68,52
+"Hofstra","FL Atlantic",68,54
+"Houston","Wyoming",94,89
+"Idaho","UC Davis",68,51
+"Illinois St","Tennessee St",66,55
+"Indiana","Kennesaw",99,72
+"Indiana St","Ball St",73,61
+"Iowa","Tennessee Tech",85,63
+"Iowa St","Cincinnati",81,79
+"IPFW","W Michigan",89,86
+"James Madison","Mt St Mary's",73,53
+"Kansas","San Diego St",70,57
+"Kansas St","North Dakota",63,49
+"Louisiana Tech","FL Gulf Coast",66,63
+"Louisville","Missouri KC",75,47
+"LSU","American Univ",79,51
+"Marist","Brown",84,83
+"Memphis","IUPUI",84,48
+"Miami FL","La Salle",95,49
+"Michigan St","Oakland",99,93
+"Mississippi","Troy",83,80
+"N Dakota St","UTRGV",68,50
+"Navy","Furman",62,49
+"NC Central","E Illinois",57,52
+"NC State","UNC Greensboro",58,52
+"NE Omaha","Southern Univ",74,53
+"Nebraska","Prairie View",81,50
+"Nicholls St","Hampton",84,81
+"Northeastern","Vermont",77,65
+"Ohio St","Mercer",64,44
+"Oklahoma","Washington St",88,60
+"Old Dominion","Rhode Island",71,65
+"Princeton","Bucknell",89,77
+"Purdue","Vanderbilt",68,55
+"Richmond","Presbyterian",74,44
+"Santa Barbara","Iona",80,76
+"SE Missouri St","Missouri St",78,74
+"Seton Hall","South Florida",66,49
+"Siena","St Bonaventure",73,70
+"SMU","Kent",90,74
+"South Alabama","Rice",74,67
+"South Carolina","St John's",75,61
+"St Joseph's PA","Virginia Tech",79,62
+"Stony Brook","Lehigh",75,62
+"Syracuse","Montana St",82,60
+"Tennessee","ETSU",76,67
+"Texas Tech","Ark Little Rock",65,53
+"Tulane","Southern Miss",59,40
+"Tulsa","Northern Arizona",90,55
+"UC Irvine","Norfolk St",80,62
+"UC Riverside","Denver",63,54
+"UCF","Bethune-Cookman",101,96
+"UCLA","McNeese St",67,53
+"UNC Wilmington","Utah Valley",102,77
+"UNLV","South Dakota",103,68
+"Utah","Delaware St",105,58
+"Utah St","Idaho St",69,58
+"UTEP","Sam Houston St",87,68
+"VA Commonwealth","Buffalo",90,69
+"Villanova","Delaware",78,48
+"Virginia","California",63,62
+"WKU","Detroit",79,74
+"Washington","Seattle",79,68
+"Weber St","S Dakota St",99,95
+"Wichita St","Nevada",98,69
+"Winthrop","Alabama St",92,84
+"Wright St","Murray St",65,49
+"Xavier","Wake Forest",78,70
+"Akron","Iona",78,64
+"Albany NY","Niagara",65,56
+"Baylor","New Mexico St",85,70
+"Bowling Green","Cleveland St",62,47
+"BYU","New Mexico",96,66
+"Canisius","Nicholls St",83,74
+"Connecticut","Central Conn",99,52
+"Davidson","Morehead St",81,77
+"Georgia Tech","Colgate",76,60
+"Gonzaga","Loy Marymount",85,62
+"Hampton","ULM",75,64
+"Harvard","Auburn",69,51
+"Idaho St","UTRGV",76,64
+"Illinois","Missouri",68,63
+"Louisville","Utah Valley",98,68
+"Michigan","Bryant",96,60
+"Mississippi St","N Colorado",93,69
+"Monmouth NJ","Cornell",78,69
+"Northern Iowa","Washington St",63,59
+"Oklahoma","Hawaii",84,81
+"Penn St","Kent",75,69
+"Pittsburgh","W Carolina",79,73
+"Portland","Pepperdine",87,79
+"Rider","Morgan St",71,49
+"Rutgers","F Dickinson",72,64
+"San Diego","CS Northridge",81,63
+"San Francisco","Pacific",89,76
+"SMU","Colorado",70,66
+"St Mary's CA","Santa Clara",81,59
+"St Peter's","St Francis NY",56,45
+"TCU","Bradley",53,49
+"Towson","UMBC",91,65
+"UNC Wilmington","Missouri KC",76,56
+"USC","Lafayette",100,64
+"Utah St","N Dakota St",76,62
+"WI Milwaukee","Minnesota",74,65
+"Wisconsin","WI Green Bay",84,79
+"BYU","Northern Iowa",84,76
+"Hawaii","Auburn",79,67
+"Oklahoma","Harvard",83,71
+"Washington St","New Mexico",82,59
+"Kentucky","Louisville",75,73
+"Fairfield","Bucknell",101,91
+"Marquette","Presbyterian",84,66
+"Maryland","Marshall",87,67
+"Northwestern","Loyola MD",74,59
+"Ohio St","S Carolina St",73,57
+"S Dakota St","MTSU",65,61
+"Syracuse","TX Southern",80,67
+"VA Commonwealth","Liberty",85,57
+"Arizona St","CS Bakersfield",75,59
+"Army","Monmouth NJ",91,84
+"Belmont","Valparaiso",85,81
+"Brown","Bethune-Cookman",81,73
+"Butler","IUPUI",92,54
+"California","Davidson",86,60
+"Columbia","Howard",72,59
+"Cornell","St Peter's",65,62
+"Creighton","Coppin St",102,77
+"Duke","Elon",105,66
+"E Michigan","Detroit",88,73
+"Florida Intl","Florida A&M",65,45
+"Grand Canyon","Edwardsville",86,75
+"Hofstra","Sacred Heart",80,73
+"Houston","Nicholls St",76,49
+"Iona","Drexel",77,70
+"Louisiana Tech","Prairie View",77,58
+"North Carolina","UNC Greensboro",96,63
+"Oakland","Chicago St",101,93
+"Rutgers","MA Lowell",89,66
+"Santa Barbara","Washington",83,78
+"Seattle","UC Davis",80,75
+"South Dakota","FL Gulf Coast",89,81
+"St Mary's CA","Utah Valley",65,50
+"Stony Brook","NJIT",83,61
+"TAM C. Christi","Austin Peay",74,70
+"TCU","Delaware St",75,47
+"UC Riverside","Morgan St",81,72
+"UNC Wilmington","Campbell",106,83
+"Villanova","Penn",77,57
+"WI Green Bay","Morehead St",78,72
+"Alabama","Jacksonville St",67,59
+"Albany NY","St Francis NY",71,66
+"Ball St","Alabama A&M",63,62
+"Baylor","TX Southern",72,59
+"Binghamton","Mt St Mary's",62,53
+"Buffalo","Delaware",99,79
+"Charlotte","Citadel",111,93
+"Chattanooga","Lipscomb",80,56
+"Connecticut","Texas",71,66
+"E Kentucky","Manhattan",76,64
+"Florida St","Florida",73,71
+"G Washington","UCF",67,50
+"Georgia","Robert Morris",79,67
+"Georgia Tech","Duquesne",73,67
+"Hawaii","MS Valley St",77,48
+"Idaho St","CS Northridge",84,79
+"Incarnate Word","Rice",82,76
+"Iowa","Michigan St",83,70
+"Jacksonville","Marist",69,68
+"Kansas","UC Irvine",78,53
+"Kansas St","St Louis",75,47
+"Maine","Quinnipiac",98,95
+"Massachusetts","Long Island",83,79
+"Memphis","Tulane",77,65
+"Miami FL","Princeton",76,64
+"Missouri","Ark Pine Bluff",78,25
+"N Illinois","IL Chicago",70,65
+"NC State","Northeastern",72,66
+"North Texas","Sam Houston St",69,64
+"Notre Dame","Liberty",73,56
+"Oklahoma St","Missouri KC",61,43
+"Old Dominion","Norfolk St",68,57
+"Portland St","CS Fullerton",89,82
+"Purdue","Wisconsin",61,55
+"SMU","Tulsa",81,69
+"St Joseph's PA","MD E Shore",78,68
+"Temple","Cincinnati",77,70
+"Tennessee","Tennessee St",74,69
+"Texas A&M","Cal Poly SLO",82,63
+"Texas Tech","Richmond",85,70
+"TN Martin","FL Atlantic",57,48
+"UAB","SF Austin",76,66
+"UNC Asheville","Furman",67,65
+"UTEP","UTRGV",85,64
+"Vermont","Siena",73,64
+"Wake Forest","LSU",77,71
+"William & Mary","C Michigan",88,84
+"Akron","S Carolina St",78,68
+"Ark Little Rock","South Alabama",69,60
+"Arkansas St","Troy",84,81
+"Army","Lehigh",88,82
+"Boise St","UC Davis",64,56
+"Boston College","New Hampshire",72,67
+"Bucknell","Navy",88,58
+"Colgate","Lafayette",77,70
+"Dayton","Arkansas",85,81
+"Duke","Long Beach St",103,81
+"ETSU","Morehead St",75,72
+"Evansville","Indiana St",70,62
+"Fresno St","UNLV",69,66
+"Georgetown","DePaul",70,58
+"Holy Cross","Boston Univ",80,64
+"Houston","South Florida",73,67
+"Illinois St","Missouri St",74,61
+"Indiana","Rutgers",79,72
+"Iowa St","Coppin St",104,84
+"IPFW","Oral Roberts",90,84
+"Jackson St","SE Louisiana",89,66
+"Kent","NC A&T",61,60
+"Loyola MD","American Univ",75,67
+"Maryland","Penn St",70,64
+"Mercer","Kennesaw",76,73
+"Michigan","Illinois",78,68
+"New Mexico","Nevada",88,76
+"NJIT","St Francis PA",77,65
+"North Carolina","Clemson",80,69
+"Northern Iowa","Bradley",80,44
+"Northwestern","Nebraska",81,72
+"Ohio","UC Riverside",81,59
+"Ohio St","Minnesota",78,63
+"Pittsburgh","Syracuse",72,61
+"Rhode Island","Brown",88,85
+"Rider","Hartford",82,80
+"S Illinois","Loyola-Chicago",72,62
+"San Diego St","Wyoming",67,55
+"Santa Barbara","Seattle",88,50
+"Seton Hall","Marquette",83,63
+"St Bonaventure","Niagara",82,68
+"Texas St","Ga Southern",80,66
+"Toledo","N Kentucky",90,73
+"ULM","Appalachian St",72,56
+"UT Arlington","Georgia St",85,70
+"Utah St","San Jose St",80,71
+"VA Commonwealth","North Florida",80,68
+"Vanderbilt","W Michigan",86,61
+"Virginia","Oakland",71,58
+"Wagner","MA Lowell",76,62
+"West Virginia","Virginia Tech",88,63
+"Yale","Central Conn",62,42
+"Ball St","Chicago St",73,48
+"Belmont","SE Missouri St",92,82
+"Bryant","Dartmouth",62,60
+"Campbell","Winthrop",90,83
+"Col Charleston","James Madison",65,62
+"Creighton","St John's",80,70
+"CS Bakersfield","Morgan St",80,68
+"FL Gulf Coast","La Salle",86,77
+"Gardner Webb","Coastal Car",65,61
+"Gonzaga","Santa Clara",79,77
+"Harvard","Wofford",77,57
+"High Point","Radford",77,60
+"Hofstra","Delaware",90,80
+"Idaho","North Dakota",74,71
+"Jacksonville","Bethune-Cookman",74,70
+"Jacksonville St","Edwardsville",72,67
+"Mississippi St","NC Central",71,48
+"Montana","Northern Arizona",90,84
+"N Colorado","E Washington",96,90
+"Northeastern","Elon",86,79
+"Pacific","San Diego",77,75
+"Providence","Butler",81,73
+"San Francisco","Portland",107,95
+"Southern Utah","Montana St",93,82
+"St Mary's CA","BYU",85,74
+"Tennessee Tech","E Illinois",94,84
+"Towson","William & Mary",76,69
+"UMBC","MD E Shore",89,75
+"UNC Asheville","Longwood",70,61
+"UNC Wilmington","Drexel",75,63
+"Villanova","Xavier",95,64
+"Wichita St","Drake",67,47
+"California","Colorado",79,65
+"IUPUI","South Dakota",77,66
+"NE Omaha","W Illinois",82,80
+"North Texas","UT San Antonio",70,66
+"S Dakota St","Denver",68,59
+"Stanford","Utah",70,68
+"USC","Washington St",90,77
+"UTEP","Rice",61,60
+"Washington","UCLA",96,93
+"Abilene Chr","Cent Arkansas",62,61
+"Air Force","San Jose St",64,57
+"Akron","Lipscomb",80,73
+"Alabama","Norfolk St",68,49
+"Albany NY","Cornell",75,70
+"Alcorn St","Prairie View",73,70
+"Ark Little Rock","Troy",67,61
+"Arkansas St","South Alabama",89,67
+"Auburn","Tennessee",83,77
+"Boise St","Colorado St",84,80
+"Bryant","Central Conn",88,72
+"Bucknell","Army",84,76
+"BYU","Pacific",81,67
+"Canisius","Marist",92,83
+"Chattanooga","Citadel",84,78
+"Cincinnati","Tulsa",76,57
+"Clemson","Florida St",84,75
+"Coastal Car","Winthrop",82,63
+"Connecticut","Tulane",75,67
+"CS Bakersfield","UC Riverside",67,48
+"CS Northridge","Morgan St",88,74
+"Dayton","Duquesne",66,58
+"Detroit","Youngstown St",96,87
+"Duke","Boston College",81,64
+"E Illinois","Jacksonville St",75,64
+"E Kentucky","Austin Peay",79,70
+"Elon","Drexel",83,78
+"ETSU","W Carolina",82,66
+"Evansville","Missouri St",76,59
+"F Dickinson","St Francis NY",86,77
+"Florida","Georgia",77,63
+"Furman","VMI",85,57
+"Gardner Webb","Longwood",67,66
+"Georgetown","Marquette",80,70
+"Georgia St","Texas St",58,46
+"Gonzaga","San Francisco",102,94
+"Grambling","Alabama A&M",81,78
+"Hawaii","Howard",94,59
+"High Point","Charleston So",78,73
+"Hofstra","Towson",90,58
+"Houston","Temple",77,50
+"Houston Bap","Northwestern LA",99,73
+"Idaho","N Colorado",75,70
+"Indiana","Nebraska",79,69
+"Indiana St","Loyola-Chicago",73,58
+"Iona","Quinnipiac",78,66
+"Iowa","Purdue",70,63
+"Jackson St","Alabama St",68,61
+"James Madison","Delaware",73,63
+"Kansas","Baylor",102,74
+"Kentucky","Mississippi",83,61
+"Lamar","Nicholls St",79,67
+"Lehigh","Boston Univ",81,73
+"Louisiana Tech","Southern Miss",87,57
+"Loyola MD","Lafayette",81,78
+"LSU","Vanderbilt",90,82
+"Maine","Brown",98,92
+"Manhattan","Fairfield",72,66
+"Maryland","Northwestern",72,59
+"Mercer","Samford",69,50
+"Miami FL","Syracuse",64,51
+"Michigan","Penn St",79,56
+"Michigan St","Minnesota",69,61
+"Missouri","Savannah St",81,50
+"Montana","Southern Utah",83,66
+"Montana St","Northern Arizona",74,72
+"Mt St Mary's","Long Island",79,63
+"Murray St","Morehead St",62,57
+"Navy","Holy Cross",65,60
+"Nevada","Wyoming",71,68
+"New Mexico","Fresno St",77,62
+"NJIT","UMBC",86,83
+"North Carolina","Georgia Tech",86,78
+"North Dakota","E Washington",79,71
+"North Florida","E Michigan",82,77
+"Northeastern","UNC Wilmington",65,63
+"Oakland","Cleveland St",86,68
+"Oklahoma","Iowa St",87,83
+"Oklahoma St","TCU",69,48
+"Old Dominion","Charlotte",74,65
+"Penn","Binghamton",80,45
+"Pepperdine","Loy Marymount",68,65
+"Pittsburgh","MD E Shore",92,58
+"Portland St","CS Sacramento",76,68
+"Presbyterian","Campbell",70,63
+"Providence","St John's",83,65
+"Rhode Island","St Louis",85,57
+"S Carolina St","Miami OH",71,67
+"S Illinois","Northern Iowa",75,73
+"Sacred Heart","Robert Morris",69,65
+"Sam Houston St","Incarnate Word",78,72
+"San Diego St","Utah St",70,67
+"Santa Clara","Portland",84,77
+"SC Upstate","Missouri KC",70,68
+"Seton Hall","DePaul",78,74
+"SF Austin","McNeese St",86,57
+"Siena","Niagara",75,63
+"SMU","South Florida",72,58
+"South Carolina","Memphis",86,76
+"St Bonaventure","Davidson",97,85
+"St Francis PA","Wagner",73,65
+"St Joseph's PA","Richmond",77,73
+"St Mary's CA","San Diego",79,46
+"Stony Brook","Columbia",69,60
+"Tennessee St","SE Missouri St",72,66
+"Tennessee Tech","Edwardsville",86,63
+"Texas A&M","Arkansas",92,69
+"Texas Tech","Texas",82,74
+"TX Southern","Southern Univ",88,66
+"UC Irvine","New Mexico St",54,52
+"UCF","East Carolina",71,68
+"ULL","Appalachian St",79,58
+"UNC Asheville","Liberty",76,69
+"UT Arlington","Ga Southern",92,72
+"VA Commonwealth","George Mason",71,47
+"Valparaiso","IL Chicago",75,47
+"Villanova","Creighton",85,71
+"Virginia","Notre Dame",77,66
+"Virginia Tech","NC State",73,68
+"W Michigan","Jacksonville",76,72
+"Weber St","Idaho St",77,56
+"West Virginia","Kansas St",87,83
+"WI Green Bay","N Kentucky",86,70
+"William & Mary","Col Charleston",78,70
+"Wisconsin","Rutgers",79,57
+"Wofford","UNC Greensboro",87,76
+"Wright St","WI Milwaukee",84,82
+"Xavier","Butler",88,69
+"Yale","Hartford",88,53
+"Arizona","Arizona St",94,82
+"California","Utah",71,58
+"Colgate","American Univ",56,37
+"Colorado","Stanford",56,55
+"Florida Intl","FL Atlantic",76,59
+"G Washington","Fordham",69,63
+"Grand Canyon","Bethune-Cookman",74,53
+"Illinois St","Drake",67,62
+"Louisville","Wake Forest",65,57
+"Marshall","WKU",94,76
+"Massachusetts","La Salle",74,67
+"N Dakota St","Denver",75,49
+"NE Omaha","IUPUI",76,71
+"Ohio St","Illinois",75,73
+"Oregon St","Oregon",70,57
+"Princeton","Hampton",89,59
+"S Dakota St","W Illinois",63,59
+"South Dakota","Oral Roberts",94,84
+"UAB","MTSU",78,67
+"UT San Antonio","Rice",85,80
+"UTEP","North Texas",84,75
+"Vermont","Harvard",65,62
+"Washington","USC",87,85
+"Washington St","UCLA",85,78
+"Wichita St","Bradley",85,58
+"Bryant","F Dickinson",85,80
+"Detroit","Cleveland St",88,80
+"ETSU","NC Central",72,68
+"Fairfield","Dartmouth",97,85
+"Grambling","Alabama St",84,81
+"Iona","Niagara",65,52
+"Jackson St","Alabama A&M",67,66
+"Kansas","Oklahoma",109,106
+"Long Island","Central Conn",76,67
+"Manhattan","Siena",92,87
+"Monmouth NJ","Canisius",81,66
+"MS Valley St","Ark Pine Bluff",66,60
+"Mt St Mary's","St Francis NY",44,40
+"New Orleans","Lamar",68,64
+"North Carolina","Florida St",106,90
+"Prairie View","Southern Univ",71,65
+"Quinnipiac","Rider",64,60
+"Sam Houston St","Northwestern LA",94,79
+"SF Austin","SE Louisiana",89,69
+"St Francis PA","Sacred Heart",84,80
+"St Peter's","Marist",68,60
+"TX Southern","Alcorn St",74,58
+"Virginia Tech","Virginia",70,68
+"Wagner","Robert Morris",72,69
+"West Virginia","TCU",95,87
+"WI Green Bay","Wright St",76,68
+"WI Milwaukee","N Kentucky",76,67
+"Youngstown St","Oakland",100,98
+"Akron","Buffalo",75,71
+"Arkansas","Vanderbilt",90,85
+"Baylor","Oklahoma St",79,62
+"Boise St","Utah St",76,61
+"Butler","DePaul",77,72
+"Chattanooga","Mercer",74,62
+"Clemson","Syracuse",74,73
+"Creighton","Georgetown",79,66
+"Florida A&M","Savannah St",61,58
+"Houston","Tulane",63,45
+"Houston Bap","McNeese St",82,73
+"Indiana","Wisconsin",59,58
+"Iowa","Nebraska",77,66
+"Kent","W Michigan",87,84
+"LSU","Kentucky",85,67
+"Marquette","Providence",65,64
+"Memphis","Nicholls St",82,46
+"Penn St","Minnesota",86,77
+"Princeton","Norfolk St",83,74
+"Rhode Island","Richmond",77,65
+"Samford","Citadel",94,74
+"SC Upstate","NC A&T",78,68
+"South Carolina","Auburn",81,69
+"TAM C. Christi","Cent Arkansas",94,82
+"Temple","Connecticut",55,53
+"Texas","Kansas St",60,57
+"Tulsa","East Carolina",55,43
+"UNC Greensboro","Furman",67,66
+"VA Commonwealth","St Joseph's PA",85,82
+"Wofford","VMI",65,61
+"Albany NY","UMBC",73,59
+"Ball St","Toledo",87,69
+"Belmont","Edwardsville",85,77
+"Bowling Green","Miami OH",73,62
+"Bucknell","American Univ",72,54
+"Colorado St","UNLV",66,65
+"Columbia","MD E Shore",81,75
+"Cornell","Howard",84,81
+"Davidson","Duquesne",77,66
+"Dayton","Massachusetts",93,63
+"Denver","Oral Roberts",78,75
+"Duke","Wake Forest",91,75
+"E Michigan","C Michigan",99,80
+"Fordham","La Salle",66,61
+"Fresno St","Nevada",85,63
+"Gardner Webb","Campbell",71,68
+"Georgia","Missouri",77,59
+"Hampton","Morgan St",83,80
+"Hawaii","Cal Poly SLO",86,73
+"Holy Cross","Colgate",65,63
+"Illinois St","Loyola-Chicago",54,52
+"Indiana St","Drake",79,69
+"Iowa St","Texas Tech",76,69
+"IPFW","South Dakota",85,65
+"Lafayette","Army",76,73
+"Liberty","Coastal Car",62,61
+"Long Beach St","CS Northridge",94,79
+"Loyola MD","Lehigh",51,50
+"MA Lowell","Hartford",80,76
+"Maryland","Rutgers",88,63
+"Missouri St","Northern Iowa",59,58
+"N Illinois","Ohio",80,69
+"Navy","Boston Univ",83,67
+"North Florida","Stetson",97,79
+"Ohio St","Northwestern",65,56
+"Oregon","California",68,65
+"Pittsburgh","Georgia Tech",89,84
+"Presbyterian","Longwood",78,65
+"Radford","Charleston So",80,73
+"S Illinois","Bradley",65,44
+"San Diego St","San Jose St",77,62
+"St Bonaventure","George Mason",77,58
+"St Louis","G Washington",65,62
+"Stanford","Oregon St",78,72
+"Stony Brook","Binghamton",62,52
+"Tennessee","Florida",83,69
+"Tennessee St","E Illinois",66,61
+"Texas A&M","Mississippi St",61,60
+"UCF","South Florida",75,64
+"UNC Asheville","Winthrop",85,84
+"Vermont","Maine",90,72
+"Villanova","Seton Hall",72,63
+"Wichita St","Evansville",67,64
+"Wyoming","Air Force",64,52
+"Xavier","St John's",74,66
+"Yale","NJIT",83,65
+"Ark Little Rock","ULL",77,57
+"Arkansas St","ULM",68,65
+"Austin Peay","Jacksonville St",73,54
+"BYU","Santa Clara",97,61
+"Charlotte","Southern Miss",82,76
+"Col Charleston","Hofstra",72,61
+"CS Fullerton","UC Riverside",79,73
+"Elon","James Madison",79,73
+"F Dickinson","Sacred Heart",80,68
+"Florida Intl","WKU",75,72
+"Georgia St","Troy",72,68
+"Grand Canyon","UTRGV",83,63
+"Idaho St","N Colorado",83,78
+"Iona","Rider",67,58
+"IUPUI","S Dakota St",74,67
+"Louisville","NC State",77,72
+"Manhattan","Canisius",94,86
+"Marshall","FL Atlantic",90,67
+"Michigan St","Illinois",79,54
+"Mississippi","Alabama",74,66
+"Missouri KC","Seattle",84,69
+"Montana","Portland St",79,66
+"Montana St","CS Sacramento",71,64
+"Morehead St","SE Missouri St",96,69
+"Mt St Mary's","Central Conn",73,62
+"MTSU","UTEP",78,72
+"NE Omaha","N Dakota St",91,82
+"New Mexico St","Utah Valley",78,66
+"Niagara","St Peter's",63,61
+"Northeastern","Delaware",88,56
+"Notre Dame","Boston College",82,54
+"Old Dominion","Louisiana Tech",56,53
+"Pepperdine","Pacific",81,76
+"Purdue","Michigan",87,70
+"Robert Morris","Long Island",70,60
+"San Francisco","San Diego",73,65
+"Siena","Fairfield",91,76
+"SMU","Cincinnati",59,57
+"South Alabama","Ga Southern",64,58
+"St Francis NY","St Francis PA",73,56
+"St Mary's CA","Loy Marymount",73,48
+"Tennessee Tech","Murray St",71,65
+"TN Martin","E Kentucky",78,70
+"Towson","UNC Wilmington",76,60
+"UAB","UT San Antonio",104,82
+"UC Irvine","UC Davis",76,55
+"UCLA","Arizona",87,84
+"USC","Arizona St",75,65
+"UT Arlington","Appalachian St",71,67
+"Wagner","Bryant",65,56
+"Weber St","North Dakota",74,62
+"WI Green Bay","Cleveland St",87,67
+"WI Milwaukee","Youngstown St",81,65
+"William & Mary","Drexel",72,63
+"Akron","W Michigan",62,53
+"Buffalo","Kent",76,67
+"Detroit","IL Chicago",87,69
+"Utah","Colorado",56,54
+"Valparaiso","Oakland",84,67
+"Alabama A&M","Ark Pine Bluff",85,70
+"Alabama St","MS Valley St",75,74
+"Albany NY","Vermont",69,57
+"Appalachian St","Texas St",76,56
+"Ark Little Rock","ULM",58,57
+"Arkansas","Mississippi St",82,68
+"Arkansas St","ULL",71,69
+"Army","Loyola MD",73,59
+"Baylor","Iowa St",94,89
+"Belmont","E Illinois",85,59
+"Boise St","Fresno St",81,70
+"Boston Univ","Lafayette",68,47
+"Bryant","Mt St Mary's",82,79
+"Bucknell","Holy Cross",98,71
+"BYU","San Francisco",102,92
+"C Michigan","Bowling Green",79,67
+"Cent Arkansas","Lamar",93,76
+"Colorado St","San Jose St",85,84
+"Connecticut","Memphis",81,78
+"Creighton","Seton Hall",82,67
+"CS Bakersfield","Missouri KC",83,72
+"CS Northridge","CS Fullerton",85,75
+"Davidson","George Mason",81,75
+"Drexel","Col Charleston",61,54
+"Duke","Virginia Tech",82,58
+"E Kentucky","SE Missouri St",88,69
+"E Washington","Idaho",74,60
+"ETSU","UNC Greensboro",86,83
+"Evansville","Bradley",67,35
+"F Dickinson","Central Conn",92,73
+"Fairfield","Rider",69,64
+"FL Gulf Coast","Stetson",82,53
+"Florida","LSU",68,62
+"Furman","Chattanooga",70,55
+"G Washington","Duquesne",91,64
+"Ga Southern","Troy",93,88
+"Gardner Webb","Radford",83,61
+"Georgetown","DePaul",74,63
+"Georgia St","South Alabama",70,55
+"Georgia Tech","Virginia",68,64
+"Gonzaga","Portland",85,74
+"Grand Canyon","New Mexico St",79,75
+"Hampton","Bethune-Cookman",75,70
+"Harvard","Dartmouth",77,70
+"Hawaii","Santa Barbara",65,57
+"High Point","Presbyterian",82,66
+"Hofstra","Elon",80,76
+"Houston Bap","SE Louisiana",77,58
+"Howard","Coppin St",72,63
+"Incarnate Word","Northwestern LA",70,56
+"Indiana St","Illinois St",77,65
+"Iona","Marist",90,80
+"IPFW","Denver",65,64
+"IUPUI","W Illinois",67,60
+"Jackson St","Alcorn St",80,71
+"James Madison","Towson",73,59
+"Kansas","Texas Tech",69,59
+"Kennesaw","Lipscomb",102,86
+"Kentucky","Alabama",77,61
+"La Salle","Dayton",61,57
+"Lehigh","American Univ",65,50
+"Liberty","Campbell",55,52
+"Long Beach St","UC Davis",59,47
+"Longwood","Coastal Car",76,61
+"Louisiana Tech","Charlotte",93,90
+"Marquette","St John's",81,75
+"Marshall","Florida Intl",99,81
+"Maryland","Wisconsin",63,60
+"Mercer","Citadel",91,80
+"Miami FL","Florida St",72,59
+"Mississippi","Georgia",72,71
+"Missouri","Auburn",76,61
+"Missouri St","Loyola-Chicago",56,54
+"Monmouth NJ","Quinnipiac",88,74
+"Montana","CS Sacramento",77,58
+"Morehead St","TN Martin",64,58
+"Morgan St","Delaware St",63,58
+"MTSU","UT San Antonio",79,71
+"Murray St","Jacksonville St",69,54
+"N Illinois","E Michigan",80,63
+"Navy","Colgate",71,68
+"NE Omaha","South Dakota",79,73
+"Nebraska","Rutgers",90,56
+"Nevada","Air Force",86,63
+"New Hampshire","Binghamton",58,43
+"New Mexico","Utah St",77,59
+"Niagara","Manhattan",55,53
+"Nicholls St","Abilene Chr",63,62
+"Norfolk St","Florida A&M",77,56
+"North Carolina","Syracuse",84,73
+"North Dakota","Idaho St",84,76
+"North Florida","Jacksonville",83,68
+"North Texas","Rice",85,74
+"Northern Arizona","Southern Utah",73,63
+"Northern Iowa","Drake",77,44
+"Northwestern","Minnesota",77,52
+"Ohio","Ball St",79,73
+"Oklahoma","Kansas St",86,76
+"Oral Roberts","N Dakota St",66,65
+"Oregon St","California",77,71
+"Pacific","Loy Marymount",60,58
+"Pepperdine","St Mary's CA",67,64
+"Pittsburgh","Notre Dame",86,82
+"Portland St","Montana St",77,70
+"Princeton","Penn",73,71
+"S Carolina St","NC Central",91,75
+"Sam Houston St","New Orleans",73,70
+"Santa Clara","San Diego",65,53
+"Savannah St","NC A&T",75,68
+"SC Upstate","NJIT",80,78
+"Seattle","Chicago St",66,50
+"South Carolina","Vanderbilt",69,65
+"Southern Miss","Old Dominion",73,71
+"Southern Univ","Grambling",66,61
+"St Bonaventure","Massachusetts",88,77
+"St Francis NY","Robert Morris",56,49
+"St Francis PA","Long Island",72,65
+"St Peter's","Canisius",70,53
+"Stony Brook","MA Lowell",86,59
+"TAM C. Christi","McNeese St",77,68
+"TCU","Texas",58,57
+"Temple","East Carolina",78,60
+"Tennessee St","Edwardsville",63,60
+"Tennessee Tech","Austin Peay",72,66
+"Texas A&M","Tennessee",92,88
+"Toledo","Miami OH",84,76
+"TX Southern","Prairie View",64,38
+"UAB","UTEP",87,80
+"UC Irvine","UC Riverside",84,68
+"UCLA","Arizona St",81,74
+"UMBC","Maine",89,76
+"UNC Asheville","Charleston So",83,73
+"UNC Wilmington","Delaware",85,67
+"USC","Arizona",103,101
+"Utah Valley","UTRGV",98,65
+"W Carolina","VMI",73,52
+"WKU","FL Atlantic",86,82
+"Wagner","Sacred Heart",76,59
+"Washington","Washington St",99,95
+"Weber St","N Colorado",85,68
+"West Virginia","Oklahoma St",77,60
+"WI Milwaukee","Cleveland St",65,62
+"Wichita St","S Illinois",83,58
+"William & Mary","Northeastern",78,60
+"Wofford","Samford",69,64
+"Wright St","N Kentucky",60,46
+"Wyoming","UNLV",59,57
+"Youngstown St","WI Green Bay",103,93
+"Cincinnati","South Florida",54,51
+"Clemson","Louisville",66,62
+"Illinois","Purdue",84,70
+"Indiana","Ohio St",85,60
+"Michigan St","Penn St",92,65
+"Oakland","IL Chicago",86,61
+"Oregon","Stanford",71,58
+"Richmond","Fordham",93,82
+"SMU","UCF",88,73
+"St Joseph's PA","Rhode Island",72,67
+"Tulsa","Tulane",81,67
+"VA Commonwealth","St Louis",72,56
+"Valparaiso","Detroit",92,74
+"Villanova","Butler",60,55
+"Wake Forest","NC State",77,74
+"Alcorn St","Grambling",69,53
+"Ark Pine Bluff","Alabama St",59,55
+"Bethune-Cookman","Norfolk St",72,70
+"Bucknell","Lehigh",82,76
+"Chattanooga","Wofford",77,68
+"CS Bakersfield","Chicago St",67,56
+"ETSU","VMI",88,51
+"Furman","Samford",77,57
+"Hampton","Florida A&M",71,65
+"Incarnate Word","New Orleans",71,68
+"MD E Shore","Morgan St",69,65
+"Monmouth NJ","Fairfield",86,74
+"MS Valley St","Alabama A&M",79,73
+"NC Central","Savannah St",69,46
+"S Carolina St","NC A&T",92,85
+"Sam Houston St","SE Louisiana",70,63
+"Southern Univ","Jackson St",74,66
+"TAM C. Christi","Lamar",91,82
+"W Carolina","UNC Greensboro",83,77
+"Abilene Chr","Northwestern LA",87,72
+"Albany NY","New Hampshire",80,75
+"Arkansas","Missouri",94,61
+"Ball St","W Michigan",74,64
+"Bowling Green","Ohio",91,75
+"C Michigan","Akron",92,81
+"Dartmouth","Canisius",80,69
+"Dayton","Davidson",80,74
+"E Michigan","Buffalo",81,69
+"Evansville","Drake",84,65
+"G Washington","Massachusetts",81,70
+"Kansas St","Texas Tech",83,70
+"Kent","Miami OH",76,68
+"Kentucky","Mississippi St",80,74
+"Michigan","Maryland",70,67
+"N Illinois","Toledo",71,66
+"Nebraska","Minnesota",84,59
+"Northwestern","Wisconsin",70,65
+"Providence","Creighton",50,48
+"S Illinois","Illinois St",81,78
+"SF Austin","Cent Arkansas",85,64
+"Texas","Iowa St",94,91
+"Texas A&M","Florida",71,68
+"Tulane","South Florida",81,70
+"UNLV","New Mexico",86,74
+"Vanderbilt","Auburn",75,57
+"Virginia","Miami FL",66,58
+"West Virginia","Kansas",74,63
+"Xavier","DePaul",84,64
+"Alabama","South Carolina",73,50
+"Baylor","TCU",82,54
+"Boise St","Nevada",74,67
+"Boston Univ","American Univ",61,50
+"Bradley","Loyola-Chicago",54,53
+"Cincinnati","Houston",70,59
+"Clemson","Duke",68,63
+"Colgate","Army",80,66
+"Colorado","Oregon St",71,54
+"Duquesne","St Louis",81,71
+"Florida St","NC State",85,78
+"Georgetown","St John's",93,73
+"Georgia","Tennessee",81,72
+"Hartford","Binghamton",76,72
+"Houston Bap","Nicholls St",78,69
+"Indiana St","Northern Iowa",74,60
+"Jacksonville St","SE Missouri St",74,60
+"Lafayette","Holy Cross",65,52
+"LSU","Mississippi",90,81
+"Maine","MA Lowell",95,81
+"Memphis","Temple",67,65
+"N Dakota St","South Dakota",66,65
+"Navy","Loyola MD",60,52
+"Notre Dame","Georgia Tech",72,64
+"Ohio St","Rutgers",94,68
+"Oklahoma","Oklahoma St",74,72
+"Purdue","Penn St",74,57
+"Richmond","La Salle",83,61
+"San Diego St","Colorado St",69,62
+"San Jose St","Wyoming",62,55
+"SMU","East Carolina",79,55
+"St Bonaventure","Rhode Island",69,64
+"St Joseph's PA","George Mason",87,73
+"Stony Brook","UMBC",86,74
+"Syracuse","Boston College",62,40
+"TN Martin","Tennessee Tech",96,90
+"UC Irvine","Long Beach St",58,54
+"USC","UCLA",89,75
+"Utah St","Air Force",79,60
+"VA Commonwealth","Fordham",88,54
+"Villanova","Marquette",83,68
+"Virginia Tech","Wake Forest",93,91
+"Wichita St","Missouri St",78,62
+"Arizona","Washington",99,67
+"Arizona St","Washington St",84,73
+"Ark Little Rock","Appalachian St",81,55
+"Belmont","Murray St",81,73
+"Bryant","St Francis NY",61,59
+"BYU","Gonzaga",69,68
+"Charleston So","Liberty",64,63
+"Chattanooga","W Carolina",77,58
+"Coastal Car","Presbyterian",87,58
+"CS Sacramento","Idaho St",82,71
+"Denver","W Illinois",76,69
+"E Illinois","E Kentucky",97,85
+"E Washington","Southern Utah",106,80
+"ETSU","Samford",81,77
+"F Dickinson","St Francis PA",71,59
+"FL Atlantic","Southern Miss",58,51
+"FL Gulf Coast","NJIT",82,78
+"Florida Intl","Louisiana Tech",88,74
+"Georgia St","ULM",65,51
+"Hawaii","UC Riverside",80,71
+"Hofstra","Drexel",69,61
+"Idaho","Northern Arizona",83,76
+"Iowa","Michigan St",76,59
+"Jacksonville","Kennesaw",83,70
+"James Madison","Northeastern",75,63
+"Long Island","Wagner",71,70
+"Longwood","Campbell",74,57
+"Louisville","Pittsburgh",59,41
+"Loy Marymount","San Francisco",87,83
+"Marshall","North Texas",97,78
+"Mercer","Furman",69,65
+"Montana","N Colorado",73,66
+"Morehead St","Edwardsville",70,67
+"Mt St Mary's","Robert Morris",76,52
+"MTSU","Charlotte",73,72
+"N Kentucky","Youngstown St",84,64
+"New Mexico St","Missouri KC",65,64
+"North Dakota","Montana St",85,68
+"North Florida","Lipscomb",95,83
+"Oral Roberts","IUPUI",80,71
+"Oregon","Utah",77,59
+"Radford","UNC Asheville",91,86
+"Rice","WKU",83,73
+"Rider","Marist",102,100
+"S Dakota St","IPFW",92,76
+"Sacred Heart","Central Conn",80,78
+"San Diego","Portland",82,71
+"Santa Barbara","Cal Poly SLO",76,73
+"Santa Clara","Pepperdine",62,60
+"St Mary's CA","Pacific",78,62
+"Stanford","California",77,71
+"Stetson","SC Upstate",89,86
+"Tennessee St","Austin Peay",66,52
+"Texas St","South Alabama",78,67
+"Towson","Delaware",79,77
+"Tulsa","Connecticut",60,51
+"UTRGV","Chicago St",82,72
+"UAB","Old Dominion",72,71
+"UC Davis","CS Northridge",63,62
+"ULL","Ga Southern",74,65
+"UNC Wilmington","Elon",91,82
+"UT Arlington","Troy",90,63
+"Valparaiso","WI Milwaukee",68,56
+"Weber St","Portland St",73,58
+"WI Green Bay","IL Chicago",78,76
+"William & Mary","Col Charleston",63,61
+"Winthrop","High Point",86,66
+"Wofford","Citadel",86,83
+"Wright St","Cleveland St",70,53
+"Canisius","Manhattan",65,62
+"Dayton","G Washington",77,70
+"Evansville","Illinois St",66,55
+"Fairfield","Niagara",73,68
+"Maine","Albany NY",81,79
+"Monmouth NJ","Iona",110,102
+"Siena","Quinnipiac",64,52
+"Alabama A&M","Alabama St",80,75
+"Alcorn St","MS Valley St",93,87
+"Appalachian St","Arkansas St",86,72
+"Arizona","Washington St",90,66
+"Auburn","Kentucky",75,70
+"Ball St","Miami OH",48,46
+"Baylor","Texas Tech",63,60
+"Belmont","Austin Peay",76,58
+"Bowling Green","E Michigan",84,79
+"Buffalo","C Michigan",74,61
+"Butler","St John's",78,58
+"Cal Poly SLO","Long Beach St",96,92
+"Charleston So","Campbell",82,75
+"Chattanooga","ETSU",94,84
+"Citadel","Furman",89,86
+"Clemson","Miami FL",76,65
+"Cleveland St","N Kentucky",70,65
+"Coastal Car","High Point",71,68
+"Colgate","Bucknell",84,73
+"Columbia","Cornell",74,70
+"Coppin St","Bethune-Cookman",62,54
+"CS Bakersfield","Seattle",79,52
+"Davidson","Massachusetts",86,74
+"Duquesne","St Bonaventure",95,88
+"E Illinois","Morehead St",84,82
+"E Washington","Northern Arizona",96,73
+"Edwardsville","E Kentucky",67,65
+"Elon","Col Charleston",65,64
+"FL Atlantic","Louisiana Tech",63,61
+"FL Gulf Coast","SC Upstate",85,56
+"Florida","Mississippi",80,71
+"Florida A&M","Morgan St",72,65
+"Fresno St","San Jose St",81,74
+"Ga Southern","ULM",66,51
+"Gonzaga","San Diego",88,52
+"Grambling","Prairie View",66,63
+"Grand Canyon","Utah Valley",99,88
+"Hampton","NC A&T",79,62
+"Harvard","Howard",69,61
+"Hawaii","CS Fullerton",86,79
+"Houston Bap","New Orleans",73,69
+"Idaho St","Portland St",73,70
+"Incarnate Word","SE Louisiana",75,71
+"Indiana","Minnesota",70,63
+"Iowa St","Kansas St",76,63
+"IPFW","NE Omaha",106,101
+"IUPUI","Denver",76,61
+"Jacksonville","Lipscomb",76,73
+"Jacksonville St","TN Martin",82,60
+"James Madison","Hofstra",86,82
+"Kansas","TCU",70,63
+"Kent","Ohio",89,82
+"Lamar","Northwestern LA",86,82
+"Lehigh","Holy Cross",87,66
+"Long Island","Bryant",79,61
+"Loy Marymount","Santa Clara",76,66
+"Loyola-Chicago","Northern Iowa",51,41
+"LSU","Arkansas",76,74
+"MA Lowell","UMBC",95,89
+"Marshall","Rice",94,90
+"Maryland","Ohio St",100,65
+"McNeese St","Sam Houston St",72,68
+"Memphis","South Florida",71,56
+"Mercer","Wofford",70,69
+"Missouri St","Bradley",61,42
+"Montana","North Dakota",65,61
+"Mt St Mary's","St Francis PA",82,72
+"MTSU","Old Dominion",64,61
+"N Colorado","Montana St",78,76
+"N Dakota St","S Dakota St",68,57
+"Navy","Lafayette",87,61
+"Nebraska","Illinois",78,67
+"New Mexico St","Chicago St",80,62
+"NJIT","Stetson",71,59
+"Norfolk St","NC Central",88,79
+"North Carolina","NC State",67,55
+"North Florida","Kennesaw",93,78
+"Northeastern","Delaware",69,60
+"Notre Dame","Duke",95,91
+"Oakland","Detroit",86,82
+"Oklahoma","West Virginia",70,68
+"Oral Roberts","W Illinois",77,68
+"Penn St","Northwestern",71,62
+"Pepperdine","San Francisco",98,84
+"Pittsburgh","Boston College",84,61
+"Portland","BYU",84,81
+"Presbyterian","Radford",69,68
+"Rhode Island","La Salle",73,62
+"Robert Morris","F Dickinson",64,58
+"S Carolina St","Delaware St",90,79
+"Samford","W Carolina",84,68
+"San Diego St","Boise St",56,53
+"Savannah St","MD E Shore",68,61
+"Seton Hall","Providence",81,72
+"SF Austin","Abilene Chr",97,62
+"South Alabama","UT Arlington",88,85
+"South Carolina","Missouri",81,72
+"Southern Miss","Florida Intl",66,60
+"Southern Univ","Ark Pine Bluff",69,55
+"Southern Utah","Idaho",85,83
+"St Francis NY","Sacred Heart",85,67
+"St Joseph's PA","Fordham",80,55
+"Stony Brook","New Hampshire",80,50
+"Syracuse","Wake Forest",83,55
+"TAM C. Christi","Nicholls St",76,71
+"Temple","Cincinnati",67,65
+"Tennessee","Mississippi St",80,75
+"Tennessee St","Murray St",73,71
+"Tennessee Tech","SE Missouri St",91,55
+"Texas","Oklahoma St",74,69
+"Texas A&M","Georgia",79,45
+"Toledo","Akron",78,64
+"Towson","Drexel",69,50
+"Troy","Texas St",66,57
+"UTRGV","Missouri KC",71,66
+"TX Southern","Jackson St",71,65
+"UAB","Charlotte",74,72
+"UC Irvine","Santa Barbara",61,52
+"UC Riverside","CS Northridge",75,72
+"UCF","East Carolina",89,69
+"ULL","Georgia St",87,54
+"UNC Asheville","Gardner Webb",75,69
+"UNC Wilmington","William & Mary",97,94
+"UNLV","Air Force",100,64
+"UT San Antonio","UTEP",71,67
+"Utah St","Colorado St",96,92
+"VA Commonwealth","Richmond",94,89
+"Valparaiso","WI Green Bay",85,70
+"Vanderbilt","Alabama",71,63
+"Vermont","Hartford",83,68
+"Villanova","Georgetown",55,50
+"Virginia Tech","Georgia Tech",78,77
+"WKU","North Texas",81,76
+"W Michigan","N Illinois",83,69
+"Wagner","Central Conn",70,48
+"Washington","Arizona St",89,85
+"Weber St","CS Sacramento",85,74
+"WI Milwaukee","IL Chicago",87,62
+"Winthrop","Liberty",74,58
+"Wright St","Youngstown St",81,45
+"Wyoming","New Mexico",70,68
+"Xavier","Marquette",74,66
+"Yale","Brown",77,68
+"Army","American Univ",65,45
+"Canisius","Quinnipiac",63,53
+"Colorado","Oregon",91,87
+"Connecticut","Houston",69,57
+"Creighton","DePaul",91,80
+"Florida St","Virginia",69,62
+"George Mason","St Louis",92,79
+"Iowa","Michigan",82,71
+"Manhattan","Niagara",69,64
+"Rider","Iona",79,75
+"S Illinois","Drake",81,76
+"SMU","Tulane",60,45
+"St Peter's","Marist",76,67
+"UNC Greensboro","VMI",85,68
+"Utah","Oregon St",59,53
+"Wichita St","Indiana St",82,62
+"Wisconsin","Michigan St",77,76
+"Albany NY","Binghamton",80,59
+"Alcorn St","Ark Pine Bluff",73,65
+"Arkansas St","Ark Little Rock",76,73
+"Bethune-Cookman","Morgan St",62,50
+"Boston Univ","Loyola MD",87,84
+"Cleveland St","IL Chicago",70,53
+"Coppin St","Florida A&M",70,66
+"Hampton","NC Central",80,79
+"Iowa St","Oklahoma",82,77
+"Jackson St","Prairie View",60,57
+"MA Lowell","Vermont",93,82
+"Monmouth NJ","Siena",85,69
+"New Hampshire","Maine",99,91
+"Norfolk St","NC A&T",75,68
+"Purdue","Rutgers",107,57
+"S Carolina St","MD E Shore",68,63
+"Sam Houston St","Nicholls St",87,76
+"Savannah St","Delaware St",64,47
+"SE Louisiana","Lamar",98,70
+"SF Austin","New Orleans",82,58
+"Southern Univ","MS Valley St",67,54
+"Stony Brook","Hartford",77,43
+"Syracuse","Duke",64,62
+"Texas Tech","TCU",76,69
+"TX Southern","Grambling",69,54
+"Valparaiso","Youngstown St",96,65
+"Wright St","Detroit",77,76
+"Abilene Chr","McNeese St",75,67
+"Akron","E Michigan",92,88
+"Auburn","Alabama",83,77
+"Buffalo","Miami OH",77,60
+"Connecticut","Tulane",60,42
+"Dayton","St Bonaventure",85,79
+"Evansville","Loyola-Chicago",74,66
+"Florida","Mississippi St",81,78
+"Georgetown","Xavier",81,72
+"Georgia St","Ga Southern",69,66
+"Houston Bap","Cent Arkansas",72,61
+"Indiana","Illinois",103,69
+"Kent","Ball St",76,68
+"Liberty","Longwood",55,53
+"Maryland","Northwestern",62,56
+"N Illinois","C Michigan",75,70
+"N Kentucky","Oakland",90,73
+"NC State","Pittsburgh",78,61
+"Ohio","W Michigan",82,64
+"Oklahoma St","Kansas",86,67
+"Providence","Butler",71,68
+"San Diego St","Fresno St",73,67
+"SMU","Houston",77,73
+"South Carolina","Mississippi",77,74
+"St Peter's","Fairfield",77,71
+"TAM C. Christi","Northwestern LA",89,79
+"Texas A&M","LSU",71,57
+"Toledo","Bowling Green",81,74
+"Tulsa","East Carolina",84,69
+"UNLV","Utah St",80,68
+"Virginia","Clemson",69,62
+"WI Green Bay","Chicago St",99,66
+"American Univ","Lafayette",81,73
+"Baylor","Kansas St",79,72
+"Boise St","San Jose St",94,69
+"Bucknell","Loyola MD",67,58
+"Charleston So","Presbyterian",73,72
+"Colgate","Boston Univ",85,78
+"Colorado St","Air Force",83,79
+"DePaul","Marquette",57,56
+"Fordham","George Mason",73,62
+"Georgia","Missouri",60,57
+"High Point","UNC Asheville",73,69
+"Holy Cross","Army",69,65
+"Howard","Delaware St",71,67
+"Illinois St","Bradley",55,52
+"Long Beach St","Santa Barbara",77,67
+"Louisville","Florida St",84,65
+"Miami FL","Boston College",67,53
+"Michigan","Minnesota",74,69
+"Missouri St","Drake",79,70
+"Navy","Lehigh",69,64
+"Nebraska","Michigan St",72,71
+"Nevada","Wyoming",75,69
+"North Carolina","Wake Forest",83,68
+"Notre Dame","Virginia Tech",83,81
+"Radford","Campbell",78,66
+"S Illinois","Indiana St",79,66
+"South Dakota","W Illinois",76,67
+"St Joseph's PA","Penn",75,60
+"St Louis","Davidson",96,87
+"Temple","La Salle",62,49
+"Texas","West Virginia",56,49
+"UC Irvine","CS Fullerton",72,59
+"UCF","South Florida",64,54
+"UCLA","Oregon St",82,73
+"VA Commonwealth","Duquesne",93,71
+"Vanderbilt","Tennessee",88,74
+"Villanova","Seton Hall",72,71
+"Washington","Colorado",95,83
+"Wichita St","Northern Iowa",74,55
+"Winthrop","Gardner Webb",71,58
+"Appalachian St","Georgia St",76,67
+"Arizona","Stanford",71,57
+"Ark Little Rock","Texas St",77,74
+"Austin Peay","Edwardsville",90,86
+"Belmont","TN Martin",82,72
+"BYU","Loy Marymount",91,80
+"California","Arizona St",75,70
+"Charlotte","Marshall",103,95
+"Chattanooga","UNC Greensboro",73,60
+"Cincinnati","Memphis",76,72
+"Citadel","W Carolina",92,91
+"Col Charleston","Towson",40,37
+"CS Bakersfield","UTRGV",77,58
+"CS Northridge","Cal Poly SLO",76,74
+"E Kentucky","Jacksonville St",91,88
+"ETSU","Mercer",65,63
+"F Dickinson","Long Island",101,95
+"FL Gulf Coast","Kennesaw",79,74
+"Florida Intl","UT San Antonio",72,56
+"Grand Canyon","Chicago St",90,65
+"Hartford","UMBC",98,87
+"Hofstra","Northeastern",96,92
+"Idaho","Montana",63,58
+"Iowa","Rutgers",90,76
+"IPFW","N Dakota St",79,74
+"James Madison","Drexel",68,45
+"Kentucky","Arkansas",80,66
+"Lipscomb","Stetson",92,87
+"Manhattan","Monmouth NJ",78,71
+"Montana St","E Washington",85,71
+"Morehead St","Tennessee Tech",81,74
+"MTSU","North Texas",86,64
+"Murray St","E Illinois",68,58
+"N Colorado","Southern Utah",90,80
+"NE Omaha","Denver",69,55
+"New Hampshire","MA Lowell",78,76
+"New Mexico St","Seattle",68,60
+"NJIT","Jacksonville",83,63
+"North Dakota","Northern Arizona",101,59
+"North Florida","SC Upstate",78,62
+"Old Dominion","WKU",68,62
+"Oregon","USC",89,81
+"Pacific","Portland",70,61
+"Pepperdine","San Diego",76,58
+"Purdue","Ohio St",75,64
+"Robert Morris","Central Conn",59,45
+"S Dakota St","Oral Roberts",86,74
+"Sacred Heart","Mt St Mary's",76,71
+"San Francisco","Santa Clara",74,61
+"Siena","Rider",63,52
+"St Francis PA","Bryant",71,65
+"St Mary's CA","Gonzaga",70,67
+"UAB","Rice",82,70
+"UC Davis","UC Riverside",58,55
+"ULL","South Alabama",92,82
+"ULM","Troy",85,74
+"UNC Wilmington","Delaware",79,70
+"UT Arlington","Arkansas St",91,64
+"Utah","Washington St",92,71
+"Utah Valley","Missouri KC",90,79
+"UTEP","FL Atlantic",71,56
+"Vermont","Binghamton",61,52
+"VMI","Samford",83,76
+"Wagner","St Francis NY",83,59
+"William & Mary","Elon",89,67
+"Wisconsin","Penn St",66,60
+"Canisius","Niagara",70,61
+"Fairfield","Marist",88,76
+"G Washington","Rhode Island",62,58
+"Iona","St Peter's",64,58
+"N Kentucky","IL Chicago",82,69
+"Stony Brook","Albany NY",69,63
+"Wright St","Valparaiso",73,62
+"Akron","Miami OH",75,46
+"Alcorn St","Alabama A&M",63,58
+"Ark Little Rock","UT Arlington",68,62
+"Ark Pine Bluff","Prairie View",45,44
+"Ball St","E Michigan",88,87
+"Belmont","Tennessee St",103,95
+"Boise St","Wyoming",81,71
+"Bucknell","Boston Univ",74,71
+"C Michigan","Ohio",72,49
+"Cal Poly SLO","CS Fullerton",83,75
+"California","Arizona",74,73
+"Cent Arkansas","Nicholls St",94,83
+"Charlotte","WKU",88,71
+"Coastal Car","Charleston So",78,63
+"Col Charleston","Delaware",59,58
+"Colorado","Washington St",75,70
+"Columbia","Cornell",79,68
+"Connecticut","Georgetown",68,62
+"Creighton","Butler",72,64
+"Dartmouth","Harvard",63,50
+"Duke","NC State",88,78
+"Duquesne","George Mason",86,75
+"E Illinois","Austin Peay",87,86
+"ETSU","Citadel",101,92
+"FL Atlantic","UT San Antonio",86,71
+"Florida","Auburn",95,63
+"Florida Intl","UTEP",79,69
+"Fresno St","Air Force",56,55
+"Furman","Wofford",63,62
+"Georgia","Arkansas",76,73
+"Gonzaga","Pacific",71,61
+"Grand Canyon","Missouri KC",85,78
+"Hampton","Savannah St",75,52
+"Hawaii","UC Davis",78,62
+"Hofstra","William & Mary",91,63
+"Houston Bap","Lamar",92,79
+"Idaho St","Weber St",69,68
+"Illinois","Minnesota",76,71
+"Illinois St","Northern Iowa",76,67
+"Incarnate Word","Abilene Chr",74,60
+"Indiana","Northwestern",89,57
+"Iowa St","TCU",73,60
+"IUPUI","IPFW",84,82
+"Jackson St","Grambling",60,45
+"Jacksonville","SC Upstate",77,68
+"Jacksonville St","Morehead St",78,74
+"James Madison","Elon",82,64
+"Kansas","Texas",76,67
+"Kansas St","Oklahoma St",89,73
+"Kent","Bowling Green",62,59
+"Kentucky","Vanderbilt",76,57
+"Liberty","High Point",69,67
+"Lipscomb","FL Gulf Coast",91,75
+"Louisiana Tech","Southern Miss",70,59
+"Louisville","Georgia Tech",75,71
+"Loy Marymount","San Diego",67,63
+"Loyola-Chicago","Drake",68,63
+"LSU","Alabama",72,70
+"Marquette","St John's",78,73
+"Marshall","Old Dominion",78,75
+"McNeese St","Northwestern LA",75,74
+"MD E Shore","Bethune-Cookman",74,72
+"Miami FL","Wake Forest",77,63
+"Michigan","Nebraska",81,68
+"Michigan St","Maryland",74,65
+"Mississippi St","Mississippi",83,77
+"Montana","E Washington",74,69
+"Montana St","Idaho",70,68
+"Mt St Mary's","F Dickinson",87,72
+"MTSU","Rice",87,73
+"Murray St","Edwardsville",70,54
+"N Colorado","Northern Arizona",84,79
+"N Dakota St","W Illinois",65,52
+"N Illinois","Toledo",58,49
+"NE Omaha","Oral Roberts",85,79
+"Nevada","UNLV",65,63
+"New Mexico","San Jose St",83,64
+"New Mexico St","CS Bakersfield",68,67
+"Norfolk St","S Carolina St",87,74
+"North Dakota","Southern Utah",88,72
+"North Florida","NJIT",94,80
+"Notre Dame","Boston College",76,49
+"Oakland","WI Green Bay",111,95
+"Oklahoma","Baylor",82,72
+"Oregon","UCLA",86,72
+"Pepperdine","BYU",71,65
+"Pittsburgh","Florida St",74,72
+"Portland St","CS Sacramento",81,63
+"Providence","Villanova",82,76
+"Radford","Gardner Webb",69,59
+"Robert Morris","Bryant",65,54
+"S Dakota St","South Dakota",79,75
+"Sacred Heart","Wagner",67,58
+"San Diego St","Utah St",70,55
+"Santa Barbara","CS Northridge",74,61
+"SE Missouri St","TN Martin",68,60
+"Seattle","UTRGV",70,59
+"SF Austin","Sam Houston St",76,64
+"South Florida","Houston",71,62
+"Southern Univ","Alabama St",73,69
+"St Francis NY","Long Island",64,49
+"St Francis PA","Central Conn",79,64
+"St Joseph's PA","La Salle",69,48
+"St Louis","Massachusetts",86,75
+"St Mary's CA","Portland",89,74
+"Stanford","Arizona St",75,73
+"Stetson","Kennesaw",84,79
+"TAM C. Christi","New Orleans",97,76
+"Temple","SMU",89,80
+"Tennessee","South Carolina",78,69
+"Tennessee Tech","E Kentucky",89,83
+"Texas A&M","Missouri",66,53
+"Texas St","Arkansas St",78,68
+"Towson","Northeastern",79,72
+"TX Southern","MS Valley St",75,60
+"UAB","North Texas",78,57
+"UC Riverside","Long Beach St",74,72
+"ULL","Troy",88,65
+"ULM","South Alabama",100,68
+"UNC Asheville","Presbyterian",67,55
+"UNC Greensboro","Samford",86,78
+"UNC Wilmington","Drexel",77,71
+"Utah Valley","Chicago St",82,76
+"VA Commonwealth","St Bonaventure",84,76
+"Virginia","Syracuse",73,65
+"W Carolina","Mercer",86,80
+"W Michigan","Buffalo",91,71
+"West Virginia","Texas Tech",80,76
+"WI Milwaukee","Detroit",83,80
+"Wichita St","Bradley",88,54
+"Winthrop","Longwood",82,68
+"Xavier","Seton Hall",84,76
+"Yale","Brown",90,66
+"Binghamton","MA Lowell",64,57
+"Cincinnati","Tulane",97,75
+"Colgate","Holy Cross",76,61
+"Dayton","Fordham",64,50
+"East Carolina","Memphis",84,83
+"Fairfield","Iona",98,91
+"Indiana St","Evansville",82,65
+"Iowa","Purdue",83,71
+"Monmouth NJ","Marist",83,72
+"New Hampshire","Hartford",84,71
+"North Carolina","Virginia Tech",75,70
+"Oregon St","USC",85,70
+"Rider","Quinnipiac",75,52
+"S Illinois","Missouri St",80,65
+"Siena","Canisius",99,78
+"Tulsa","UCF",75,60
+"Utah","Washington",80,75
+"Valparaiso","N Kentucky",71,46
+"Vermont","UMBC",79,72
+"Wright St","IL Chicago",80,66
+"Youngstown St","Cleveland St",70,55
+"Alcorn St","Alabama St",77,72
+"Bucknell","Lafayette",79,67
+"Davidson","Richmond",78,70
+"Delaware St","NC A&T",57,55
+"Furman","VMI",68,56
+"Ga Southern","Appalachian St",101,100
+"Howard","Bethune-Cookman",70,68
+"Iowa St","Kansas",85,72
+"McNeese St","Incarnate Word",79,76
+"Miami FL","Duke",80,69
+"MS Valley St","Prairie View",76,73
+"New Orleans","Cent Arkansas",94,83
+"Norfolk St","Savannah St",92,73
+"Northwestern LA","Nicholls St",88,80
+"Oakland","WI Milwaukee",82,79
+"Ohio St","Penn St",66,46
+"S Carolina St","Hampton",67,62
+"Sam Houston St","Abilene Chr",72,51
+"SF Austin","Lamar",86,52
+"Southern Univ","Alabama A&M",73,52
+"Stony Brook","Maine",81,54
+"TX Southern","Ark Pine Bluff",78,49
+"Virginia","Wake Forest",72,71
+"WI Green Bay","Detroit",115,108
+"Akron","N Illinois",76,66
+"Alabama","Tennessee",63,57
+"Bowling Green","W Michigan",79,78
+"Buffalo","Ball St",76,64
+"C Michigan","Miami OH",68,51
+"Duquesne","La Salle",87,60
+"Florida St","Boston College",72,62
+"Georgetown","Creighton",74,73
+"Illinois St","Drake",76,64
+"Kent","E Michigan",73,58
+"LSU","Georgia",89,85
+"Memphis","UCF",97,86
+"Ohio","Toledo",81,79
+"Oklahoma","Texas Tech",91,67
+"San Diego St","Nevada",57,54
+"Siena","Niagara",82,70
+"South Alabama","Troy",66,58
+"South Carolina","Mississippi St",84,74
+"TAM C. Christi","SE Louisiana",73,63
+"Texas","TCU",71,54
+"Vanderbilt","Florida",60,59
+"West Virginia","Kansas St",70,55
+"Wisconsin","Indiana",82,79
+"Xavier","Providence",75,68
+"Albany NY","MA Lowell",75,63
+"American Univ","Navy",63,58
+"Arkansas","Texas A&M",74,71
+"Baylor","Oklahoma St",69,65
+"Binghamton","UMBC",66,57
+"Boston Univ","Army",76,67
+"Butler","DePaul",67,53
+"Clemson","Pittsburgh",73,60
+"Coastal Car","UNC Asheville",68,66
+"Colorado","Stanford",91,75
+"Colorado St","San Jose St",74,66
+"Coppin St","NC A&T",73,68
+"Dayton","St Louis",73,37
+"Delaware St","NC Central",71,60
+"East Carolina","Temple",64,61
+"Fresno St","Wyoming",71,60
+"Georgia Tech","NC State",90,83
+"High Point","Campbell",73,63
+"Houston","Tulsa",81,66
+"Indiana St","Missouri St",68,59
+"Jacksonville","FL Gulf Coast",78,69
+"Kennesaw","SC Upstate",78,75
+"Kentucky","Missouri",88,54
+"Lehigh","Colgate",79,70
+"Liberty","Gardner Webb",69,55
+"Lipscomb","NJIT",81,72
+"Louisville","Virginia Tech",91,83
+"Loyola MD","Holy Cross",71,54
+"Maine","Hartford",105,100
+"Marquette","Stetson",74,60
+"Michigan","Rutgers",68,57
+"Mississippi","Auburn",80,63
+"Morehead St","Austin Peay",75,65
+"Murray St","E Kentucky",75,71
+"New Mexico","Air Force",84,55
+"Northern Iowa","Bradley",68,50
+"Purdue","Minnesota",68,64
+"Radford","Longwood",90,81
+"Rhode Island","Fordham",79,63
+"Seton Hall","St John's",79,60
+"South Florida","Tulane",73,60
+"St Joseph's PA","Massachusetts",78,70
+"UC Davis","CS Fullerton",69,64
+"UC Irvine","CS Northridge",73,63
+"UNLV","Boise St",87,77
+"Utah","California",73,64
+"Vermont","New Hampshire",66,50
+"Wichita St","Loyola-Chicago",80,54
+"Winthrop","Charleston So",97,72
+"Appalachian St","Troy",75,71
+"Arizona St","Oregon St",86,68
+"Ark Little Rock","Ga Southern",80,67
+"Arkansas St","Georgia St",75,69
+"Belmont","Jacksonville St",72,63
+"BYU","Loy Marymount",87,62
+"Central Conn","Bryant",78,67
+"Charlotte","Florida Intl",72,69
+"Cincinnati","Connecticut",58,57
+"Col Charleston","Northeastern",68,61
+"CS Sacramento","Idaho",65,63
+"Denver","South Dakota",66,52
+"E Illinois","TN Martin",82,74
+"E Washington","Portland St",112,83
+"Evansville","S Illinois",85,78
+"F Dickinson","St Francis PA",86,82
+"Furman","W Carolina",62,60
+"Gonzaga","Santa Clara",84,67
+"Grand Canyon","CS Bakersfield",70,64
+"Hofstra","Elon",66,64
+"Idaho St","Southern Utah",87,68
+"IPFW","Oral Roberts",68,63
+"Long Beach St","Santa Barbara",80,70
+"Long Island","Sacred Heart",92,84
+"Louisiana Tech","UT San Antonio",85,75
+"Marshall","MTSU",82,66
+"Maryland","Iowa",74,68
+"Mercer","VMI",73,58
+"Michigan St","Northwestern",76,45
+"Monmouth NJ","Quinnipiac",66,51
+"Mt St Mary's","Robert Morris",70,49
+"Niagara","Marist",69,66
+"Ohio St","Illinois",68,63
+"Old Dominion","FL Atlantic",78,66
+"Oregon","Arizona",83,75
+"Pepperdine","San Diego",75,65
+"Richmond","G Washington",98,90
+"Rider","St Peter's",76,45
+"S Dakota St","NE Omaha",87,76
+"San Francisco","Portland",87,76
+"SE Missouri St","Edwardsville",58,51
+"Seattle","Utah Valley",73,62
+"Southern Miss","UTEP",71,58
+"Syracuse","Notre Dame",81,66
+"Tennessee Tech","Tennessee St",81,79
+"Towson","Drexel",77,70
+"UC Riverside","Cal Poly SLO",72,68
+"ULL","Texas St",80,54
+"ULM","UT Arlington",99,88
+"UNC Greensboro","Citadel",102,95
+"UNC Wilmington","James Madison",78,73
+"USC","Washington St",81,71
+"Valparaiso","Cleveland St",77,52
+"WKU","UAB",69,62
+"Wagner","St Francis NY",64,61
+"Washington","UCLA",86,84
+"Weber St","Northern Arizona",76,66
+"William & Mary","Delaware",94,79
+"Wofford","ETSU",87,73
+"Youngstown St","IL Chicago",82,78
+"Columbia","Dartmouth",77,60
+"Cornell","Harvard",77,65
+"Fairfield","Canisius",84,77
+"Iona","Manhattan",70,56
+"IUPUI","W Illinois",69,67
+"N Kentucky","Detroit",91,83
+"Oakland","Wright St",89,63
+"Princeton","Brown",83,59
+"VA Commonwealth","Davidson",79,69
+"WI Milwaukee","WI Green Bay",95,94
+"Yale","Penn",81,58
+"Abilene Chr","Lamar",80,71
+"Akron","Ball St",73,64
+"Alabama A&M","Prairie View",83,69
+"Albany NY","Hartford",86,60
+"American Univ","Colgate",54,49
+"Arizona","Oregon St",80,63
+"Ark Little Rock","Georgia St",63,53
+"Ark Pine Bluff","Grambling",63,59
+"Arkansas","Texas Tech",75,68
+"Austin Peay","SE Missouri St",86,80
+"Baylor","Georgia",83,73
+"Bethune-Cookman","Florida A&M",88,56
+"Brown","Penn",89,83
+"Bucknell","Army",94,66
+"Buffalo","Toledo",73,68
+"BYU","Pepperdine",88,77
+"C Michigan","Bowling Green",77,65
+"Chattanooga","Samford",63,56
+"Citadel","VMI",78,75
+"Coastal Car","Campbell",97,68
+"Columbia","Harvard",55,54
+"Cornell","Dartmouth",77,73
+"CS Bakersfield","Utah Valley",78,74
+"Dayton","La Salle",59,44
+"Drake","Bradley",80,70
+"Duquesne","St Louis",78,67
+"E Illinois","Edwardsville",60,46
+"E Washington","CS Sacramento",74,67
+"Elon","Northeastern",71,67
+"F Dickinson","Long Island",88,85
+"FL Atlantic","Charlotte",82,77
+"Florida","West Virginia",88,71
+"Florida St","Clemson",76,65
+"Fordham","Massachusetts",78,72
+"Furman","ETSU",74,70
+"Ga Southern","Arkansas St",71,66
+"Gardner Webb","Charleston So",68,59
+"Gonzaga","San Francisco",86,48
+"Hampton","Norfolk St",86,76
+"Hofstra","Drexel",70,64
+"Holy Cross","Navy",87,80
+"Houston","East Carolina",97,93
+"Houston Bap","Sam Houston St",70,69
+"Idaho","Portland St",56,55
+"Idaho St","Northern Arizona",88,66
+"IL Chicago","Cleveland St",72,70
+"Incarnate Word","Nicholls St",68,61
+"Indiana","Minnesota",74,68
+"Jackson St","MS Valley St",77,62
+"Jacksonville","Stetson",75,60
+"Kansas","Kentucky",90,84
+"Kansas St","Mississippi",69,64
+"Liberty","Presbyterian",65,61
+"Long Beach St","Hawaii",78,64
+"Louisiana Tech","UTEP",78,70
+"Loyola MD","Lafayette",84,77
+"Loyola-Chicago","Indiana St",104,96
+"Maine","Binghamton",74,63
+"Marquette","Butler",75,69
+"MD E Shore","Coppin St",83,81
+"Mercer","UNC Greensboro",81,67
+"Miami OH","N Illinois",72,59
+"Michigan","Penn St",79,72
+"Mississippi St","Missouri",76,62
+"Missouri KC","Chicago St",78,64
+"Missouri St","Illinois St",84,81
+"Monmouth NJ","St Peter's",73,57
+"Montana","Montana St",80,72
+"Morehead St","E Kentucky",70,67
+"Morgan St","Howard",83,63
+"MTSU","WKU",66,64
+"N Colorado","North Dakota",71,70
+"NC A&T","Savannah St",63,62
+"NC State","Miami FL",85,69
+"NE Omaha","South Dakota",96,83
+"Nevada","Utah St",89,84
+"New Hampshire","UMBC",84,81
+"New Mexico","Boise St",88,83
+"New Mexico St","UTRGV",92,68
+"New Orleans","McNeese St",76,64
+"NJIT","Kennesaw",75,67
+"North Carolina","Boston College",89,62
+"North Florida","FL Gulf Coast",82,76
+"Northwestern LA","SE Louisiana",91,76
+"Ohio","Kent",72,61
+"Oklahoma","LSU",77,75
+"Oklahoma St","Auburn",74,63
+"Old Dominion","Florida Intl",64,60
+"Providence","Georgetown",73,69
+"Purdue","Nebraska",89,74
+"Quinnipiac","Niagara",82,68
+"Rice","North Texas",95,87
+"S Carolina St","Delaware St",56,41
+"S Dakota St","Denver",67,56
+"Sacred Heart","Bryant",72,71
+"San Diego","Loy Marymount",77,69
+"San Diego St","UNLV",67,52
+"San Jose St","Air Force",75,54
+"Santa Barbara","UC Irvine",76,60
+"Santa Clara","Portland",90,84
+"SC Upstate","Lipscomb",92,91
+"Seattle","Grand Canyon",59,57
+"Seton Hall","Creighton",75,65
+"SF Austin","TAM C. Christi",66,61
+"Siena","Marist",77,66
+"SMU","Memphis",80,68
+"South Alabama","Appalachian St",73,60
+"South Carolina","Alabama",78,64
+"Southern Miss","UT San Antonio",86,70
+"Southern Univ","Alcorn St",75,64
+"St Francis NY","Central Conn",60,49
+"St Francis PA","Robert Morris",90,78
+"St Joseph's PA","Rhode Island",64,55
+"St Mary's CA","Pacific",68,65
+"Stony Brook","Vermont",72,61
+"Syracuse","Georgia Tech",60,57
+"TCU","Tennessee",75,63
+"Tennessee St","Jacksonville St",78,53
+"Tennessee Tech","Belmont",89,79
+"Texas","Vanderbilt",72,58
+"Texas A&M","Iowa St",72,62
+"TN Martin","Murray St",63,59
+"Towson","Delaware",101,97
+"Tulsa","Tulane",62,48
+"TX Southern","Alabama St",75,72
+"UAB","Marshall",81,78
+"UC Davis","Cal Poly SLO",66,52
+"UC Riverside","CS Fullerton",81,71
+"UCLA","Washington St",83,50
+"ULL","UT Arlington",90,75
+"ULM","Texas St",72,59
+"UNC Asheville","Longwood",88,74
+"UNC Wilmington","Col Charleston",65,55
+"USC","Washington",98,88
+"Utah","Stanford",96,74
+"Valparaiso","Youngstown St",97,68
+"Virginia","Louisville",63,47
+"W Michigan","E Michigan",94,86
+"Wagner","Mt St Mary's",73,63
+"Weber St","Southern Utah",77,50
+"Winthrop","Radford",87,77
+"Wofford","W Carolina",85,66
+"Wyoming","Colorado St",83,76
+"Xavier","DePaul",86,65
+"Yale","Princeton",79,75
+"Boston Univ","Lehigh",75,73
+"Colorado","California",70,62
+"Connecticut","UCF",67,41
+"Detroit","Wright St",75,68
+"G Washington","George Mason",76,70
+"Iowa","Northwestern",85,71
+"IPFW","W Illinois",88,67
+"IUPUI","N Dakota St",73,72
+"Maryland","Ohio St",66,61
+"Michigan St","Rutgers",96,62
+"Northern Iowa","S Illinois",67,58
+"Notre Dame","Wake Forest",85,62
+"Oregon","Arizona St",91,74
+"Pittsburgh","Virginia Tech",90,71
+"Rider","Canisius",79,68
+"St Bonaventure","Richmond",84,68
+"Temple","South Florida",70,63
+"Villanova","St John's",68,53
+"Wichita St","Evansville",78,65
+"William & Mary","James Madison",68,62
+"Wisconsin","Illinois",63,55
+"Alabama St","Prairie View",83,77
+"American Univ","Holy Cross",58,45
+"Chattanooga","Citadel",125,85
+"Florida St","NC State",77,73
+"Houston","SMU",71,68
+"Iona","St Peter's",75,67
+"Jackson St","Ark Pine Bluff",66,53
+"Jacksonville","FL Gulf Coast",83,80
+"Kennesaw","SC Upstate",75,62
+"Louisville","North Carolina",71,65
+"Loyola MD","Colgate",68,65
+"MD E Shore","Howard",85,67
+"Mercer","Samford",85,70
+"Monmouth NJ","Siena",93,87
+"Morgan St","Coppin St",83,43
+"MS Valley St","Grambling",72,59
+"Navy","Army",64,50
+"NC Central","Florida A&M",81,63
+"New Orleans","Nicholls St",74,53
+"NJIT","Lipscomb",90,78
+"Oakland","N Kentucky",85,74
+"Quinnipiac","Fairfield",64,59
+"Sam Houston St","Lamar",69,66
+"SE Louisiana","McNeese St",82,80
+"Stetson","North Florida",86,82
+"Texas","Baylor",67,59
+"TX Southern","Alabama A&M",71,68
+"Abilene Chr","Houston Bap",79,72
+"Akron","Ohio",80,68
+"Alabama","Mississippi St",82,80
+"Ball St","Bowling Green",72,64
+"Bethune-Cookman","Savannah St",62,59
+"Boise St","Utah St",70,67
+"Buffalo","N Illinois",90,78
+"Butler","Georgetown",87,76
+"C Michigan","Kent",88,61
+"Clemson","Wake Forest",76,62
+"DePaul","Providence",77,70
+"Duke","Georgia Tech",80,71
+"E Michigan","Miami OH",94,69
+"Georgia","South Carolina",69,56
+"Incarnate Word","TAM C. Christi",70,65
+"Indiana","Michigan",80,67
+"Indiana St","Drake",63,56
+"Liberty","Winthrop",88,77
+"LSU","Auburn",80,68
+"Manhattan","Rider",65,57
+"Massachusetts","Rhode Island",61,56
+"Missouri St","Bradley",77,71
+"New Mexico","UNLV",87,83
+"Northwestern LA","Cent Arkansas",91,75
+"Oklahoma","TCU",95,72
+"San Diego St","Colorado St",69,67
+"Syracuse","Virginia Tech",68,60
+"Tennessee","Kentucky",84,77
+"Toledo","W Michigan",89,62
+"ULL","ULM",72,65
+"West Virginia","Iowa St",81,76
+"Air Force","Wyoming",70,62
+"Albany NY","UMBC",79,73
+"American Univ","Bucknell",69,55
+"Arizona","Washington St",79,64
+"Army","Lafayette",84,81
+"Boston Univ","Navy",83,72
+"Charlotte","NC A&T",92,72
+"Coastal Car","Presbyterian",69,66
+"CS Northridge","UC Riverside",73,71
+"Florida","Arkansas",87,83
+"G Washington","Davidson",79,69
+"Gardner Webb","High Point",79,74
+"George Mason","Richmond",78,74
+"Illinois","Rutgers",110,101
+"Illinois St","Loyola-Chicago",78,70
+"Iowa","Penn St",73,49
+"Kansas","Kansas St",77,59
+"Lehigh","Loyola MD",71,66
+"Longwood","Campbell",80,79
+"MA Lowell","Hartford",85,83
+"Maryland","Nebraska",70,65
+"Miami FL","Notre Dame",79,70
+"Mississippi","Missouri",76,73
+"Northern Iowa","Evansville",57,54
+"San Jose St","Fresno St",65,53
+"Seton Hall","Marquette",79,62
+"St Bonaventure","St Joseph's PA",83,73
+"Stony Brook","Binghamton",76,51
+"Texas Tech","Oklahoma St",63,61
+"UC Irvine","Cal Poly SLO",78,72
+"UNC Asheville","Charleston So",63,55
+"VA Commonwealth","La Salle",88,70
+"Vermont","Maine",85,68
+"Villanova","Creighton",83,58
+"Virginia","Boston College",61,47
+"W Illinois","NE Omaha",83,76
+"Washington","Arizona St",95,83
+"Wichita St","S Illinois",76,55
+"Xavier","St John's",90,83
+"Ark Little Rock","Troy",72,49
+"Arkansas St","South Alabama",79,73
+"Belmont","Morehead St",73,67
+"BYU","St Mary's CA",70,59
+"Central Conn","Robert Morris",65,60
+"Chattanooga","Wofford",79,63
+"Cincinnati","South Florida",88,57
+"Col Charleston","Towson",65,47
+"Connecticut","Memphis",77,57
+"CS Bakersfield","Missouri KC",77,66
+"CS Fullerton","UC Davis",61,57
+"CS Sacramento","Montana",83,79
+"Denver","IUPUI",53,51
+"Detroit","Cleveland St",71,63
+"E Kentucky","Tennessee St",97,81
+"E Washington","Northern Arizona",84,73
+"Elon","Delaware",83,56
+"ETSU","VMI",71,60
+"F Dickinson","Wagner",82,79
+"Furman","Samford",67,65
+"Ga Southern","UT Arlington",82,73
+"Georgia St","Texas St",59,56
+"Gonzaga","Loy Marymount",92,63
+"Hawaii","Santa Barbara",76,64
+"Idaho","Southern Utah",68,44
+"IPFW","South Dakota",95,82
+"James Madison","Drexel",78,56
+"Long Island","Mt St Mary's",77,74
+"Louisiana Tech","Rice",90,78
+"MTSU","FL Atlantic",85,73
+"Murray St","SE Missouri St",78,72
+"N Dakota St","Oral Roberts",67,63
+"New Mexico St","Grand Canyon",70,50
+"North Dakota","Idaho St",76,60
+"North Texas","Southern Miss",70,54
+"Northwestern","Minnesota",82,58
+"Oakland","Youngstown St",107,85
+"Oregon","Colorado",76,56
+"Oregon St","Utah",71,69
+"Portland","Pepperdine",73,70
+"Portland St","Montana St",83,68
+"Quinnipiac","Marist",79,53
+"Sacred Heart","St Francis NY",74,70
+"San Diego","Pacific",54,43
+"Seattle","Chicago St",59,56
+"St Francis PA","Bryant",63,57
+"Temple","Tulsa",83,79
+"TN Martin","Austin Peay",86,77
+"UAB","Florida Intl",74,69
+"UCF","Tulane",70,62
+"ULL","Appalachian St",87,76
+"UNC Greensboro","W Carolina",75,58
+"UNC Wilmington","Hofstra",70,67
+"USC","UCLA",80,61
+"Utah Valley","UTRGV",88,77
+"UTEP","Marshall",112,108
+"Vanderbilt","Texas A&M",77,60
+"WKU","UT San Antonio",83,71
+"Weber St","N Colorado",64,54
+"WI Green Bay","N Kentucky",85,78
+"William & Mary","Northeastern",86,77
+"Wisconsin","Ohio St",79,68
+"Wright St","WI Milwaukee",84,83
+"Brown","Cornell",86,80
+"Iona","Canisius",84,66
+"Monmouth NJ","Fairfield",91,67
+"Penn","Dartmouth",71,64
+"Princeton","Harvard",83,62
+"Rider","Niagara",66,60
+"Siena","St Peter's",69,52
+"Yale","Columbia",86,72
+"Air Force","Boise St",61,53
+"Akron","C Michigan",92,87
+"Alabama","Missouri",80,71
+"Alabama A&M","Ark Pine Bluff",71,66
+"Alabama St","MS Valley St",73,62
+"Albany NY","Vermont",75,71
+"Alcorn St","Jackson St",72,64
+"Arizona","Washington",77,72
+"Arizona St","Washington St",67,55
+"Ark Little Rock","South Alabama",74,43
+"Arkansas","Tennessee",85,67
+"Austin Peay","Murray St",76,73
+"Ball St","W Michigan",75,71
+"Bethune-Cookman","Delaware St",85,56
+"Boston Univ","Lafayette",89,82
+"Bradley","Indiana St",63,58
+"Bucknell","Holy Cross",77,52
+"Buffalo","E Michigan",80,70
+"Butler","St John's",89,56
+"California","Stanford",76,61
+"Cent Arkansas","New Orleans",112,77
+"Chattanooga","Furman",62,54
+"Coastal Car","Radford",72,60
+"Col Charleston","Drexel",60,38
+"Colgate","Navy",58,55
+"Colorado St","Nevada",76,67
+"Columbia","Brown",77,73
+"Creighton","DePaul",88,66
+"CS Bakersfield","Chicago St",71,48
+"Davidson","Duquesne",93,82
+"Dayton","George Mason",98,64
+"Denver","NE Omaha",75,72
+"Detroit","Youngstown St",94,92
+"Duke","NC State",88,80
+"E Illinois","SE Missouri St",78,69
+"E Kentucky","Belmont",88,78
+"E Washington","Southern Utah",81,67
+"ETSU","UNC Greensboro",68,65
+"Evansville","Missouri St",83,64
+"FL Gulf Coast","North Florida",81,65
+"Florida St","Wake Forest",91,71
+"Fresno St","UNLV",111,104
+"G Washington","VA Commonwealth",72,69
+"Ga Southern","Texas St",66,62
+"Gardner Webb","Presbyterian",69,66
+"Georgia","Auburn",65,55
+"Gonzaga","Pepperdine",69,66
+"Grand Canyon","UTRGV",64,58
+"Hawaii","Cal Poly SLO",75,60
+"Idaho St","N Colorado",90,57
+"Illinois St","Wichita St",58,53
+"Incarnate Word","Lamar",74,71
+"Iowa St","Oklahoma St",64,59
+"Jacksonville","Stetson",96,88
+"James Madison","Hofstra",98,95
+"Kansas","TCU",75,56
+"Kansas St","Oklahoma",80,69
+"Kentucky","Florida",80,61
+"Lehigh","American Univ",72,49
+"Liberty","High Point",80,76
+"Lipscomb","SC Upstate",78,65
+"Long Beach St","CS Northridge",81,76
+"Longwood","Charleston So",78,76
+"Louisville","Boston College",79,47
+"Loyola MD","Army",100,99
+"Loyola-Chicago","S Illinois",73,59
+"LSU","Mississippi St",88,77
+"Marshall","UT San Antonio",109,91
+"Maryland","Purdue",72,61
+"MD E Shore","Hampton",73,70
+"Memphis","Cincinnati",63,59
+"Mercer","Citadel",88,72
+"Miami OH","Bowling Green",55,51
+"Michigan St","Michigan",89,73
+"Mississippi","Vanderbilt",85,78
+"Montana","Portland St",82,80
+"Montana St","CS Sacramento",79,76
+"MTSU","Florida Intl",67,66
+"N Dakota St","IPFW",62,46
+"N Kentucky","WI Milwaukee",75,71
+"NC A&T","NC Central",67,63
+"Nebraska","Rutgers",87,63
+"New Hampshire","Binghamton",59,55
+"New Mexico St","Utah Valley",98,74
+"Nicholls St","McNeese St",71,56
+"NJIT","Kennesaw",78,59
+"Norfolk St","Howard",99,92
+"North Dakota","Weber St",78,71
+"North Texas","Louisiana Tech",80,69
+"Northern Arizona","Idaho",72,70
+"Northern Iowa","Drake",82,66
+"Notre Dame","North Carolina",80,76
+"Oakland","Cleveland St",67,57
+"Ohio","N Illinois",80,69
+"Old Dominion","Charlotte",74,69
+"Oregon St","Colorado",60,56
+"Pacific","BYU",77,72
+"Penn","Harvard",67,57
+"Penn St","Indiana",68,63
+"Portland","Loy Marymount",92,78
+"Prairie View","TX Southern",59,55
+"Princeton","Dartmouth",83,70
+"Rhode Island","La Salle",79,62
+"Rice","Southern Miss",72,65
+"Richmond","Massachusetts",69,53
+"Robert Morris","Bryant",89,71
+"S Carolina St","Coppin St",88,83
+"S Dakota St","IUPUI",80,58
+"Sacred Heart","Long Island",98,90
+"San Diego St","New Mexico",78,71
+"San Francisco","Santa Clara",89,86
+"Santa Barbara","CS Fullerton",81,68
+"Savannah St","Morgan St",57,49
+"SE Louisiana","Abilene Chr",81,60
+"Seattle","Missouri KC",65,55
+"Seton Hall","Georgetown",69,61
+"SF Austin","Houston Bap",72,66
+"South Carolina","Texas A&M",81,78
+"South Dakota","Oral Roberts",91,79
+"Southern Univ","Grambling",79,66
+"St Francis NY","F Dickinson",85,71
+"St Francis PA","Central Conn",91,82
+"St Joseph's PA","Fordham",82,60
+"St Mary's CA","San Diego",60,43
+"Stony Brook","MA Lowell",91,73
+"TAM C. Christi","Sam Houston St",51,48
+"Temple","UCF",62,60
+"Tennessee St","Morehead St",77,76
+"Tennessee Tech","Jacksonville St",68,58
+"Texas","Texas Tech",69,59
+"TN Martin","Edwardsville",79,62
+"Toledo","Kent",82,67
+"Towson","Elon",81,77
+"Troy","Arkansas St",71,70
+"UAB","FL Atlantic",104,67
+"UC Davis","UC Riverside",50,49
+"ULM","Appalachian St",91,90
+"UMBC","Maine",83,79
+"UNC Asheville","Campbell",81,71
+"UNC Wilmington","Northeastern",90,73
+"UT Arlington","Georgia St",90,69
+"UTEP","WKU",93,89
+"Valparaiso","IL Chicago",73,55
+"Villanova","Providence",72,60
+"Virginia","Pittsburgh",64,50
+"Virginia Tech","Clemson",60,57
+"W Carolina","VMI",69,60
+"Wagner","Mt St Mary's",72,51
+"West Virginia","Baylor",80,69
+"William & Mary","Delaware",90,64
+"Wofford","Samford",78,75
+"Wright St","WI Green Bay",79,60
+"Wyoming","Utah St",84,65
+"Xavier","Marquette",90,82
+"Yale","Cornell",83,52
+"Canisius","Rider",67,61
+"Connecticut","East Carolina",85,67
+"Fairfield","Manhattan",80,70
+"Iona","Niagara",75,61
+"Iowa","Illinois",77,65
+"Marist","Siena",79,73
+"Miami FL","Georgia Tech",75,68
+"Oregon","Utah",76,66
+"SMU","South Florida",92,58
+"St Bonaventure","St Louis",65,62
+"Tulsa","Houston",77,63
+"Abilene Chr","Lamar",71,67
+"Albany NY","Binghamton",69,56
+"Alcorn St","Grambling",66,63
+"Ark Pine Bluff","Alabama St",75,70
+"Army","Colgate",82,72
+"Chattanooga","Mercer",72,66
+"Duke","Louisville",72,65
+"Florida A&M","Delaware St",96,95
+"Furman","UNC Greensboro",79,72
+"Georgetown","St John's",92,67
+"Hampton","Howard",68,65
+"Jackson St","Southern Univ",81,80
+"Lehigh","Lafayette",87,72
+"MA Lowell","Vermont",100,93
+"MS Valley St","Alabama A&M",66,64
+"New Hampshire","Maine",88,75
+"Nicholls St","Incarnate Word",71,60
+"Norfolk St","MD E Shore",76,70
+"Notre Dame","Clemson",89,83
+"Oklahoma","Texas",63,60
+"S Carolina St","Morgan St",82,78
+"Samford","Citadel",95,86
+"Savannah St","Coppin St",72,63
+"SF Austin","Northwestern LA",83,72
+"St Peter's","Quinnipiac",68,52
+"Stony Brook","Hartford",85,72
+"TAM C. Christi","Houston Bap",83,76
+"TCU","Oklahoma St",63,56
+"Wofford","VMI",92,60
+"Akron","Bowling Green",83,68
+"Cent Arkansas","SE Louisiana",88,72
+"Cincinnati","UCF",69,51
+"Creighton","Xavier",70,56
+"Dayton","Duquesne",76,74
+"E Michigan","C Michigan",71,56
+"Florida","Mississippi",77,72
+"Kansas","West Virginia",75,65
+"Kent","N Illinois",75,74
+"Kentucky","Georgia",82,48
+"Miami FL","Pittsburgh",65,63
+"Miami OH","W Michigan",45,44
+"Mississippi St","Arkansas",78,46
+"Monmouth NJ","Marist",87,61
+"North Carolina","Boston College",68,65
+"Ohio","Ball St",72,69
+"Ohio St","Northwestern",71,63
+"Purdue","Michigan St",82,81
+"Rhode Island","George Mason",81,63
+"Tennessee","Auburn",71,45
+"Toledo","Buffalo",71,69
+"UT Arlington","Texas St",65,53
+"Utah St","New Mexico",80,72
+"Villanova","DePaul",86,59
+"Virginia","Virginia Tech",67,49
+"Wichita St","Drake",74,48
+"Alabama","Texas A&M",63,62
+"Austin Peay","E Illinois",79,70
+"Baylor","Kansas St",82,72
+"Belmont","Jacksonville St",81,73
+"Boston Univ","American Univ",71,51
+"Butler","Seton Hall",81,75
+"Colorado St","Boise St",97,93
+"CS Northridge","CS Fullerton",75,67
+"Davidson","La Salle",79,66
+"Fresno St","San Diego St",58,57
+"Georgia Tech","Wake Forest",71,66
+"Holy Cross","Lafayette",67,53
+"Houston","Memphis",98,90
+"Lehigh","Bucknell",80,65
+"Loyola-Chicago","Bradley",54,43
+"Marquette","Providence",96,91
+"Michigan","Minnesota",82,74
+"Morehead St","E Kentucky",61,50
+"Navy","Loyola MD",71,51
+"NE Omaha","S Dakota St",96,92
+"Nevada","Air Force",72,52
+"Northern Iowa","Missouri St",83,69
+"Richmond","St Louis",67,53
+"S Illinois","Indiana St",85,78
+"South Carolina","LSU",94,83
+"St Bonaventure","Fordham",76,72
+"St Joseph's PA","G Washington",84,66
+"Tennessee St","Tennessee Tech",85,55
+"Texas Tech","Iowa St",85,82
+"Tulane","East Carolina",100,92
+"Tulsa","SMU",82,77
+"UNLV","San Jose St",64,61
+"Utah","Washington",90,82
+"Vanderbilt","Missouri",86,71
+"Wisconsin","Nebraska",72,61
+"Binghamton","Hartford",68,54
+"BYU","San Francisco",114,89
+"California","Oregon",83,63
+"Campbell","Gardner Webb",89,85
+"Charleston So","Presbyterian",77,63
+"Charlotte","Rice",102,73
+"Colorado","Washington St",88,81
+"Delaware","Drexel",69,60
+"E Washington","North Dakota",95,85
+"ETSU","Samford",94,90
+"F Dickinson","Bryant",91,77
+"FL Atlantic","UT San Antonio",79,73
+"FL Gulf Coast","SC Upstate",71,64
+"Furman","Citadel",95,75
+"Ga Southern","Troy",77,71
+"Gonzaga","Portland",92,66
+"Hawaii","UC Irvine",74,52
+"High Point","Coastal Car",68,67
+"Hofstra","William & Mary",86,80
+"Idaho","N Colorado",73,67
+"Idaho St","Portland St",88,71
+"IL Chicago","Wright St",64,59
+"Illinois St","Evansville",70,60
+"Indiana","Iowa",85,78
+"James Madison","Col Charleston",56,52
+"Kennesaw","North Florida",101,91
+"Lipscomb","Jacksonville",93,92
+"Long Beach St","Cal Poly SLO",73,70
+"Long Island","Wagner",82,69
+"Louisiana Tech","MTSU",73,63
+"Loy Marymount","Pacific",77,72
+"MA Lowell","Maine",108,95
+"Manhattan","Quinnipiac",84,77
+"Massachusetts","VA Commonwealth",69,63
+"McNeese St","New Orleans",87,76
+"Montana","Southern Utah",86,53
+"Montana St","Northern Arizona",101,58
+"Mt St Mary's","Sacred Heart",66,61
+"Murray St","Edwardsville",70,64
+"New Hampshire","Albany NY",69,68
+"NJIT","Stetson",74,70
+"Northeastern","Towson",47,44
+"Old Dominion","North Texas",67,47
+"Oral Roberts","IUPUI",77,56
+"Oregon St","Stanford",62,50
+"Pepperdine","St Mary's CA",69,63
+"Radford","UNC Asheville",60,59
+"Santa Barbara","UC Davis",72,66
+"Santa Clara","San Diego",74,71
+"Siena","Canisius",90,67
+"South Alabama","Georgia St",79,78
+"South Dakota","N Dakota St",72,58
+"St Francis NY","Central Conn",74,67
+"St Francis PA","Robert Morris",68,57
+"Stony Brook","UMBC",75,52
+"Syracuse","Florida St",85,72
+"Temple","Connecticut",63,58
+"Texas St","Appalachian St",69,68
+"TN Martin","SE Missouri St",77,64
+"UAB","Southern Miss",80,77
+"ULL","Arkansas St",83,73
+"ULM","Ark Little Rock",86,82
+"UNC Wilmington","Elon",86,82
+"UTEP","Florida Intl",84,74
+"Valparaiso","N Kentucky",64,52
+"VMI","UNC Greensboro",86,72
+"W Carolina","Chattanooga",67,61
+"W Illinois","Denver",63,60
+"Weber St","CS Sacramento",63,50
+"WI Green Bay","Detroit",86,85
+"WI Milwaukee","Oakland",93,85
+"Winthrop","Longwood",88,80
+"Wofford","Mercer",79,70
+"Arizona","UCLA",81,75
+"Arizona St","USC",74,67
+"Columbia","Penn",63,53
+"Dayton","Rhode Island",68,66
+"Grand Canyon","Seattle",71,60
+"Harvard","Brown",79,73
+"Incarnate Word","Cent Arkansas",71,69
+"Monmouth NJ","Rider",79,78
+"Princeton","Cornell",85,56
+"St Peter's","Niagara",72,59
+"Yale","Dartmouth",75,65
+"Alabama","Florida",61,55
+"Alabama St","Alabama A&M",74,68
+"Alcorn St","MS Valley St",72,71
+"Ark Little Rock","ULL",68,64
+"Army","American Univ",65,59
+"Ball St","C Michigan",75,63
+"Boise St","Wyoming",94,71
+"Boston Univ","Loyola MD",73,65
+"BYU","Santa Clara",96,62
+"Cal Poly SLO","UC Riverside",86,78
+"California","Oregon St",83,71
+"Campbell","Presbyterian",91,61
+"Charlotte","North Texas",103,79
+"Chattanooga","ETSU",76,68
+"Cincinnati","East Carolina",75,60
+"Clemson","Georgia Tech",66,52
+"Cleveland St","Youngstown St",64,59
+"Coastal Car","Gardner Webb",78,71
+"Col Charleston","Elon",66,62
+"Colgate","Bucknell",91,81
+"Colorado","Washington",81,80
+"Connecticut","Tulsa",75,73
+"Coppin St","Howard",90,66
+"Creighton","Marquette",65,62
+"CS Bakersfield","Utah Valley",91,69
+"Dartmouth","Brown",87,70
+"Delaware St","MD E Shore",75,71
+"Detroit","WI Milwaukee",80,66
+"Duke","Virginia",63,62
+"E Michigan","Kent",75,70
+"E Washington","N Colorado",97,80
+"Edwardsville","E Illinois",72,64
+"Fairfield","Quinnipiac",84,80
+"Florida Intl","UT San Antonio",79,65
+"Furman","Mercer",85,74
+"George Mason","Davidson",60,59
+"Georgia","Mississippi St",66,57
+"Hawaii","CS Fullerton",76,59
+"High Point","Charleston So",72,50
+"Hofstra","Delaware",77,66
+"Houston","UCF",82,58
+"Idaho","North Dakota",65,64
+"Idaho St","CS Sacramento",66,64
+"IL Chicago","N Kentucky",79,77
+"Iowa St","Texas",85,75
+"IPFW","Denver",88,84
+"Kansas","Oklahoma",76,72
+"Kennesaw","Jacksonville",90,69
+"Kentucky","South Carolina",89,62
+"Liberty","Longwood",69,68
+"Lipscomb","North Florida",94,87
+"Long Beach St","UC Davis",57,48
+"Louisiana Tech","UAB",85,76
+"LSU","Texas A&M",76,71
+"Manhattan","Marist",81,73
+"Marshall","WKU",96,93
+"Michigan","Purdue",61,56
+"Mississippi","Arkansas",76,60
+"Missouri","Tennessee",75,64
+"Missouri KC","UTRGV",75,58
+"Missouri St","Indiana St",89,85
+"Montana","Northern Arizona",85,67
+"Montana St","Southern Utah",80,73
+"Morehead St","Belmont",78,77
+"Mt St Mary's","St Francis PA",66,61
+"MTSU","Southern Miss",76,54
+"Murray St","SE Missouri St",83,56
+"N Illinois","Akron",80,79
+"Navy","Lafayette",74,68
+"NC A&T","Florida A&M",75,68
+"NC Central","Bethune-Cookman",90,66
+"NC State","Wake Forest",99,88
+"NE Omaha","N Dakota St",76,69
+"Nebraska","Penn St",70,54
+"Nevada","Fresno St",77,72
+"New Mexico","San Jose St",74,58
+"New Mexico St","Chicago St",69,55
+"NJIT","FL Gulf Coast",68,59
+"Norfolk St","Morgan St",79,73
+"Northeastern","Drexel",70,60
+"Northern Iowa","Wichita St",53,50
+"Northwestern","Illinois",58,56
+"Northwestern LA","McNeese St",87,78
+"Notre Dame","Louisville",71,66
+"Oakland","WI Green Bay",111,93
+"Ohio","Buffalo",94,75
+"Ohio St","Rutgers",79,69
+"Oklahoma St","Kansas St",58,55
+"Oral Roberts","W Illinois",72,66
+"Penn","Cornell",92,84
+"Pepperdine","Pacific",65,63
+"Prairie View","Grambling",60,56
+"Princeton","Columbia",88,83
+"Providence","Georgetown",75,72
+"Rice","Old Dominion",75,66
+"Richmond","Fordham",71,67
+"Robert Morris","F Dickinson",72,70
+"S Dakota St","South Dakota",85,68
+"S Illinois","Drake",75,60
+"Sacred Heart","Central Conn",87,52
+"Sam Houston St","Houston Bap",80,68
+"San Diego St","Air Force",70,61
+"San Francisco","San Diego",68,51
+"Savannah St","S Carolina St",60,57
+"SC Upstate","Stetson",85,83
+"SE Louisiana","Nicholls St",69,61
+"SF Austin","TAM C. Christi",70,58
+"Siena","Iona",81,78
+"SMU","Gonzaga",69,60
+"South Alabama","Ga Southern",80,76
+"Southern Univ","Ark Pine Bluff",66,58
+"St Bonaventure","G Washington",64,57
+"St Joseph's PA","La Salle",88,62
+"St Mary's CA","Loy Marymount",68,62
+"Stanford","Oregon",76,72
+"Tennessee St","E Kentucky",79,78
+"Tennessee Tech","Jacksonville St",72,70
+"Texas Tech","Baylor",84,66
+"TN Martin","Austin Peay",85,84
+"Toledo","Miami OH",93,49
+"Towson","William & Mary",99,82
+"Troy","Georgia St",54,53
+"Tulane","Memphis",94,87
+"TX Southern","Jackson St",76,60
+"UC Irvine","CS Northridge",93,84
+"ULM","Arkansas St",78,73
+"UNC Wilmington","James Madison",78,68
+"UNLV","Colorado St",87,80
+"UT Arlington","Appalachian St",91,60
+"UTEP","FL Atlantic",89,82
+"VA Commonwealth","St Louis",85,52
+"Vanderbilt","Auburn",86,57
+"Villanova","St John's",73,63
+"W Carolina","Samford",76,71
+"W Michigan","Bowling Green",74,68
+"Wagner","Bryant",79,55
+"Weber St","Portland St",87,78
+"West Virginia","TCU",73,42
+"Winthrop","Radford",86,84
+"Wisconsin","Maryland",70,57
+"Wofford","Citadel",99,89
+"Wright St","Valparaiso",61,59
+"Xavier","Butler",74,57
+"Yale","Harvard",67,55
+"Albany NY","Maine",108,64
+"Arizona","USC",86,78
+"Evansville","Loyola-Chicago",74,73
+"Illinois St","Bradley",75,60
+"Iowa","Minnesota",75,71
+"MA Lowell","UMBC",96,92
+"Massachusetts","Duquesne",108,99
+"Miami FL","Florida St",67,65
+"Michigan St","Indiana",88,69
+"North Carolina","Pittsburgh",85,64
+"Rider","Niagara",77,59
+"St Peter's","Canisius",61,57
+"Stony Brook","New Hampshire",59,58
+"Syracuse","Boston College",75,61
+"Temple","South Florida",77,65
+"UCLA","Arizona St",78,65
+"Utah","Washington St",88,47
+"Vermont","Hartford",92,81
+"Alcorn St","Ark Pine Bluff",79,60
+"Bethune-Cookman","NC A&T",83,77
+"Cent Arkansas","Northwestern LA",107,94
+"Delaware St","Coppin St",71,67
+"ETSU","W Carolina",83,77
+"Fairfield","Marist",76,73
+"Hampton","Morgan St",87,79
+"Houston Bap","Lamar",79,78
+"Howard","MD E Shore",77,74
+"Iona","Quinnipiac",78,59
+"Jackson St","Prairie View",80,66
+"Kansas","Oklahoma St",94,67
+"Lehigh","Holy Cross",64,59
+"Long Island","St Francis NY",82,67
+"Monmouth NJ","Manhattan",79,70
+"NC Central","Florida A&M",79,74
+"Oakland","Wright St",89,73
+"Sam Houston St","Abilene Chr",84,71
+"SE Louisiana","McNeese St",79,76
+"SF Austin","Incarnate Word",84,46
+"Southern Univ","MS Valley St",97,64
+"TAM C. Christi","New Orleans",65,57
+"TX Southern","Grambling",79,72
+"UNC Greensboro","Wofford",65,61
+"Virginia","NC State",73,53
+"WI Green Bay","WI Milwaukee",70,68
+"Wichita St","New Mexico St",71,41
+"Air Force","UNLV",79,74
+"Akron","Buffalo",80,70
+"Ball St","Miami OH",73,56
+"Baylor","Iowa St",100,91
+"Butler","Creighton",88,75
+"C Michigan","Toledo",77,69
+"Davidson","Richmond",83,79
+"Detroit","N Kentucky",74,68
+"Florida","Georgia",57,53
+"Illinois","Rutgers",82,66
+"Kansas St","TCU",63,49
+"Kent","W Michigan",85,78
+"Mississippi St","Vanderbilt",75,74
+"Missouri","South Carolina",72,67
+"N Illinois","Bowling Green",71,60
+"Ohio","E Michigan",86,64
+"Ohio St","Michigan",76,66
+"Pittsburgh","Wake Forest",101,96
+"Purdue","Northwestern",71,61
+"South Florida","East Carolina",69,52
+"Texas","West Virginia",85,78
+"Texas A&M","Mississippi",71,56
+"Troy","South Alabama",61,54
+"VA Commonwealth","Rhode Island",83,67
+"Valparaiso","Cleveland St",66,43
+"Youngstown St","IL Chicago",92,91
+"Alabama","LSU",76,69
+"Albany NY","Stony Brook",82,70
+"American Univ","Lafayette",60,59
+"Arizona","Arizona St",99,61
+"Army","Holy Cross",72,68
+"Auburn","Arkansas",90,86
+"Boston Univ","Colgate",71,68
+"Bucknell","Loyola MD",87,52
+"Clemson","Boston College",65,54
+"Duke","North Carolina",74,73
+"Evansville","Drake",80,74
+"Fordham","Massachusetts",76,66
+"Fresno St","Wyoming",79,75
+"G Washington","Duquesne",81,74
+"Georgia Tech","Florida St",86,80
+"Hartford","UMBC",88,65
+"Houston","Tulane",82,69
+"Illinois St","Indiana St",78,50
+"Indiana","Nebraska",80,64
+"IUPUI","NE Omaha",88,76
+"La Salle","St Bonaventure",71,64
+"Lehigh","Navy",77,74
+"Louisville","Syracuse",72,58
+"Loyola-Chicago","Northern Iowa",59,56
+"Memphis","UCF",73,56
+"Miami FL","Virginia Tech",65,49
+"N Dakota St","W Illinois",63,54
+"Nevada","San Jose St",61,55
+"New Hampshire","MA Lowell",80,69
+"New Mexico","Boise St",80,78
+"Penn St","Iowa",79,75
+"S Illinois","Bradley",71,59
+"Seton Hall","Georgetown",72,64
+"St John's","DePaul",80,65
+"St Joseph's PA","Dayton",79,70
+"St Louis","George Mason",79,77
+"St Peter's","Manhattan",70,69
+"Texas Tech","Oklahoma",65,63
+"UC Irvine","CS Fullerton",96,77
+"USC","Colorado",79,72
+"Utah St","Colorado St",72,59
+"Vermont","Binghamton",78,64
+"Villanova","Temple",83,67
+"Xavier","Providence",85,74
+"Ark Little Rock","Georgia St",57,49
+"Belmont","E Kentucky",86,78
+"BYU","San Diego",69,67
+"Cal Poly SLO","UC Davis",58,53
+"California","Washington",78,75
+"Central Conn","Mt St Mary's",76,72
+"Chattanooga","VMI",85,59
+"Connecticut","SMU",68,62
+"Coppin St","NC Central",71,60
+"Delaware","Col Charleston",62,59
+"E Washington","CS Sacramento",93,88
+"Edwardsville","SE Missouri St",72,69
+"Elon","Drexel",81,76
+"ETSU","Citadel",67,51
+"Fairfield","Canisius",74,71
+"FL Gulf Coast","Lipscomb",82,67
+"Ga Southern","Arkansas St",90,59
+"Gardner Webb","Charleston So",84,76
+"Gonzaga","Pacific",90,68
+"Grand Canyon","Missouri KC",78,66
+"Hawaii","CS Northridge",69,63
+"High Point","Longwood",88,80
+"Hofstra","Towson",84,82
+"Houston Bap","Abilene Chr",73,71
+"Idaho","Portland St",80,74
+"IPFW","S Dakota St",91,79
+"Jacksonville","SC Upstate",81,76
+"Kennesaw","Stetson",92,82
+"Kentucky","Tennessee",80,70
+"Louisiana Tech","UT San Antonio",87,74
+"Marshall","Charlotte",87,72
+"Michigan St","Wisconsin",69,57
+"Minnesota","Maryland",68,63
+"Morehead St","Tennessee St",66,61
+"New Mexico St","CS Bakersfield",63,55
+"Niagara","Marist",76,72
+"North Florida","NJIT",107,71
+"North Texas","Florida Intl",77,75
+"Northeastern","James Madison",95,94
+"Northern Arizona","Idaho St",81,68
+"Old Dominion","WKU",59,56
+"Quinnipiac","St Peter's",56,55
+"Radford","Liberty",69,67
+"Rice","FL Atlantic",90,85
+"Robert Morris","Long Island",74,67
+"Sacred Heart","Bryant",74,57
+"San Francisco","Pepperdine",82,72
+"Santa Barbara","UC Riverside",65,55
+"Santa Clara","Loy Marymount",76,72
+"South Alabama","Appalachian St",75,71
+"St Francis NY","St Francis PA",70,58
+"St Mary's CA","Portland",74,72
+"Stanford","Washington St",72,56
+"TN Martin","E Illinois",87,84
+"Tulsa","Cincinnati",70,68
+"UTRGV","Seattle",67,57
+"ULM","Texas St",76,57
+"UNC Asheville","Presbyterian",70,61
+"UNC Greensboro","Samford",82,77
+"UT Arlington","ULL",84,83
+"Utah","UCLA",75,73
+"Utah Valley","Chicago St",74,72
+"UTEP","Southern Miss",78,73
+"W Carolina","Mercer",72,65
+"Wagner","F Dickinson",94,74
+"Weber St","Southern Utah",87,83
+"Wichita St","Missouri St",99,68
+"William & Mary","UNC Wilmington",87,69
+"Winthrop","Coastal Car",79,67
+"Columbia","Harvard",90,76
+"Dartmouth","Cornell",78,66
+"Detroit","IL Chicago",83,72
+"Iona","Monmouth NJ",83,67
+"Oral Roberts","Denver",62,58
+"Penn","Brown",79,74
+"Princeton","Yale",75,63
+"Siena","Rider",84,64
+"VA Commonwealth","Richmond",87,74
+"Valparaiso","Oakland",86,84
+"Air Force","New Mexico",76,72
+"Alabama St","Southern Univ",77,68
+"Alcorn St","Alabama A&M",62,58
+"Appalachian St","Troy",78,74
+"Ark Little Rock","Ga Southern",75,61
+"Arkansas","Missouri",84,72
+"Army","Navy",80,78
+"Ball St","N Illinois",63,59
+"Baylor","Texas",78,64
+"Belmont","Tennessee Tech",95,86
+"Bethune-Cookman","Florida A&M",55,54
+"Binghamton","MA Lowell",81,77
+"Bradley","Drake",73,70
+"Buffalo","Bowling Green",88,74
+"BYU","San Diego",91,33
+"Campbell","Charleston So",74,72
+"Canisius","Marist",81,66
+"Cincinnati","Connecticut",65,60
+"Columbia","Dartmouth",73,54
+"CS Bakersfield","UTRGV",70,57
+"CS Northridge","Cal Poly SLO",75,71
+"CS Sacramento","Idaho",68,65
+"Davidson","St Joseph's PA",99,93
+"Delaware St","Norfolk St",67,64
+"Drexel","William & Mary",74,69
+"E Illinois","SE Missouri St",71,68
+"E Michigan","Toledo",91,85
+"ETSU","Mercer",77,74
+"Evansville","S Illinois",83,71
+"Fairfield","Niagara",71,59
+"FL Gulf Coast","Kennesaw",68,63
+"Fresno St","Utah St",75,68
+"Gardner Webb","Longwood",81,71
+"Georgia St","Arkansas St",69,61
+"Georgia Tech","Notre Dame",63,62
+"Grand Canyon","Chicago St",67,52
+"Harvard","Cornell",76,74
+"Hawaii","UC Irvine",75,71
+"High Point","Radford",75,72
+"Idaho St","Southern Utah",89,71
+"Indiana","Purdue",77,73
+"Iowa St","TCU",92,83
+"IPFW","NE Omaha",94,90
+"Jackson St","Grambling",61,58
+"James Madison","Delaware",75,50
+"Kansas","Kansas St",72,63
+"Kent","Akron",85,76
+"Lamar","McNeese St",87,76
+"Lipscomb","Stetson",77,74
+"Long Beach St","CS Fullerton",70,57
+"Long Island","St Francis PA",94,89
+"Louisville","Duke",71,64
+"Loy Marymount","San Francisco",100,87
+"Marquette","DePaul",73,60
+"Marshall","Old Dominion",82,65
+"Mississippi","Auburn",69,59
+"Mississippi St","Alabama",67,61
+"Montana","Montana St",87,78
+"Mt St Mary's","Bryant",71,53
+"Murray St","Austin Peay",76,60
+"N Dakota St","IUPUI",63,59
+"NC Central","Morgan St",73,59
+"NC State","Clemson",77,74
+"New Hampshire","Hartford",74,63
+"New Mexico St","Seattle",70,57
+"New Orleans","Northwestern LA",102,99
+"NJIT","Jacksonville",73,58
+"North Carolina","Miami FL",96,71
+"North Dakota","N Colorado",74,73
+"North Florida","SC Upstate",81,78
+"North Texas","FL Atlantic",70,62
+"Northern Iowa","Illinois St",75,66
+"Ohio","Miami OH",76,64
+"Ohio St","Nebraska",65,62
+"Oklahoma","West Virginia",76,62
+"Oregon","Oregon St",91,81
+"Penn St","Rutgers",70,58
+"Pepperdine","Santa Clara",88,76
+"Pittsburgh","Syracuse",66,52
+"Portland","Pacific",80,67
+"Portland St","E Washington",107,91
+"Prairie View","Ark Pine Bluff",57,55
+"Presbyterian","Liberty",79,73
+"Princeton","Brown",77,66
+"Rhode Island","Duquesne",77,74
+"Rice","Florida Intl",86,70
+"S Carolina St","MD E Shore",62,58
+"S Dakota St","W Illinois",87,67
+"Sacred Heart","F Dickinson",91,86
+"Sam Houston St","Cent Arkansas",105,75
+"Samford","VMI",73,67
+"Santa Barbara","UC Davis",62,55
+"Savannah St","Howard",66,56
+"SF Austin","Nicholls St",88,53
+"South Carolina","Florida",73,69
+"South Florida","Memphis",80,71
+"St Bonaventure","Dayton",79,72
+"St Francis NY","Robert Morris",82,72
+"St Louis","Fordham",76,68
+"St Mary's CA","Gonzaga",63,58
+"TAM C. Christi","Incarnate Word",90,69
+"Tennessee","LSU",81,65
+"Tennessee St","Jacksonville St",61,46
+"Texas A&M","Kentucky",79,77
+"Texas St","ULL",61,57
+"Texas Tech","Oklahoma St",71,61
+"TN Martin","Edwardsville",68,51
+"Towson","Elon",67,56
+"TX Southern","MS Valley St",98,67
+"UCLA","Colorado",77,53
+"ULM","UT Arlington",64,61
+"UNC Greensboro","Chattanooga",79,64
+"UNC Wilmington","Col Charleston",59,55
+"UNLV","Nevada",102,91
+"UT San Antonio","Southern Miss",74,53
+"Utah Valley","Missouri KC",79,70
+"UTEP","Louisiana Tech",91,80
+"Vanderbilt","Georgia",80,67
+"Vermont","UMBC",99,54
+"Villanova","Butler",77,67
+"Virginia Tech","Florida St",83,73
+"W Carolina","Citadel",102,97
+"WKU","Charlotte",59,54
+"W Michigan","C Michigan",92,85
+"Wagner","Central Conn",83,57
+"Washington","Stanford",64,53
+"Weber St","Northern Arizona",77,74
+"WI Green Bay","Youngstown St",107,90
+"WI Milwaukee","Cleveland St",88,54
+"Winthrop","UNC Asheville",81,80
+"Wofford","Furman",77,73
+"Wright St","N Kentucky",67,64
+"Wyoming","Colorado St",84,66
+"Xavier","Georgetown",88,70
+"Yale","Penn",79,58
+"Abilene Chr","SE Louisiana",91,80
+"American Univ","Holy Cross",71,70
+"Bucknell","Boston Univ",80,59
+"California","Washington St",80,62
+"Colgate","Loyola MD",93,90
+"Denver","South Dakota",76,71
+"G Washington","La Salle",90,50
+"Hofstra","Northeastern",65,60
+"Lehigh","Lafayette",73,61
+"Loyola-Chicago","Missouri St",75,62
+"Manhattan","Quinnipiac",63,59
+"Maryland","Michigan",86,82
+"Massachusetts","George Mason",70,64
+"Monmouth NJ","St Peter's",82,75
+"Oakland","IL Chicago",74,63
+"San Diego St","San Jose St",78,56
+"Seton Hall","St John's",62,61
+"SMU","East Carolina",74,63
+"Stony Brook","Maine",75,56
+"Temple","Houston",69,66
+"Tulsa","UCF",75,67
+"UAB","MTSU",77,67
+"Utah","USC",80,69
+"Valparaiso","Detroit",90,74
+"Wake Forest","Boston College",74,48
+"Wichita St","Indiana St",84,51
+"Wisconsin","Illinois",69,60
+"Alabama A&M","Southern Univ",78,66
+"Alabama St","Alcorn St",73,59
+"Bethune-Cookman","Stetson",96,94
+"Cent Arkansas","McNeese St",88,82
+"Florida A&M","MD E Shore",81,80
+"Hampton","Delaware St",82,72
+"Incarnate Word","Houston Bap",97,91
+"Iona","Siena",87,81
+"Miami FL","Virginia",64,61
+"Morgan St","NC A&T",72,51
+"Norfolk St","Coppin St",85,77
+"Northwestern LA","Nicholls St",81,67
+"Prairie View","MS Valley St",63,61
+"S Carolina St","Howard",71,63
+"SF Austin","Lamar",79,58
+"Texas","Kansas St",71,70
+"TX Southern","Ark Pine Bluff",54,52
+"West Virginia","Iowa St",97,87
+"WI Green Bay","Cleveland St",78,61
+"WI Milwaukee","Youngstown St",87,51
+"Arkansas","LSU",85,65
+"Boise St","UNLV",81,69
+"Bowling Green","Ohio",87,82
+"Buffalo","Kent",87,70
+"C Michigan","N Illinois",76,64
+"Colorado St","New Mexico",86,69
+"Davidson","Rhode Island",65,54
+"Dayton","St Louis",52,49
+"E Michigan","W Michigan",73,62
+"Evansville","Bradley",67,55
+"Ga Southern","Georgia St",54,52
+"Georgia Tech","Clemson",75,73
+"Kansas","Baylor",66,60
+"Kentucky","Alabama",78,53
+"Marist","Rider",71,58
+"Miami OH","Akron",77,64
+"Michigan St","Ohio St",81,62
+"Minnesota","Rutgers",83,61
+"Mississippi","Missouri",85,76
+"SE Louisiana","New Orleans",93,81
+"St Peter's","Manhattan",61,40
+"TAM C. Christi","Abilene Chr",65,59
+"Texas Tech","TCU",83,79
+"Toledo","Ball St",77,67
+"Tulsa","Temple",74,55
+"Vanderbilt","Florida",87,74
+"Virginia Tech","Boston College",71,56
+"Albany NY","MA Lowell",86,61
+"American Univ","Navy",72,65
+"Army","Boston Univ",80,71
+"Auburn","Georgia",84,81
+"Bucknell","Lafayette",86,83
+"Colorado","Arizona",75,72
+"East Carolina","Tulane",79,73
+"Fairfield","Siena",76,69
+"Fordham","La Salle",56,53
+"Fresno St","Air Force",64,63
+"G Washington","Richmond",73,61
+"George Mason","VA Commonwealth",76,69
+"Hartford","Maine",82,74
+"Houston","UCF",88,61
+"Howard","Florida A&M",63,53
+"Illinois St","S Illinois",73,50
+"Lehigh","Colgate",71,54
+"Louisville","Pittsburgh",67,60
+"Loyola MD","Holy Cross",78,63
+"Marquette","Creighton",66,61
+"Michigan","Northwestern",72,63
+"Missouri St","Drake",61,52
+"Morgan St","Norfolk St",89,72
+"Nevada","Utah St",73,68
+"North Carolina","NC State",80,68
+"Northern Iowa","Indiana St",66,44
+"Notre Dame","Wake Forest",69,58
+"Oklahoma","Oklahoma St",71,49
+"Oregon","Washington St",76,62
+"Oregon St","Washington",82,81
+"San Diego St","Wyoming",73,61
+"South Carolina","Tennessee",84,58
+"St Bonaventure","Duquesne",80,76
+"St Joseph's PA","Massachusetts",74,57
+"Texas A&M","Mississippi St",68,66
+"UC Irvine","Long Beach St",90,67
+"UMBC","Binghamton",80,79
+"Vermont","New Hampshire",73,67
+"Wichita St","Loyola-Chicago",76,54
+"Wisconsin","Iowa",67,59
+"Xavier","Villanova",90,83
+"Ark Little Rock","UT Arlington",72,60
+"Austin Peay","Edwardsville",80,75
+"BYU","Portland",99,81
+"California","UCLA",75,63
+"Canisius","Niagara",65,60
+"Charlotte","UT San Antonio",114,108
+"Cleveland St","N Kentucky",63,58
+"Coastal Car","Charleston So",68,60
+"Connecticut","South Florida",81,51
+"CS Fullerton","Cal Poly SLO",78,77
+"DePaul","St John's",83,75
+"Drexel","Delaware",74,64
+"Duke","Florida St",80,65
+"E Illinois","Murray St",85,74
+"E Kentucky","Jacksonville St",76,54
+"ETSU","Furman",80,75
+"F Dickinson","Mt St Mary's",67,54
+"Ga Southern","Appalachian St",88,63
+"Gonzaga","San Diego",82,60
+"High Point","Winthrop",87,85
+"Hofstra","UNC Wilmington",70,69
+"Indiana","Illinois",74,47
+"IPFW","W Illinois",87,75
+"Kennesaw","Lipscomb",73,57
+"Long Island","Central Conn",80,74
+"Louisiana Tech","North Texas",73,62
+"Montana","Idaho St",90,77
+"Morehead St","Tennessee Tech",69,59
+"N Colorado","CS Sacramento",72,67
+"NE Omaha","Oral Roberts",102,98
+"North Dakota","Portland St",80,77
+"North Florida","Jacksonville",81,80
+"Northeastern","Col Charleston",58,57
+"Old Dominion","UTEP",74,53
+"Pacific","San Francisco",79,70
+"Penn St","Nebraska",56,55
+"Presbyterian","Longwood",74,73
+"Radford","Campbell",60,56
+"Rice","Southern Miss",76,74
+"Robert Morris","Sacred Heart",73,63
+"S Dakota St","N Dakota St",71,59
+"Santa Barbara","CS Northridge",78,63
+"SC Upstate","NJIT",72,71
+"Seton Hall","Providence",70,52
+"SMU","Memphis",69,62
+"South Dakota","IUPUI",85,82
+"St Francis NY","Bryant",79,72
+"St Mary's CA","Santa Clara",75,50
+"Stanford","USC",84,64
+"Stetson","FL Gulf Coast",80,73
+"Texas St","Arkansas St",71,60
+"TN Martin","Tennessee St",72,56
+"Towson","James Madison",69,67
+"UAB","Marshall",95,91
+"UC Riverside","Hawaii",77,71
+"ULL","Troy",73,63
+"ULM","South Alabama",66,59
+"UNC Asheville","Liberty",73,56
+"UNC Greensboro","Citadel",92,63
+"Utah","Arizona St",81,46
+"VMI","Mercer",91,82
+"W Carolina","Wofford",53,48
+"WKU","MTSU",78,72
+"Wagner","St Francis PA",69,54
+"Weber St","Montana St",68,60
+"William & Mary","Elon",75,65
+"Wright St","Youngstown St",87,81
+"Brown","Dartmouth",84,83
+"Iona","Manhattan",86,73
+"Marist","Quinnipiac",91,77
+"Monmouth NJ","Rider",79,58
+"Oakland","Detroit",108,97
+"Penn","Cornell",79,67
+"Princeton","Columbia",88,83
+"Valparaiso","WI Milwaukee",80,76
+"WI Green Bay","IL Chicago",85,69
+"Yale","Harvard",59,50
+"Abilene Chr","New Orleans",87,84
+"Akron","Bowling Green",89,54
+"Alabama","Auburn",65,57
+"Alabama St","Prairie View",73,68
+"Albany NY","Hartford",75,59
+"Alcorn St","Southern Univ",70,56
+"American Univ","Loyola MD",67,66
+"Ark Little Rock","Texas St",73,68
+"Ark Pine Bluff","Grambling",53,51
+"Arkansas","Tennessee",75,65
+"Austin Peay","SE Missouri St",83,75
+"Ball St","E Michigan",115,79
+"Baylor","TCU",86,71
+"Bethune-Cookman","NC Central",69,61
+"Binghamton","Maine",78,66
+"Boise St","San Diego St",66,63
+"Boston Univ","Holy Cross",83,68
+"Bryant","Long Island",88,83
+"Bucknell","Navy",77,73
+"Butler","Georgetown",90,87
+"C Michigan","Toledo",76,74
+"Charlotte","UTEP",88,78
+"Chattanooga","Samford",77,66
+"Cincinnati","East Carolina",65,56
+"Coastal Car","UNC Asheville",81,79
+"Columbia","Penn",93,65
+"CS Bakersfield","Grand Canyon",77,62
+"Denver","N Dakota St",70,59
+"Drake","Loyola-Chicago",69,59
+"Elon","Delaware",77,59
+"ETSU","Wofford",71,66
+"F Dickinson","Central Conn",81,75
+"Florida Intl","FL Atlantic",71,63
+"Florida St","Notre Dame",77,56
+"Fordham","Davidson",91,82
+"Fresno St","New Mexico",92,82
+"Georgia","Mississippi",80,66
+"Georgia St","Appalachian St",83,70
+"Georgia Tech","Boston College",76,71
+"Gonzaga","BYU",71,68
+"Hampton","Howard",68,67
+"Harvard","Brown",61,52
+"Hawaii","CS Northridge",89,78
+"High Point","Presbyterian",80,60
+"Hofstra","Col Charleston",72,63
+"Idaho","E Washington",66,62
+"Idaho St","Montana St",76,69
+"Incarnate Word","Lamar",89,70
+"Indiana St","Bradley",77,58
+"Iowa St","Kansas St",80,61
+"IUPUI","IPFW",80,77
+"Jackson St","MS Valley St",60,49
+"James Madison","William & Mary",71,65
+"Kansas","Texas Tech",67,58
+"La Salle","George Mason",76,68
+"Lafayette","Colgate",79,77
+"Lehigh","Army",82,72
+"Liberty","Gardner Webb",86,81
+"Long Beach St","UC Riverside",66,55
+"Longwood","Radford",92,81
+"Louisiana Tech","Rice",88,69
+"Loy Marymount","Pepperdine",90,83
+"LSU","Florida",96,91
+"McNeese St","Nicholls St",71,69
+"MD E Shore","Delaware St",74,65
+"Miami FL","Louisville",73,65
+"Miami OH","Kent",74,65
+"Mississippi St","South Carolina",68,58
+"Morehead St","Jacksonville St",82,71
+"Morgan St","Coppin St",74,72
+"MTSU","Marshall",83,74
+"Murray St","TN Martin",79,55
+"N Illinois","W Michigan",76,67
+"NC A&T","Florida A&M",77,70
+"New Hampshire","UMBC",78,69
+"New Mexico St","Missouri KC",62,61
+"North Dakota","CS Sacramento",97,71
+"Northeastern","Drexel",61,59
+"Northern Iowa","Evansville",54,52
+"Northwestern","Rutgers",98,59
+"Ohio","Buffalo",103,96
+"Ohio St","Iowa",68,64
+"Old Dominion","UT San Antonio",78,56
+"Portland St","N Colorado",89,86
+"Princeton","Cornell",74,60
+"Providence","DePaul",87,66
+"Purdue","Maryland",83,79
+"Rhode Island","Dayton",75,66
+"Richmond","Duquesne",83,67
+"S Dakota St","Oral Roberts",73,65
+"S Illinois","Missouri St",78,68
+"Sacred Heart","St Francis PA",88,78
+"San Diego","Portland",85,76
+"Santa Barbara","CS Fullerton",80,62
+"Santa Clara","Pacific",69,65
+"Savannah St","S Carolina St",76,64
+"SE Louisiana","Cent Arkansas",75,56
+"Seattle","Utah Valley",72,69
+"SF Austin","Houston Bap",82,54
+"South Alabama","ULL",83,70
+"Southern Miss","North Texas",81,70
+"Southern Utah","Northern Arizona",69,59
+"St Bonaventure","Massachusetts",85,83
+"St Francis NY","Mt St Mary's",55,49
+"St Mary's CA","San Francisco",84,72
+"St Peter's","Fairfield",72,68
+"Stanford","UCLA",79,70
+"Syracuse","NC State",75,66
+"TAM C. Christi","Sam Houston St",75,70
+"Temple","UCF",63,61
+"Tennessee St","Belmont",87,72
+"Tennessee Tech","E Kentucky",92,82
+"Texas","Oklahoma",76,63
+"Texas A&M","Missouri",84,69
+"UTRGV","Chicago St",89,79
+"TX Southern","Alabama A&M",77,54
+"UAB","WKU",71,67
+"UC Irvine","UC Davis",62,61
+"ULM","Troy",66,51
+"UNC Wilmington","Towson",74,68
+"UNLV","Wyoming",79,74
+"UT Arlington","Arkansas St",79,75
+"Utah","Arizona",70,64
+"Utah St","San Jose St",88,70
+"VA Commonwealth","G Washington",69,65
+"Vanderbilt","Kentucky",74,62
+"Vermont","Stony Brook",76,62
+"Villanova","Marquette",89,79
+"Virginia","North Carolina",79,74
+"VMI","Citadel",111,95
+"W Carolina","Furman",73,62
+"W Illinois","South Dakota",90,76
+"Wagner","Robert Morris",62,54
+"Weber St","Montana",60,54
+"West Virginia","Oklahoma St",70,56
+"Wichita St","Illinois St",74,58
+"Winthrop","Campbell",87,71
+"Wright St","Cleveland St",55,51
+"Yale","Dartmouth",76,71
+"Youngstown St","N Kentucky",94,75
+"California","USC",87,65
+"Colorado","Arizona St",79,69
+"Creighton","St John's",100,59
+"Houston","Connecticut",75,68
+"Illinois","Minnesota",84,71
+"Iona","Canisius",86,78
+"Memphis","Tulsa",92,82
+"Michigan St","Penn St",88,57
+"Monmouth NJ","Niagara",77,68
+"Nevada","Colorado St",87,80
+"Oregon","Washington",86,73
+"Oregon St","Washington St",69,49
+"Pittsburgh","Duke",76,62
+"Rider","Manhattan",60,57
+"Seton Hall","Xavier",90,81
+"Siena","Quinnipiac",80,65
+"SMU","Tulane",74,53
+"St Joseph's PA","St Louis",77,63
+"UNC Greensboro","Mercer",69,65
+"Valparaiso","WI Green Bay",70,68
+"Virginia Tech","Wake Forest",81,74
+"WI Milwaukee","IL Chicago",98,85
+"Wisconsin","Michigan",68,57
+"Bethune-Cookman","NC A&T",62,52
+"Chattanooga","VMI",67,65
+"Hampton","Delaware St",79,65
+"Iowa St","Oklahoma St",58,50
+"Jackson St","Ark Pine Bluff",67,56
+"Kansas","Texas",86,56
+"McNeese St","Lamar",77,74
+"MS Valley St","Grambling",58,57
+"NC Central","Savannah St",61,44
+"Nicholls St","New Orleans",80,76
+"Norfolk St","Howard",84,66
+"North Carolina","Syracuse",75,70
+"Prairie View","Alabama A&M",85,65
+"Sam Houston St","Cent Arkansas",83,73
+"SE Louisiana","Northwestern LA",84,82
+"SF Austin","Incarnate Word",84,58
+"TX Southern","Alabama St",96,86
+"Akron","Ohio",91,76
+"Ark Little Rock","Arkansas St",89,80
+"C Michigan","Ball St",65,57
+"Dayton","Richmond",85,84
+"Duke","Wake Forest",79,71
+"E Michigan","N Illinois",75,71
+"FL Gulf Coast","Kennesaw",74,64
+"G Washington","George Mason",74,52
+"Holy Cross","Loyola MD",72,67
+"Indiana","Iowa",81,78
+"Kent","Bowling Green",70,54
+"Kentucky","Florida",88,79
+"Lipscomb","Jacksonville",92,89
+"Louisville","Georgia Tech",56,53
+"LSU","Missouri",80,71
+"Marquette","Georgetown",88,87
+"Miami OH","Buffalo",67,59
+"Navy","Lafayette",78,70
+"North Florida","SC Upstate",92,69
+"Oklahoma","Baylor",73,71
+"Purdue","Nebraska",81,62
+"San Diego St","New Mexico",83,56
+"St Mary's CA","Grand Canyon",73,64
+"Stetson","NJIT",82,67
+"Texas A&M","Auburn",81,63
+"UT Arlington","Texas St",75,69
+"Vanderbilt","Tennessee",86,69
+"Villanova","DePaul",83,62
+"Virginia","Clemson",64,57
+"W Michigan","Toledo",70,64
+"Arkansas","Alabama",62,61
+"Austin Peay","Tennessee Tech",92,72
+"Boise St","Nevada",76,57
+"Butler","Seton Hall",85,78
+"East Carolina","South Florida",52,39
+"F Dickinson","St Francis PA",74,72
+"Fordham","Duquesne",78,69
+"Fresno St","Colorado St",87,73
+"Hartford","Albany NY",68,59
+"Kansas St","TCU",79,54
+"La Salle","St Louis",76,68
+"Long Beach St","CS Fullerton",75,73
+"Long Island","Sacred Heart",84,76
+"Miami FL","Notre Dame",68,50
+"Michigan St","Rutgers",97,66
+"Mississippi","Mississippi St",86,78
+"Mt St Mary's","St Francis NY",60,51
+"Murray St","E Illinois",78,62
+"NC State","Boston College",73,72
+"New Hampshire","Binghamton",56,51
+"Oregon","UCLA",76,68
+"Providence","Creighton",70,66
+"St Bonaventure","St Joseph's PA",98,90
+"Stony Brook","UMBC",86,76
+"UCF","Tulane",73,65
+"USC","Oregon St",81,70
+"Utah St","Air Force",78,65
+"VA Commonwealth","Davidson",70,60
+"Vermont","Maine",99,82
+"Virginia Tech","Pittsburgh",65,61
+"Wagner","Robert Morris",59,50
+"Washington","Washington St",99,91
+"West Virginia","Texas Tech",90,68
+"Wisconsin","Minnesota",62,49
+"Wyoming","San Jose St",81,78
+"Alabama St","Jackson St",71,54
+"Alcorn St","Prairie View",81,64
+"American Univ","Boston Univ",69,64
+"Appalachian St","Ark Little Rock",69,63
+"Arizona","California",64,61
+"Arizona St","Stanford",74,64
+"Army","Colgate",79,72
+"Austin Peay","Tennessee St",74,72
+"Canisius","Niagara",102,97
+"Charlotte","Rice",88,75
+"Coppin St","Delaware St",72,62
+"CS Sacramento","Southern Utah",69,63
+"FL Gulf Coast","North Florida",89,56
+"Gardner Webb","Campbell",79,69
+"Georgia","South Carolina",74,72
+"Georgia St","ULL",72,69
+"Grambling","Alabama A&M",65,58
+"Hawaii","UC Davis",67,65
+"Holy Cross","Bucknell",77,72
+"Houston","Cincinnati",69,56
+"Idaho","Weber St",62,58
+"Idaho St","E Washington",75,71
+"Incarnate Word","Abilene Chr",74,70
+"Lehigh","Navy",65,63
+"Longwood","Charleston So",75,69
+"Louisiana Tech","Marshall",97,94
+"Loyola-Chicago","Bradley",74,66
+"Manhattan","Marist",81,63
+"Maryland","Illinois",81,55
+"MD E Shore","Morgan St",80,71
+"Missouri St","Drake",69,67
+"Montana","North Dakota",71,46
+"Montana St","N Colorado",81,63
+"Morehead St","Murray St",75,66
+"MTSU","FL Atlantic",76,59
+"NC A&T","NC Central",93,87
+"Nicholls St","Cent Arkansas",68,64
+"Norfolk St","Hampton",83,63
+"Northwestern","Penn St",71,61
+"Old Dominion","North Texas",76,70
+"Portland St","Northern Arizona",89,81
+"Presbyterian","Radford",65,64
+"Rhode Island","Massachusetts",68,50
+"Rider","Quinnipiac",60,57
+"S Carolina St","Bethune-Cookman",85,72
+"Sam Houston St","Lamar",94,76
+"Santa Barbara","UC Riverside",81,55
+"Savannah St","Florida A&M",52,40
+"SE Louisiana","New Orleans",61,60
+"SF Austin","Northwestern LA",95,55
+"SMU","Connecticut",80,54
+"Southern Univ","TX Southern",84,79
+"Stetson","Lipscomb",96,75
+"TAM C. Christi","Houston Bap",81,71
+"Temple","Memphis",72,62
+"Texas St","Troy",78,57
+"UAB","Florida Intl",77,60
+"UC Irvine","Cal Poly SLO",72,62
+"ULM","Ga Southern",83,76
+"UT Arlington","South Alabama",92,79
+"WKU","Southern Miss",75,60
+"Akron","Kent",74,60
+"Austin Peay","Belmont",97,96
+"Buffalo","Bowling Green",87,83
+"Col Charleston","Delaware",67,63
+"Columbia","Brown",66,63
+"Dartmouth","Penn",72,64
+"Drexel","Elon",57,56
+"E Michigan","Toledo",79,75
+"Evansville","Missouri St",66,56
+"Gardner Webb","Coastal Car",69,65
+"Harvard","Princeton",73,71
+"High Point","Longwood",89,78
+"Indiana St","Illinois St",65,57
+"Iona","Canisius",73,55
+"Loy Marymount","San Diego",64,61
+"Mercer","Citadel",71,69
+"Monmouth NJ","Rider",59,48
+"N Illinois","Ball St",80,69
+"Northern Iowa","S Illinois",66,60
+"Ohio","Miami OH",67,65
+"Samford","VMI",92,85
+"Texas","Oklahoma St",62,50
+"TN Martin","Morehead St",83,70
+"UNC Asheville","Liberty",80,49
+"W Michigan","C Michigan",91,82
+"Wichita St","Loyola-Chicago",66,58
+"Winthrop","Presbyterian",67,53
+"Yale","Cornell",88,64
+"Alabama A&M","Jackson St",54,51
+"Alabama St","Grambling",59,58
+"Appalachian St","Arkansas St",80,73
+"Arizona","Stanford",94,62
+"Ark Pine Bluff","MS Valley St",78,71
+"Austin Peay","TN Martin",83,73
+"Butler","Marquette",95,74
+"BYU","Santa Clara",72,60
+"California","Arizona St",68,65
+"Chattanooga","Samford",59,54
+"Clemson","Boston College",66,50
+"Colorado St","Air Force",87,73
+"Cornell","Brown",75,71
+"CS Bakersfield","Seattle",93,71
+"CS Sacramento","Northern Arizona",64,51
+"Davidson","G Washington",87,80
+"Dayton","VA Commonwealth",68,67
+"Detroit","Youngstown St",92,79
+"Duquesne","St Joseph's PA",78,70
+"ETSU","Mercer",81,65
+"Evansville","Indiana St",68,42
+"F Dickinson","Mt St Mary's",80,75
+"Fairfield","St Peter's",64,55
+"Florida","Missouri",82,72
+"Florida St","Syracuse",78,73
+"Fordham","Rhode Island",64,61
+"Fresno St","Utah St",86,85
+"Furman","UNC Greensboro",80,64
+"George Mason","Richmond",83,73
+"Georgia","Alabama",70,63
+"Georgia Tech","Pittsburgh",63,59
+"Gonzaga","Portland",92,67
+"Grand Canyon","Utah Valley",86,79
+"Harvard","Penn",74,56
+"Hofstra","Drexel",80,67
+"Idaho","Idaho St",80,70
+"Incarnate Word","Houston Bap",97,86
+"Indiana","Maryland",80,62
+"Iowa","Michigan",71,61
+"IPFW","South Dakota",86,70
+"Kansas","Iowa St",85,78
+"Kentucky","LSU",94,77
+"Long Beach St","Hawaii",74,72
+"Marshall","Southern Miss",108,106
+"Massachusetts","La Salle",69,52
+"McNeese St","Cent Arkansas",85,77
+"Michigan St","Ohio St",91,76
+"Mississippi","Tennessee",83,60
+"Mississippi St","Auburn",79,66
+"Missouri KC","Chicago St",82,53
+"Montana St","North Dakota",89,82
+"MTSU","Florida Intl",61,58
+"N Colorado","Montana",78,72
+"New Mexico","Nevada",71,66
+"New Mexico St","UTRGV",83,44
+"New Orleans","Northwestern LA",97,86
+"Nicholls St","SE Louisiana",64,45
+"North Carolina","Duke",76,72
+"North Texas","Charlotte",80,77
+"Northeastern","Towson",71,60
+"Northern Iowa","Wichita St",57,52
+"Notre Dame","NC State",89,75
+"Oklahoma","TCU",75,67
+"Old Dominion","Rice",74,67
+"Oregon","USC",76,66
+"Oregon St","UCLA",86,82
+"Pepperdine","San Francisco",90,86
+"Portland St","Southern Utah",88,86
+"Prairie View","Southern Univ",79,71
+"Princeton","Dartmouth",84,65
+"Providence","St John's",90,76
+"Rutgers","Minnesota",75,52
+"S Dakota St","Oral Roberts",73,70
+"San Diego St","UNLV",92,56
+"San Jose St","Boise St",68,63
+"Santa Barbara","Cal Poly SLO",69,50
+"Seton Hall","DePaul",80,66
+"SF Austin","Sam Houston St",85,64
+"Siena","Manhattan",89,76
+"South Carolina","Arkansas",76,61
+"St Bonaventure","St Louis",76,67
+"St Mary's CA","Loy Marymount",60,48
+"TAM C. Christi","Abilene Chr",74,69
+"Texas A&M","Vanderbilt",76,67
+"Texas St","South Alabama",68,57
+"Texas Tech","Kansas St",80,71
+"Tulsa","South Florida",84,74
+"TX Southern","Alcorn St",76,66
+"UAB","FL Atlantic",73,70
+"UC Davis","CS Northridge",87,83
+"UC Irvine","UC Riverside",76,66
+"ULL","Ga Southern",87,78
+"ULM","Georgia St",91,78
+"UNC Asheville","High Point",80,69
+"UNC Wilmington","Col Charleston",66,64
+"UT Arlington","Troy",90,55
+"Utah","Colorado",57,55
+"UTEP","UT San Antonio",81,74
+"Villanova","Georgetown",84,71
+"Virginia","Louisville",68,46
+"Virginia Tech","Miami FL",77,62
+"W Carolina","Wofford",88,83
+"WKU","Louisiana Tech",96,90
+"Wagner","Long Island",81,65
+"Weber St","E Washington",79,77
+"West Virginia","Baylor",69,58
+"WI Green Bay","Cleveland St",65,53
+"WI Milwaukee","N Kentucky",86,69
+"William & Mary","James Madison",79,64
+"Winthrop","Gardner Webb",82,69
+"Wright St","IL Chicago",74,43
+"Xavier","Creighton",98,93
+"Yale","Columbia",71,55
+"Chattanooga","W Carolina",73,69
+"Cincinnati","SMU",61,54
+"Connecticut","UCF",67,46
+"Denver","NE Omaha",78,70
+"ETSU","Furman",84,76
+"FL Gulf Coast","Stetson",80,78
+"Hofstra","William & Mary",70,67
+"Holy Cross","Army",60,38
+"Iona","Siena",81,70
+"Lehigh","American Univ",78,62
+"Memphis","East Carolina",83,53
+"Monmouth NJ","Fairfield",76,63
+"N Dakota St","IUPUI",60,45
+"Northern Iowa","Evansville",56,54
+"Northwestern","Nebraska",65,54
+"Penn St","Illinois",86,79
+"Purdue","Wisconsin",91,80
+"Temple","Tulane",64,56
+"UNC Asheville","Winthrop",77,68
+"UNC Wilmington","Northeastern",73,70
+"WI Green Bay","WI Milwaukee",70,61
+"Wright St","Detroit",82,72
+"Bowling Green","Kent",70,69
+"Chattanooga","ETSU",73,67
+"Coppin St","NC A&T",98,91
+"E Michigan","Toledo",69,60
+"Gonzaga","BYU",88,84
+"Iona","Monmouth NJ",79,76
+"Miami OH","Ball St",49,47
+"N Dakota St","IPFW",69,68
+"N Illinois","W Michigan",56,50
+"S Dakota St","Denver",54,53
+"Savannah St","Delaware St",63,58
+"St Mary's CA","Pepperdine",81,66
+"Stony Brook","Hartford",80,64
+"UNC Wilmington","Hofstra",80,73
+"Vermont","New Hampshire",63,56
+"WI Green Bay","Valparaiso",99,92
+"Wright St","Oakland",59,55
+"Alabama A&M","Ark Pine Bluff",61,53
+"CS Sacramento","Montana St",79,75
+"E Washington","Northern Arizona",74,52
+"F Dickinson","Wagner",87,79
+"FL Atlantic","UT San Antonio",82,58
+"Florida St","Boston College",88,66
+"Gonzaga","St Mary's CA",85,75
+"Morgan St","MD E Shore",65,58
+"MS Valley St","Grambling",87,73
+"NC Central","Howard",68,66
+"NC State","Wake Forest",75,72
+"North Dakota","Southern Utah",85,80
+"Portland St","N Colorado",74,67
+"Princeton","Penn",72,71
+"S Dakota St","N Dakota St",67,59
+"WI Green Bay","Wright St",78,69
+"Charlotte","Rice",79,69
+"Colorado","Washington St",80,56
+"Colorado St","San Jose St",80,61
+"Duke","NC State",92,89
+"Georgetown","DePaul",70,53
+"Georgia Tech","Clemson",88,85
+"Hampton","Morgan St",83,81
+"Holy Cross","Lehigh",59,56
+"Illinois","Minnesota",85,52
+"Kansas St","Oklahoma St",75,71
+"La Salle","Duquesne",88,73
+"Marquette","St John's",101,93
+"MS Valley St","Alcorn St",64,61
+"Nebraska","Rutgers",89,72
+"Nicholls St","McNeese St",94,90
+"Norfolk St","NC Central",66,47
+"Old Dominion","FL Atlantic",72,46
+"Oregon St","Arizona St",75,66
+"Pittsburgh","Syracuse",72,71
+"SE Louisiana","New Orleans",84,74
+"St Louis","George Mason",83,78
+"TCU","Texas Tech",67,62
+"Tennessee","Auburn",97,59
+"TX Southern","Alabama A&M",77,69
+"UNLV","Air Force",108,102
+"USC","UCLA",95,71
+"Utah St","Wyoming",88,70
+"UTEP","Florida Intl",85,77
+"Virginia Tech","Florida St",96,85
+"WKU","North Texas",84,76
+"Washington","Stanford",91,68
+"Akron","E Michigan",65,63
+"Alabama","Mississippi",81,73
+"Arizona","Colorado",82,78
+"Baylor","Texas",75,61
+"Bowling Green","C Michigan",62,59
+"Buffalo","Miami OH",94,81
+"California","Oregon St",76,68
+"Colorado St","Boise St",88,81
+"CS Bakersfield","Chicago St",79,57
+"Davidson","La Salle",78,63
+"Florida","Arkansas",68,61
+"Fresno St","UNLV",95,82
+"G Washington","St Louis",73,65
+"Georgia","Mississippi St",79,69
+"Hawaii","CS Fullerton",75,44
+"Houston Bap","SE Louisiana",73,68
+"Idaho","E Washington",77,73
+"Illinois","Iowa",68,66
+"Jackson St","Prairie View",69,51
+"Kansas","Kansas St",85,63
+"Long Beach St","UC Riverside",82,74
+"Marshall","UTEP",87,85
+"Massachusetts","Rhode Island",67,62
+"Miami FL","Virginia Tech",88,82
+"Michigan","Northwestern",72,70
+"Missouri KC","Utah Valley",80,78
+"Montana","CS Sacramento",70,53
+"MTSU","Charlotte",79,61
+"Nebraska","Wisconsin",70,58
+"Nevada","New Mexico",64,62
+"North Carolina","Pittsburgh",88,71
+"North Dakota","Idaho St",83,49
+"Notre Dame","Duke",84,79
+"Ohio","N Illinois",79,62
+"Ohio St","Penn St",79,75
+"Oklahoma","Iowa St",79,76
+"Old Dominion","Louisiana Tech",68,52
+"Oregon","Washington",83,77
+"Providence","Butler",74,60
+"Richmond","Fordham",70,55
+"S Carolina St","Coppin St",90,80
+"Sam Houston St","Nicholls St",60,59
+"San Diego St","Utah St",71,65
+"Santa Barbara","UC Davis",87,61
+"Savannah St","Bethune-Cookman",57,50
+"Seattle","UTRGV",75,52
+"Seton Hall","Creighton",81,73
+"South Alabama","Ga Southern",67,61
+"South Florida","East Carolina",71,66
+"Southern Univ","Alabama St",83,63
+"Tennessee","Vanderbilt",67,65
+"Texas St","Georgia St",63,61
+"Tulane","UCF",65,63
+"UC Irvine","Cal Poly SLO",84,64
+"Utah","USC",80,72
+"Villanova","Georgetown",81,67
+"Virginia","Georgia Tech",72,52
+"WKU","UAB",88,77
+"Weber St","Portland St",78,74
+"West Virginia","TCU",86,66
+"Xavier","Marquette",90,72
+"Akron","Bowling Green",80,66
+"Buffalo","Ohio",88,74
+"Connecticut","Cincinnati",104,97
+"CS Bakersfield","Seattle",72,47
+"Davidson","St Bonaventure",90,86
+"Dayton","Richmond",69,54
+"Fresno St","Colorado St",64,56
+"Georgia","South Carolina",65,64
+"Hampton","Savannah St",89,55
+"Hawaii","Santa Barbara",88,76
+"Jackson St","MS Valley St",74,68
+"Kansas","Baylor",70,66
+"Kentucky","Alabama",85,59
+"Long Beach St","UC Irvine",77,72
+"LSU","Tennessee",84,75
+"Maryland","Nebraska",97,86
+"Memphis","Tulsa",89,67
+"Michigan","Indiana",72,69
+"Michigan St","Ohio St",81,54
+"Montana","Idaho",81,72
+"MTSU","Marshall",99,90
+"New Mexico St","Missouri KC",78,64
+"North Carolina","Notre Dame",78,47
+"Old Dominion","WKU",89,77
+"Oregon","Arizona",95,89
+"Purdue","Illinois",89,58
+"S Carolina St","Norfolk St",67,65
+"San Diego St","Nevada",67,55
+"Seton Hall","Xavier",87,83
+"SF Austin","Houston Bap",104,68
+"Southern Univ","TX Southern",81,73
+"St Joseph's PA","G Washington",86,80
+"TAM C. Christi","Sam Houston St",79,76
+"Temple","South Florida",79,62
+"Texas A&M","Florida",72,66
+"Tulane","Houston",72,69
+"ULL","South Alabama",90,68
+"UT Arlington","Texas St",72,63
+"Utah","California",82,78
+"VA Commonwealth","Massachusetts",85,70
+"Villanova","Providence",76,68
+"Virginia","Miami FL",73,68
+"Weber St","North Dakota",83,78
+"West Virginia","Oklahoma",69,67
+"Ark Little Rock","ULL",72,65
+"Buffalo","Akron",64,61
+"Connecticut","Temple",77,62
+"CS Bakersfield","New Mexico St",57,54
+"Fresno St","San Diego St",68,63
+"Hampton","S Carolina St",81,69
+"Hawaii","Long Beach St",64,60
+"Kansas","West Virginia",81,71
+"Kentucky","Georgia",93,80
+"Memphis","Tulane",74,54
+"Michigan St","Maryland",64,61
+"MTSU","Old Dominion",55,53
+"North Carolina","Virginia",61,57
+"Oregon","Utah",88,57
+"Purdue","Michigan",76,59
+"Seton Hall","Villanova",69,67
+"SF Austin","TAM C. Christi",82,60
+"Southern Univ","Jackson St",54,53
+"St Joseph's PA","Dayton",82,79
+"Stony Brook","Vermont",80,74
+"Texas A&M","LSU",71,38
+"ULM","UT Arlington",82,71
+"VA Commonwealth","Davidson",76,54
+"Weber St","Montana",62,59
+"Ark Little Rock","ULM",70,50
+"Connecticut","Memphis",72,58
+"Kentucky","Texas A&M",82,77
+"Michigan St","Purdue",66,62
+"St Joseph's PA","VA Commonwealth",87,74
