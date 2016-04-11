@@ -69,13 +69,21 @@ used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</
 
 <script>
 
+// quantitative color scale
+var blue_to_brown = d3.scale.linear()
+  .domain([1, 351])
+  .range(["steelblue", "brown"])
+  .interpolate(d3.interpolateLab);
 
+var color = function(d) { return blue_to_brown(d['Rankings_RPI']); };
 
 var pc0;
 
 d3.csv('data/avg2016stats.csv', function(data) {
 
 pc0 = d3.parcoords()("#example0")
+  .color(color)
+  .alpha(0.4)
   .data(data)
 	.bundlingStrength(0) // set bundling strength
 	.smoothness(0)
@@ -88,6 +96,8 @@ pc0 = d3.parcoords()("#example0")
 	.interactive();
 
 pc1 = d3.parcoords()("#example1")
+  .color(color)
+  .alpha(0.4)
   .data(data)
 	.bundlingStrength(0) // set bundling strength
 	.smoothness(0)
@@ -232,12 +242,12 @@ d3.csv('data/rsr2016.csv', function(data) {
 	d3.select("#t2wins").text(WinLose[1].length);
   
   d3.select("#table1")
-      .datum(WinLose[0].slice(0,5))
+      .datum(WinLose[0].slice(0,50))
       .call(table)
       .selectAll(".row");
 
   d3.select("#table2")
-      .datum(WinLose[1].slice(0,5))
+      .datum(WinLose[1].slice(0,50))
       .call(table)
       .selectAll(".row");    
 });

@@ -26,6 +26,7 @@ ul {
 }
 p {
   width: 560px;
+  margin: 12px 0;
 }
 pre {
   color: #444;
