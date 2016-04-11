@@ -34,16 +34,13 @@
 
 
 
-<h3>Bundling</h3>
-Bundling violates the point-line duality but can be used to visualize clusters using geometry only, leaving the color channel free
-for other uses (e.g. statistical coloring, see below). Bundling can be achieved using different algorithms. Details on the algorithm
-used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</a>
-<p>Trying to learn how to output some value from the dataset <strong id="dataPoint">0.0</strong>
+<h3>NCAA</h3>
 
-<p>Use this slider to change the curve smoothness. The current value is <strong id="smooth">0.0</strong><br/>
-<input type="range" min="0" max="0.25" value="0.0" step="0.01" id="smoothness"/>
-<p>Use this slider to change the bundling strength. The current value is <strong id="strength">0</strong><br/>
-<input type="range" min="0" max="1" value="0" step="0.05" id="bundling"/>
+
+<p>Use this slider to change the curve smoothness. The current value is <strong id="smooth">0.12</strong><br/>
+<input type="range" min="0" max="0.25" value="0.12" step="0.01" id="smoothness"/>
+<p>Use this slider to change the bundling strength. The current value is <strong id="strength">0.3</strong><br/>
+<input type="range" min="0" max="1" value="0.3" step="0.05" id="bundling"/>
 <div id="bundleDimension">Bundle using clusters determined by: </div>
 <div id="example0" class="parcoords" style="width:1140px;height:200px"></div>
 <div id="example1" class="parcoords" style="width:1140px;height:200px"></div>
@@ -75,7 +72,7 @@ var blue_to_brown = d3.scale.linear()
   .range(["steelblue", "brown"])
   .interpolate(d3.interpolateLab);
 
-var color = function(d) { return blue_to_brown(d['Rankings_RPI']); };
+var color = function(d) { return blue_to_brown(d['Ranking']); };
 
 var pc0;
 
@@ -83,10 +80,10 @@ d3.csv('data/avg2016stats.csv', function(data) {
 
 pc0 = d3.parcoords()("#example0")
   .color(color)
-  .alpha(0.4)
+  .alpha(0.35)
   .data(data)
-	.bundlingStrength(0) // set bundling strength
-	.smoothness(0)
+	.bundlingStrength(0.3) // set bundling strength
+	.smoothness(0.12)
 	.bundleDimension("or")
 	.showControlPoints(false)
 	.hideAxis(["Team_Name"])
@@ -97,10 +94,10 @@ pc0 = d3.parcoords()("#example0")
 
 pc1 = d3.parcoords()("#example1")
   .color(color)
-  .alpha(0.4)
+  .alpha(0.35)
   .data(data)
-	.bundlingStrength(0) // set bundling strength
-	.smoothness(0)
+	.bundlingStrength(0.3) // set bundling strength
+	.smoothness(0.12)
 	.bundleDimension("or")
 	.showControlPoints(false)
 	.hideAxis(["Team_Name"])
@@ -196,8 +193,8 @@ pc1.on("brush", function(d1) {
 
      	for (var n=0; n<l; n++) {
      		var row = mainData[n],
-     		    W = mainData[n].Wining_Team,
-     		    L = mainData[n].Losing_Team;
+     		    W = mainData[n].Winer,
+     		    L = mainData[n].Loser;
      		if (include(teams1,W) &&
      			include(teams2,L)) {
                   t1winCount.push(row);
@@ -281,14 +278,14 @@ d3.csv('data/rsr2016.csv', function(data) {
 	options0
 		.enter()
 		.append("option")
-		.attr("value", function(d0) {return d0;})
-		.text(function(d0) {return d0;});
+		.attr("value", function(d) {return d;})
+		.text(function(d) {return d;});
 
 	options1
 		.enter()
 		.append("option")
-		.attr("value", function(d1) {return d1;})
-		.text(function(d1) {return d1;});
+		.attr("value", function(d) {return d;})
+		.text(function(d) {return d;});
 	
 	//  d3.select("#grid1").style("visibility", "hidden");
     d3.select("#grid01").style("visibility", "hidden");
