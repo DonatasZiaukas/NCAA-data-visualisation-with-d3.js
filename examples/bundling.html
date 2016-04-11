@@ -26,8 +26,9 @@
 .row, .header { clear: left; font-size: 12px; line-height: 18px; height: 18px; }
 .row:nth-child(odd) { background: rgba(0,0,0,0.05); }
 .header { font-weight: bold; }
-.cell { float: left; overflow: hidden; white-space: nowrap; width: 100px; height: 18px; }
-.col-0 { width: 180px; }
+.cell { float: left; overflow: hidden; white-space: nowrap; width: 70px; height: 18px; }
+.col-0 { width: 120px; }
+.col-1 { width: 120px; }
 </style>
 
 
@@ -47,13 +48,20 @@ used here can be found in <a href="http://arxiv.org/abs/1109.6073">this paper.</
 <div id="example0" class="parcoords" style="width:1140px;height:200px"></div>
 <div id="example1" class="parcoords" style="width:1140px;height:200px"></div>
 
-<p>
-	<label>Win/Lose ratio between table1 and teble2:</label>
-	<button id="compare">Compare</button>
+
+
+<div id="grid0"></div>
+<div id="grid1"></div>
+
+<p>Count wins of chart1 vs. chart2: 
+  <button id="compare">Compare</button>
+  <strong id="t1wins">0.0</strong>  vs.  <strong id="t2wins">0.0</strong>
 </p>
 
-<div id="grid0" style="width:1140px;height:250px"></div>
-<div id="grid1" style="width:1140px;height:250px"></div>
+<div style="width: 100%; overflow: hidden">
+<div id="table1" style="width:40%; float: left;"></div>
+<div id="table2" style="float:left; width:40%;"></div>
+</div>
 
 <div id="grid01"></div>
 <div id="grid11"></div>
@@ -73,7 +81,7 @@ pc0 = d3.parcoords()("#example0")
 	.smoothness(0)
 	.bundleDimension("or")
 	.showControlPoints(false)
-	.hideAxis(["team"])
+	.hideAxis(["Team_Name"])
 	.render()
 	.brushMode("1D-axes")
 	.reorderable()
@@ -85,7 +93,7 @@ pc1 = d3.parcoords()("#example1")
 	.smoothness(0)
 	.bundleDimension("or")
 	.showControlPoints(false)
-	.hideAxis(["team"])
+	.hideAxis(["Team_Name"])
 	.render()
 	.brushMode("1D-axes")
 	.reorderable()
@@ -178,8 +186,8 @@ pc1.on("brush", function(d1) {
 
      	for (var n=0; n<l; n++) {
      		var row = mainData[n],
-     		    W = mainData[n].Wteam,
-     		    L = mainData[n].Lteam;
+     		    W = mainData[n].Wining_Team,
+     		    L = mainData[n].Losing_Team;
      		if (include(teams1,W) &&
      			include(teams2,L)) {
                   t1winCount.push(row);
@@ -200,10 +208,10 @@ pc1.on("brush", function(d1) {
 }
 
 
-d3.csv('data/rsdr2016.csv', function(data) {
+d3.csv('data/rsr2016.csv', function(data) {
+  var table = d3.divgrid();
 
-
-	d3.select("#compare").on("click", function(d) {
+	d3.select("#compare").on("click", function() {
 
      var chart1 = [];
      var chart2 = [];
@@ -211,16 +219,28 @@ d3.csv('data/rsdr2016.csv', function(data) {
      var data2 = document.querySelector('#grid11').__data__;
 
      for (i=0; i<data1.length; i++) {
-     	chart1.push(data1[i].team)
+     	chart1.push(data1[i].Team_Name)
      }
 
      for (i=0; i<data2.length; i++) {
-     	chart2.push(data2[i].team)
+     	chart2.push(data2[i].Team_Name)
      }
 		
 	var WinLose = filtered_dataset(chart1, chart2, data);
-	
-	console.log(WinLose);})
+
+	d3.select("#t1wins").text(WinLose[0].length);
+	d3.select("#t2wins").text(WinLose[1].length);
+  
+  d3.select("#table1")
+      .datum(WinLose[0].slice(0,5))
+      .call(table)
+      .selectAll(".row");
+
+  d3.select("#table2")
+      .datum(WinLose[1].slice(0,5))
+      .call(table)
+      .selectAll(".row");    
+});
 });
      //*****************************************
  
@@ -260,7 +280,7 @@ d3.csv('data/rsdr2016.csv', function(data) {
 		.attr("value", function(d1) {return d1;})
 		.text(function(d1) {return d1;});
 	
-	d3.select("#grid0").style("visibility", "hidden");
+	//  d3.select("#grid1").style("visibility", "hidden");
     d3.select("#grid01").style("visibility", "hidden");
     d3.select("#grid11").style("visibility", "hidden");
 
