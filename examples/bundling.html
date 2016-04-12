@@ -25,10 +25,16 @@
 #grid { height: 198px; }
 .row, .header { clear: left; font-size: 12px; line-height: 18px; height: 18px; }
 .row:nth-child(odd) { background: rgba(0,0,0,0.05); }
+.row:nth-last-child(1) {padding-bottom: .9em; }
 .header { font-weight: bold; }
-.cell { float: left; overflow: hidden; white-space: nowrap; width: 70px; height: 18px; }
+.cell { float: left; overflow: hidden; white-space: nowrap; width: 50px; height: 18px; }
 .col-0 { width: 120px; }
-.col-1 { width: 120px; }
+.col-1 { width: 100px; }
+
+.tbl .row { background: rgba(0,0,0,0.0);, clear: center; font-size: 14px; line-height: 20px; }
+.tbl .header { clear: center; font-size: 14px; line-height: 20px; }
+.tbl .col-2 { width: 120px;}
+
 </style>
 
 
@@ -42,7 +48,10 @@
 <p>Use this slider to change the bundling strength. The current value is <strong id="strength">0.3</strong><br/>
 <input type="range" min="0" max="1" value="0.3" step="0.05" id="bundling"/>
 <div id="bundleDimension">Bundle using clusters determined by: </div>
+
+<h3>Chart 1</h3>
 <div id="example0" class="parcoords" style="width:1140px;height:200px"></div>
+<h3>Chart 2</h3>
 <div id="example1" class="parcoords" style="width:1140px;height:200px"></div>
 
 
@@ -50,10 +59,12 @@
 <div id="grid0"></div>
 <div id="grid1"></div>
 
-<p>Count wins of chart1 vs. chart2: 
-  <button id="compare">Compare</button>
-  <strong id="t1wins">0.0</strong>  vs.  <strong id="t2wins">0.0</strong>
+
+<p>Chart 1 vs. Chart 2<br/>
+  <button id="compare">Summarize</button>
 </p>
+
+<div id="miniTable" class="tbl"></div>
 
 <div style="width: 100%; overflow: hidden">
 <div id="table1" style="width:40%; float: left;"></div>
@@ -136,56 +147,45 @@ d3.select("#grid11")
       .selectAll(".row");
       // update data table on brush event
     
-pc0.on("brush", function(d0) {
+pc0.on("brush", function(d) {
        d3.select("#grid0")
-      .datum(d0.slice(0,5))
+      .datum(d.slice(0,5))
       .call(grid)
       .selectAll(".row")
       .on({
-        "mouseover": function(d0) { pc0.highlight([d0]) },
+        "mouseover": function(d) { pc0.highlight([d]) },
         "mouseout": pc0.unhighlight 
       });
+      
+      
 
       d3.select("#grid01")
-      .datum(d0)
-      .call(grid)
-      .selectAll(".row");
+      .datum(d)
+      .call(grid);
+      //.selectAll(".row");
 });
 
 
     
-pc1.on("brush", function(d1) {
+pc1.on("brush", function(d) {
        d3.select("#grid1")
-      .datum(d1.slice(0,5))
+      .datum(d.slice(0,5))
       .call(grid)
       .selectAll(".row")
       .on({
-        "mouseover": function(d1) { pc1.highlight([d1]) },
+        "mouseover": function(d) { pc1.highlight([d]) },
         "mouseout": pc1.unhighlight
       });
 
+      
+
       d3.select("#grid11")
-      .datum(d1)
-      .call(grid)
-      .selectAll(".row");
+      .datum(d)
+      .call(grid);
+      //.selectAll(".row");
 
 });
-     // ********code to output chart1 vs chart2 *********
-/*     
-     var data1 = document.querySelector('#grid01').__data__;
-     var data2 = document.querySelector('#grid11').__data__;
-     console.log(data1);
-     var chart1 = [];
-     var chart2 = [];
 
-     for (i=0; i<data1.length; i++) {
-     	chart1.push(data1[i].team)
-     }
-
-     for (i=0; i<data2.length; i++) {
-     	chart2.push(data2[i].team)
-     }
-*/
      function filtered_dataset(teams1, teams2, mainData) {
      	var l  = mainData.length,
      	    t1winCount = [],
@@ -217,14 +217,26 @@ pc1.on("brush", function(d1) {
 
 d3.csv('data/rsr2016.csv', function(data) {
   var table = d3.divgrid();
+  var mintbl = d3.divgrid();
 
 	d3.select("#compare").on("click", function() {
+     
 
+     //use hidden tables to filter rsr2016.csv 
      var chart1 = [];
      var chart2 = [];
      var data1 = document.querySelector('#grid01').__data__;
      var data2 = document.querySelector('#grid11').__data__;
-
+     
+     //rank median  
+     var rank1Med = d3.median(data1, function(d) {
+      return d.Ranking;
+     });
+     
+     var rank2Med = d3.median(data2, function(d) {
+      return d.Ranking;
+     });
+     //extract names of selected teams
      for (i=0; i<data1.length; i++) {
      	chart1.push(data1[i].Team_Name)
      }
@@ -233,20 +245,37 @@ d3.csv('data/rsr2016.csv', function(data) {
      	chart2.push(data2[i].Team_Name)
      }
 		
-	var WinLose = filtered_dataset(chart1, chart2, data);
+	var subData = filtered_dataset(chart1, chart2, data);
+/*
+	d3.select("#t1wins").text(subData[0].length);
+	d3.select("#t2wins").text(subData[1].length);
 
-	d3.select("#t1wins").text(WinLose[0].length);
-	d3.select("#t2wins").text(WinLose[1].length);
-  
+  d3.select("#t1rankMedian").text(rank1Med); 
+  d3.select("#t2rankMedian").text(rank2Med);
+
+  d3.select("#t1count").text(data1.length);
+  d3.select("#t2count").text(data2.length);
+*/  
+  //experiment
+  var my_mini_table = [{"chart": "chart1","Team count": data1.length,
+                        "Median Ranking" : rank1Med,"Wins": subData[0].length},
+                       {"chart": "chart2", "Team count": data2.length,
+                        "Median Ranking": rank2Med, "Wins": subData[1].length}];
+
+  d3.select("#miniTable")
+      .datum(my_mini_table)
+      .call(mintbl);
+      //.selectAll(".mini_row");
+
   d3.select("#table1")
-      .datum(WinLose[0].slice(0,50))
-      .call(table)
-      .selectAll(".row");
+      .datum(subData[0].slice(0,50))
+      .call(table);
+     // .selectAll(".row");
 
   d3.select("#table2")
-      .datum(WinLose[1].slice(0,50))
-      .call(table)
-      .selectAll(".row");    
+      .datum(subData[1].slice(0,50))
+      .call(table);
+     //.selectAll(".row");    
 });
 });
      //*****************************************
