@@ -7,17 +7,12 @@
 <link rel="stylesheet" type="text/css" href="../d3.parcoords.css">
 <link rel="stylesheet" type="text/css" href="../d3.slider.css">
 <link rel="stylesheet" type="text/css" href="style.css">
+
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="lib/sylvester.js"></script>
-<script src="lib/lodash.js"></script>
-<script src="lib/jquery-1.7.min.js"></script>
-<script src="lib/underscore.js"></script>
-<script src="lib/underscore.math.js"></script>
-<script src="lib/d3.svg.multibrush.js"></script>
 <script src="lib/divgrid.js"></script>
 <script src="../d3.parcoords.js"></script>
-<script src="../d3.slider.js"></script>
+
 
 
 <style>
@@ -246,20 +241,10 @@ d3.csv('data/rsr2016.csv', function(data) {
      }
 		
 	var subData = filtered_dataset(chart1, chart2, data);
-/*
-	d3.select("#t1wins").text(subData[0].length);
-	d3.select("#t2wins").text(subData[1].length);
 
-  d3.select("#t1rankMedian").text(rank1Med); 
-  d3.select("#t2rankMedian").text(rank2Med);
-
-  d3.select("#t1count").text(data1.length);
-  d3.select("#t2count").text(data2.length);
-*/  
-  //experiment
-  var my_mini_table = [{"chart": "chart1","Team count": data1.length,
+  var my_mini_table = [{"Chart": "chart1","Team count": data1.length,
                         "Median Ranking" : rank1Med,"Wins": subData[0].length},
-                       {"chart": "chart2", "Team count": data2.length,
+                       {"Chart": "chart2", "Team count": data2.length,
                         "Median Ranking": rank2Med, "Wins": subData[1].length}];
 
   d3.select("#miniTable")
@@ -326,9 +311,7 @@ d3.csv('data/rsr2016.csv', function(data) {
 	function changeBundle1() {
 		pc1.bundleDimension(this.value);
 	}
-	var test_function = function(selection) {
-		return console.log(selection);
-	}
+	
 });
 
 </script>
