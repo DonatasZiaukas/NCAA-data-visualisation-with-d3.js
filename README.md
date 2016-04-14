@@ -11,6 +11,8 @@ Specific example:
 
 To illustrate the work of this project I put together a specific example. If one would filter chart 1 to include teams with turnover (TO) amount above average, personal fouls(PF) below average and placed them against teams from chart 2, with low turnover amount and high personal foul numbers, the result of the comparison would show chart 1 teams being superior. I found the outcome of this comparison rather surprising, as the winning pattern of teams with greater amount of turnovers and less personal fouls (chart 1) turned out to be significantly greater.
 
+###Resources
+
 ####Libraries used
 *d3.js*
 
@@ -18,7 +20,7 @@ To illustrate the work of this project I put together a specific example. If one
 
 *divgrid.js*
 
-###Data 
+####Data 
 
 *avg2016stats.csv* - avarege statistic by team.
 
