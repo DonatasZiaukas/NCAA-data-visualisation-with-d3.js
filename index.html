@@ -3,7 +3,7 @@
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
   <meta content="utf-8" http-equiv="encoding">
 </head>
-<title>Bundling Example</title>
+
 <link rel="stylesheet" type="text/css" href="lib/d3.parcoords.css">
 <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -16,18 +16,38 @@
 
 <style>
 /* data table styles */
-#grid { height: 198px; }
+#grid0 { height: 130px; width: 950px}
+#grid1 { height: 130px; width: 950px}
 .row, .header { clear: left; font-size: 12px; line-height: 18px; height: 18px; }
-.row:nth-child(odd) { background: rgba(0,0,0,0.05); }
-.row:nth-last-child(1) {padding-bottom: .9em; }
+#grid0 .header {background: rgba(0,0,128,0.25);}
+#grid1 .header {background: rgba(128,128,0,0.45);}
+.row:nth-child(odd) { background: rgba(128,128,0,0.05); }
+.row:nth-last-child(0) {padding-bottom: .9em; }
 .header { font-weight: bold; }
 .cell { float: left; overflow: hidden; white-space: nowrap; width: 50px; height: 18px; }
 .col-0 { width: 120px; }
 .col-1 { width: 100px; }
 
-.tbl .row { background: rgba(0,0,0,0.0);, clear: center; font-size: 14px; line-height: 20px; }
-.tbl .header { clear: center; font-size: 14px; line-height: 20px; }
-.tbl .col-2 { width: 120px;}
+#miniTable .row:nth-child(even) { background: rgba(0,0,128,0.25);, clear: center; font-size: 14px; line-height: 20px; }
+#miniTable .row:nth-child(odd) { background: rgba(128,128,0,0.45);, clear: center; font-size: 14px; line-height: 20px; }
+#miniTable .header { clear: center; font-size: 14px; line-height: 20px; margin-top: 10px;}
+#miniTable .col-2 { width: 120px;}
+
+#table1 .header {background: rgba(0,0,128,0.25);}
+#table2 .header {background: rgba(128,128,0,0.45);}
+
+.button {
+  background-color: #555555;
+  color: white;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: white;
+  color: black;
+}
 
 </style>
 
@@ -54,15 +74,15 @@
 <div id="grid1"></div>
 
 
-<p>Chart 1 vs. Chart 2<br/>
-  <button id="compare">Summarize</button>
-</p>
 
-<div id="miniTable" class="tbl"></div>
+<button id="compare" class="button">Chart 1 vs. Chart 2</button>
+
+
+<div id="miniTable" style="width:390px; margin-bottom: 25px;"></div>
 
 <div style="width: 100%; overflow: hidden">
-<div id="table1" style="width:40%; float: left;"></div>
-<div id="table2" style="float:left; width:40%;"></div>
+<div id="table1" style="width:380px; float: left; margin-right: 15px;"></div>
+<div id="table2" style="float:left; width:380px;"></div>
 </div>
 
 <div id="grid01"></div>
@@ -72,20 +92,28 @@
 <script>
 
 // quantitative color scale
+
 var blue_to_brown = d3.scale.linear()
   .domain([1, 351])
   .range(["steelblue", "brown"])
   .interpolate(d3.interpolateLab);
 
-var color = function(d) { return blue_to_brown(d['Ranking']); };
+var green_to_brown = d3.scale.linear()
+  .domain([1, 351])
+  .range(["#6B8E23", "brown"])
+  .interpolate(d3.interpolateLab);
+
+var color1 = function(d) { return blue_to_brown(d['Ranking']); };
+var color2 = function(d) { return green_to_brown(d['Ranking']); };
 
 var pc0;
+var pc1;
 
 d3.csv('data/avg2016stats.csv', function(data) {
 
 pc0 = d3.parcoords()("#example0")
-  .color(color)
-  .alpha(0.35)
+  .color(color1)
+  .alpha(0.25)
   .data(data)
 	.bundlingStrength(0.3) // set bundling strength
 	.smoothness(0.12)
@@ -98,8 +126,8 @@ pc0 = d3.parcoords()("#example0")
 	.interactive();
 
 pc1 = d3.parcoords()("#example1")
-  .color(color)
-  .alpha(0.35)
+  .color(color2)
+  .alpha(0.3)
   .data(data)
 	.bundlingStrength(0.3) // set bundling strength
 	.smoothness(0.12)
@@ -241,9 +269,9 @@ d3.csv('data/rsr2016.csv', function(data) {
 		
 	var subData = filtered_dataset(chart1, chart2, data);
 
-  var my_mini_table = [{"Chart": "chart1","Team count": data1.length,
+  var my_mini_table = [{"Chart": "Chart1","Team count": data1.length,
                         "Median Ranking" : rank1Med,"Wins": subData[0].length},
-                       {"Chart": "chart2", "Team count": data2.length,
+                       {"Chart": "Chart2", "Team count": data2.length,
                         "Median Ranking": rank2Med, "Wins": subData[1].length}];
 
   d3.select("#miniTable")
